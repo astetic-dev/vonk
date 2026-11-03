@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Vonk</title>
+  <meta name="description" content="Elke dag een stapel korte ideeën uit wetenschap, denken en geschiedenis.">
+  <meta name="theme-color" content="#14161c">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="kop">
+    <span class="logo">Vonk</span>
+    <span id="kop-info" class="kop-info"></span>
+  </header>
+
+  <main id="scherm" class="scherm"></main>
+
+  <nav class="tabs" role="tablist">
+    <button data-tab="vandaag" class="actief">Vandaag</button>
+    <button data-tab="archief">Archief</button>
+    <button data-tab="bewaard">Bewaard</button>
+    <button data-tab="instellingen">Instellingen</button>
+  </nav>
+
+  <div id="melding" class="melding" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>
