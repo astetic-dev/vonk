@@ -1,92 +1,408 @@
-{ "datum": "2026-11-04", "kaarten": [
-  { "id": "2026-11-04-01", "pijler": "wetenschap", "tags": ["malaria", "parasieten", "eiwitten", "microscopie"],
-    "titel": "Hoe de malariaparasiet een rode bloedcel binnenglipt",
-    "tekst": "Een rode bloedcel is ongeveer 8 micrometer breed, en de malariaparasiet Plasmodium heeft minder dan een minuut nodig om erin te komen. Hoe dat gaat, bleef lang onzichtbaar: de doorgang opent en sluit te snel.\n\nHet lab van Chi-Min Ho (Columbia University) bracht met cryo-elektronenmicroscopie de 'moving junction' in beeld, een ringvormige poort. Drie geïnjecteerde eiwitten vormen een dichte wig onder het membraan, een vierde verbindt die met de parasiet. Samen verdringen ze de vetmoleculen, zodat het membraan naar binnen buigt rond de indringer en zich daarna achter hem sluit. Een door AI ontworpen eiwit blokkeerde die poort al in de reageerbuis.",
-    "kern": "Wie precies weet hoe een indringer binnenkomt, weet ook waar de deur dicht kan.",
-    "bron": { "titel": "Malaria Parasite Caught in the Act of Breaking and Entering", "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-02", "pijler": "denken", "tags": ["besluitvorming", "planning", "cognitieve-bias"],
-    "titel": "De premortem: doe alsof het project al mislukt is",
-    "tekst": "Een gewone evaluatie vraagt wat er mis zou kunnen gaan. Een premortem draait dat om: het team neemt aan dat het project al is mislukt en vraagt wat er mis ging. Gary Klein beschreef de methode in 2007 in Harvard Business Review.\n\nOmdat het falen als gegeven geldt, gaat het gesprek over oorzaken in plaats van over de vraag of het misgaat. Dat helpt groepsdenken te doorbreken en bedreigingen boven tafel te krijgen. Daarna weegt het team per bedreiging hoe groot en hoe waarschijnlijk die is, en neemt het voorzorgen. Het idee bouwt voort op het oudere begrip 'prospective hindsight' en richt zich op overmoed en de planningsdrogreden.",
-    "kern": "Vraag niet of iets misgaat, maar waarom het mislukt is.",
-    "bron": { "titel": "Pre-mortem", "url": "https://en.wikipedia.org/wiki/Pre-mortem", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-03", "pijler": "geschiedenis", "tags": ["epidemiologie", "cholera", "datavisualisatie", "wetenschapsgeschiedenis"],
-    "titel": "Een pomphendel en een stippenkaart in Soho, 1854",
-    "tekst": "Op 31 augustus 1854 brak in Soho, Londen, cholera uit. In drie dagen stierven 127 mensen in en rond Broad Street; aan het eind waren het er 420. John Snow sprak met bewoners, geholpen door dominee Henry Whitehead, en zette de sterfgevallen als stippen op een kaart. Zo herleidde hij de uitbraak tot één openbare waterpomp.\n\nOpvallend: geen enkele arbeider van de brouwerij in de straat werd ziek. Zij kregen dagelijks bier in plaats van putwater, en bij het brouwen wordt water gekookt. Op 8 september ging de hendel van de pomp. Toch schreef de officiële onderzoekscommissie de epidemie nog toe aan 'kwade lucht', miasma.",
-    "kern": "Een groep die tegen de verwachting in gezond blijft, kan de sterkste aanwijzing zijn.",
-    "bron": { "titel": "1854 Broad Street cholera outbreak", "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-04", "pijler": "wetenschap", "tags": ["biologie", "materialen", "eiwitten"],
-    "titel": "Spinnenzijde ontstaat via druppeltjes gel",
-    "tekst": "Spinnen maken bij kamertemperatuur een draad die taaier is dan Kevlar, terwijl Kevlar hoge hitte en zure bewerking nodig heeft. Hoe doen ze dat?\n\nOnderzoekers rond chemicus Gregory Holland (San Diego State University) volgden bij zwarte weduwen hoe de vloeibare 'silk dope' vast wordt. Eerst vormt de vloeistof condensaten: dichte, gelachtige druppels. Fosfaat zet dat in gang. Zijgroepen van de aminozuren arginine en tyrosine trekken zwak aan elkaar en drijven water weg, waardoor de eiwitten samenklonteren. Diezelfde 'moleculaire plakkers' blijven in de vaste draad aanwezig. Nagemaakte zijde met dezelfde aminozuurvolgorde is nog altijd zwakker dan het echte werk.",
-    "kern": "Sterk materiaal komt niet alleen uit de bouwstenen, maar ook uit de route waarlangs ze samenkomen.",
-    "bron": { "titel": "How Spiders Spin 'Silk Dope' Into Nature's Toughest Material", "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-05", "pijler": "denken", "tags": ["denkmodellen", "meten", "prikkels"],
-    "titel": "Wanneer een maatstaf een doel wordt",
-    "tekst": "In 1975 schreef Charles Goodhart, in een stuk over het Britse monetaire beleid, dat elke waargenomen statistische regelmaat de neiging heeft in te storten zodra er druk op wordt gezet om te sturen. Marilyn Strathern maakte er in 1997 de bekende versie van: 'Wanneer een maatstaf een doel wordt, is het geen goede maatstaf meer.'\n\nWie op een getal wordt afgerekend, gaat sturen op het getal in plaats van op wat het moest meten. Ziekenhuizen die de opnameduur moeten verkorten, kunnen patiënten te vroeg naar huis sturen. Bij het cobra-effect belonen prikkels mensen zelfs voor het verergeren van het probleem dat ze moesten oplossen.",
-    "kern": "Een getal meet alleen goed zolang niemand erop wordt afgerekend.",
-    "bron": { "titel": "Goodhart's law", "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-06", "pijler": "geschiedenis", "tags": ["oude-technologie", "astronomie", "oude-grieken"],
-    "titel": "Het Antikythera-mechanisme: tandwielen uit de oudheid",
-    "tekst": "Sponsduikers vonden in 1900 een scheepswrak bij het Griekse eiland Antikythera. In 1902 zag Valerios Stais in een van de geborgen brokstukken een tandwiel zitten. Het apparaat is vermoedelijk in de 2e eeuw voor Christus gebouwd.\n\nCT-scans wijzen op 35 in elkaar grijpende bronzen tandwielen; het grootste heeft 223 tanden. Daarmee volgde het de stand van zon en maan in de dierenriem, de maanfasen, verduisteringen en zelfs de cyclus van spelen zoals de Olympiade. Machines van vergelijkbare complexiteit doken in West-Europa pas in de 14e eeuw weer op, als astronomische klokken.",
-    "kern": "Technische vooruitgang loopt niet rechtdoor: zulke ingewikkelde machines verschenen pas eeuwen later opnieuw.",
-    "bron": { "titel": "Antikythera mechanism", "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-07", "pijler": "wetenschap", "tags": ["kunstmatige-intelligentie", "meten"],
-    "titel": "Waarom AI-scores minder zeggen dan ze lijken",
-    "tekst": "'Als je 90 procent nauwkeurigheid haalt op de ene dataset en 73 procent op een andere, welke is het dan?' Moritz Hardt, directeur bij het Max Planck Institute for Intelligent Systems, noemt het systeem van AI-benchmarks kapot.\n\nTestsets waren bedoeld om achter slot te blijven, maar worden gepubliceerd en steeds opnieuw gebruikt. Omdat de trainingsdata van taalmodellen niet openbaar is, kunnen makers hun data afstemmen op bekende tests. Nieuwe modellen scoren daardoor vaak sterk op oudere benchmarks en veel zwakker op tests die kort daarna verschenen. Hardt pleit ervoor naar rangordes te kijken, niet naar absolute getallen.",
-    "kern": "Een score zegt pas iets als duidelijk is waarop vooraf is geoefend.",
-    "bron": { "titel": "He Wants AI Benchmarking To Be a Science, Not a Dark Art", "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-08", "pijler": "denken", "tags": ["cognitieve-bias", "statistiek"],
-    "titel": "Kijk naar de vliegtuigen die niet terugkwamen",
-    "tekst": "In de Tweede Wereldoorlog beschreef statisticus Abraham Wald, lid van de Statistical Research Group aan Columbia University, hoe de kwetsbaarheid van vliegtuigonderdelen te schatten is uit de schade aan toestellen die terugkeerden.\n\nDe valkuil zit in wie er in de data ontbreekt. De treffers op teruggekeerde toestellen zijn treffers die ze overleefden. Wie alleen daar extra pantser aanbrengt, vergeet de vraag waar de neergestorte toestellen dodelijk werden geraakt. Wald stelde voor zijn conclusies te gebruiken als leidraad voor de plaatsing van bepantsering. Zijn werk geldt als baanbrekend voor de toen jonge operationele research.",
-    "kern": "De gevallen die ontbreken vertellen soms meer dan de gevallen die zichtbaar zijn.",
-    "bron": { "titel": "Survivorship bias", "url": "https://en.wikipedia.org/wiki/Survivorship_bias", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-09", "pijler": "geschiedenis", "tags": ["japan", "architectuur", "traditie"],
-    "titel": "Een heiligdom dat elke twintig jaar opnieuw wordt gebouwd",
-    "tekst": "Het Grote Heiligdom van Ise in Japan wordt elke twintig jaar afgebroken en op een naastgelegen terrein opnieuw opgebouwd. De gebouwen uit 2013 zijn de 62e versie; de volgende herbouw staat gepland voor 2033. De eerste ceremoniële herbouw liet keizerin Jitō in 692 uitvoeren.\n\nHet oorspronkelijke doel is onbekend. Het wordt verbonden met het shinto-begrip tokowaka: dingen vernieuwen om eeuwigheid na te streven. Een gevolg is dat de bouwtechnieken telkens van de ene generatie op de volgende overgaan. Het hout voor een nieuwe herbouw ligt eerst jaren in een vijver voordat het gedroogd en gebruikt wordt.",
-    "kern": "Iets kan eeuwen meegaan juist doordat het steeds opnieuw gemaakt wordt.",
-    "bron": { "titel": "Ise Grand Shrine", "url": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": true },
-  { "id": "2026-11-04-10", "pijler": "wetenschap", "tags": ["biologie", "netwerken", "algoritmen"],
-    "titel": "Een slijmzwam die het spoornet van Tokio nabouwt",
-    "tekst": "Onderzoekers legden havervlokken neer op de plekken van Tokio en 36 omliggende plaatsen, en lieten de slijmzwam Physarum polycephalum zijn gang gaan. Het resultaat, in 2010 gepubliceerd in Science: een netwerk dat leek op het bestaande treinnet, met vergelijkbare efficiëntie, fouttolerantie en kosten.\n\nTien jaar eerder had een Japans-Hongaars team al laten zien dat het organisme een doolhof kan oplossen. Met voedsel op twee plekken trekt het zich overal in het doolhof terug, behalve uit de kortste route tussen beide voedselbronnen.",
-    "kern": "Een efficiënt netwerk kan ontstaan door overbodige routes los te laten.",
-    "bron": { "titel": "Physarum polycephalum", "url": "https://en.wikipedia.org/wiki/Physarum_polycephalum", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-11", "pijler": "denken", "tags": ["besluitvorming", "wiskunde", "democratie"],
-    "titel": "De stemparadox van Condorcet heeft een vorm",
-    "tekst": "In 1785 ontdekte Nicolas de Condorcet dat meerderheden in een kringetje kunnen draaien. Elke kiezer rangschikt drie kandidaten consequent, maar in onderlinge duels verliest toch elke kandidaat van een rivaal. Kenneth Arrow bewees in 1951 dat geen rangschikkingsmethode al zijn redelijke eisen tegelijk haalt.\n\nIn een recent preprint gaven Ori Livson, Mikhail Prokopenko en Siddharth Pritam de paradox een vorm: een Klein-fles, een oppervlak met één kant en geen rand. Elk stukje lijkt twee kanten te hebben, maar over het geheel zijn die niet consequent te onderscheiden. Zo zijn losse stembiljetten samenhangend, terwijl de groep geen samenhangende rangorde heeft.",
-    "kern": "Wiskunde toont welke afwegingen bestaan, maar de keuze tussen stemsystemen blijft een kwestie van waarden.",
-    "bron": { "titel": "How Voting Is Like a Klein Bottle", "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": true },
-  { "id": "2026-11-04-12", "pijler": "geschiedenis", "tags": ["navigatie", "uitvinders", "klokken"],
-    "titel": "Hoe een klok het lengtegraadprobleem oploste",
-    "tekst": "Zeelieden konden lang hun oost-westpositie niet betrouwbaar bepalen, en fouten in het gegist bestek leidden tot schipbreuken. Het Britse parlement loofde in 1714 beloningen tot 20.000 pond uit voor een oplossing.\n\nDe Engelse schrijnwerker en klokkenmaker John Harrison zocht het in tijd: een klok die de tijd van een referentieplaats als Greenwich nauwkeurig vasthoudt, zodat een navigator die kan vergelijken met de lokale tijd. Zijn zeehorloge H4 vertrok in november 1761 naar Jamaica en liep bij aankomst slechts 5 seconden achter, ongeveer één zeemijl fout. De Board of Longitude vermoedde geluk en eiste een nieuwe proef.",
-    "kern": "Een navigatieprobleem bleek een tijdprobleem: wie de tijd thuis kent, kent zijn lengtegraad.",
-    "bron": { "titel": "John Harrison", "url": "https://en.wikipedia.org/wiki/John_Harrison", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-13", "pijler": "wetenschap", "tags": ["natuurkunde", "kernfusie", "energie"],
-    "titel": "Koude fusie faalde, maar de oorspronkelijke koude fusie leeft",
-    "tekst": "In maart 1989 claimden twee chemici op een persconferentie dat een eenvoudig tafelexperiment meer energie gaf dan chemie kon verklaren: kernfusie. Andere labs konden het niet herhalen en binnen enkele maanden viel de claim om.\n\nGeorge Musser wijst op de oorspronkelijke betekenis van 'koude fusie': fusie met hulp van muonen. Een muon is zo'n 207 keer zwaarder dan een elektron, dus muonische atomen kunnen tot 207 keer kleiner zijn, en twee waterstofkernen kunnen dan bij kamertemperatuur fuseren. De meeste natuurkundigen betwijfelen of dat ooit netto energie oplevert, maar het onderzoek leert veel over atoom- en kernfysica.",
-    "kern": "Een onderzoekslijn is pas sterk als hij interessant blijft wanneer de hoofdclaim tegenvalt.",
-    "bron": { "titel": "Is There Anything Left in the Dream of Cold Fusion?", "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-14", "pijler": "denken", "tags": ["denkmodellen", "verandering", "systeemdenken"],
-    "titel": "Het hek van Chesterton: eerst weten waarom het er staat",
-    "tekst": "Haal een hek niet weg voordat je weet waarom het er ooit is neergezet. Zo luidt de korte versie van een gelijkenis van G.K. Chesterton.\n\nHet is geen pleidooi voor stilstand, maar voor begrip vóór verandering. Regels, normen en zelfs schijnbare inefficiënties zijn meestal ontstaan om een doel te dienen. Wie een bedrijf zonder hiërarchie inricht, ziet over het hoofd dat iemand moet beslissen en verantwoordelijk moet zijn; dan kan een informele hiërarchie ontstaan waarin de meest dominante persoon wint. Wie een slechte gewoonte schrapt zonder de onderliggende behoefte te zien, krijgt er vaak een andere voor terug.",
-    "kern": "Begrijp eerst welk probleem iets oplost, voordat het verdwijnt.",
-    "bron": { "titel": "Chesterton's Fence: A Lesson in Thinking", "url": "https://fs.blog/chestertons-fence/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false },
-  { "id": "2026-11-04-15", "pijler": "geschiedenis", "tags": ["stoicisme", "filosofie", "oude-grieken"],
-    "titel": "Epictetus: alleen je eigen keuze is echt van jou",
-    "tekst": "Epictetus werd in de jaren 50 na Christus geboren in Hierapolis en was een deel van zijn leven slaaf van Epaphroditus, een functionaris aan het hof van Nero. Later stichtte hij een school in Nicopolis. Zijn lessen kennen we via de Discourses, opgetekend door Arrianus.\n\nZijn kernidee: alleen de prohairesis, het vermogen om te kiezen, is echt van jezelf. Lichaam, bezit, reputatie en relaties zijn 'extern'. Die hebben geen waarde op zichzelf, maar het gebruik ervan wel: 'Het materiaal van het handelen is onverschillig, het gebruik dat we ervan maken niet.' Zorgvuldig handelen en kalm blijven over de uitkomst gaan zo samen.",
-    "kern": "Zorg goed voor wat je doet, en laat de afloop los die je niet bepaalt.",
-    "bron": { "titel": "Epictetus", "url": "https://plato.stanford.edu/entries/epictetus/", "soort": "artikel", "gelezen": true },
-    "leesmin": 2, "verkenning": false }
-] }
+{
+  "datum": "2026-11-04",
+  "kaarten": [
+    {
+      "id": "2026-11-04-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "malaria",
+        "parasieten",
+        "eiwitten",
+        "microscopie"
+      ],
+      "titel": "Hoe de malariaparasiet een rode bloedcel binnenglipt",
+      "tekst": "Een rode bloedcel is ongeveer 8 micrometer breed, en de malariaparasiet Plasmodium heeft minder dan een minuut nodig om erin te komen. Hoe dat gaat, bleef lang onzichtbaar: de doorgang opent en sluit te snel.\n\nHet lab van Chi-Min Ho (Columbia University) bracht met cryo-elektronenmicroscopie de 'moving junction' in beeld, een ringvormige poort. Drie geïnjecteerde eiwitten vormen een dichte wig onder het membraan, een vierde verbindt die met de parasiet. Samen verdringen ze de vetmoleculen, zodat het membraan naar binnen buigt rond de indringer en zich daarna achter hem sluit. Een door AI ontworpen eiwit blokkeerde die poort al in de reageerbuis.",
+      "kern": "Wie precies weet hoe een indringer binnenkomt, weet ook waar de deur dicht kan.",
+      "bron": {
+        "titel": "Malaria Parasite Caught in the Act of Breaking and Entering",
+        "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Plasmodium red blood cell micrograph",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Red_blood_cells_infected_with_malaria.jpg/1280px-Red_blood_cells_infected_with_malaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Rick Fairhurst and Jordan Zuspann, National Institute of Al… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Red_blood_cells_infected_with_malaria.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-02",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "planning",
+        "cognitieve-bias"
+      ],
+      "titel": "De premortem: doe alsof het project al mislukt is",
+      "tekst": "Een gewone evaluatie vraagt wat er mis zou kunnen gaan. Een premortem draait dat om: het team neemt aan dat het project al is mislukt en vraagt wat er mis ging. Gary Klein beschreef de methode in 2007 in Harvard Business Review.\n\nOmdat het falen als gegeven geldt, gaat het gesprek over oorzaken in plaats van over de vraag of het misgaat. Dat helpt groepsdenken te doorbreken en bedreigingen boven tafel te krijgen. Daarna weegt het team per bedreiging hoe groot en hoe waarschijnlijk die is, en neemt het voorzorgen. Het idee bouwt voort op het oudere begrip 'prospective hindsight' en richt zich op overmoed en de planningsdrogreden.",
+      "kern": "Vraag niet of iets misgaat, maar waarom het mislukt is.",
+      "bron": {
+        "titel": "Pre-mortem",
+        "url": "https://en.wikipedia.org/wiki/Pre-mortem",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "project team planning meeting whiteboard",
+      "beeldWiki": "Gary A. Klein",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-04-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "epidemiologie",
+        "cholera",
+        "datavisualisatie",
+        "wetenschapsgeschiedenis"
+      ],
+      "titel": "Een pomphendel en een stippenkaart in Soho, 1854",
+      "tekst": "Op 31 augustus 1854 brak in Soho, Londen, cholera uit. In drie dagen stierven 127 mensen in en rond Broad Street; aan het eind waren het er 420. John Snow sprak met bewoners, geholpen door dominee Henry Whitehead, en zette de sterfgevallen als stippen op een kaart. Zo herleidde hij de uitbraak tot één openbare waterpomp.\n\nOpvallend: geen enkele arbeider van de brouwerij in de straat werd ziek. Zij kregen dagelijks bier in plaats van putwater, en bij het brouwen wordt water gekookt. Op 8 september ging de hendel van de pomp. Toch schreef de officiële onderzoekscommissie de epidemie nog toe aan 'kwade lucht', miasma.",
+      "kern": "Een groep die tegen de verwachting in gezond blijft, kan de sterkste aanwijzing zijn.",
+      "bron": {
+        "titel": "1854 Broad Street cholera outbreak",
+        "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "John Snow cholera map",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/1280px-Snow-cholera-map-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "John Snow · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "materialen",
+        "eiwitten"
+      ],
+      "titel": "Spinnenzijde ontstaat via druppeltjes gel",
+      "tekst": "Spinnen maken bij kamertemperatuur een draad die taaier is dan Kevlar, terwijl Kevlar hoge hitte en zure bewerking nodig heeft. Hoe doen ze dat?\n\nOnderzoekers rond chemicus Gregory Holland (San Diego State University) volgden bij zwarte weduwen hoe de vloeibare 'silk dope' vast wordt. Eerst vormt de vloeistof condensaten: dichte, gelachtige druppels. Fosfaat zet dat in gang. Zijgroepen van de aminozuren arginine en tyrosine trekken zwak aan elkaar en drijven water weg, waardoor de eiwitten samenklonteren. Diezelfde 'moleculaire plakkers' blijven in de vaste draad aanwezig. Nagemaakte zijde met dezelfde aminozuurvolgorde is nog altijd zwakker dan het echte werk.",
+      "kern": "Sterk materiaal komt niet alleen uit de bouwstenen, maar ook uit de route waarlangs ze samenkomen.",
+      "bron": {
+        "titel": "How Spiders Spin 'Silk Dope' Into Nature's Toughest Material",
+        "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "spider web dew",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Spider_web_Luc_Viatour.jpg/1280px-Spider_web_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Luc Viatour · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Spider_web_Luc_Viatour.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-05",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "meten",
+        "prikkels"
+      ],
+      "titel": "Wanneer een maatstaf een doel wordt",
+      "tekst": "In 1975 schreef Charles Goodhart, in een stuk over het Britse monetaire beleid, dat elke waargenomen statistische regelmaat de neiging heeft in te storten zodra er druk op wordt gezet om te sturen. Marilyn Strathern maakte er in 1997 de bekende versie van: 'Wanneer een maatstaf een doel wordt, is het geen goede maatstaf meer.'\n\nWie op een getal wordt afgerekend, gaat sturen op het getal in plaats van op wat het moest meten. Ziekenhuizen die de opnameduur moeten verkorten, kunnen patiënten te vroeg naar huis sturen. Bij het cobra-effect belonen prikkels mensen zelfs voor het verergeren van het probleem dat ze moesten oplossen.",
+      "kern": "Een getal meet alleen goed zolang niemand erop wordt afgerekend.",
+      "bron": {
+        "titel": "Goodhart's law",
+        "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "speedometer dashboard gauge",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Instrument_Cluster_and_Dashboard_of_Honda_Fit_2009.jpg/1280px-Instrument_Cluster_and_Dashboard_of_Honda_Fit_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Atharv Chandel · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Instrument_Cluster_and_Dashboard_of_Honda_Fit_2009.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oude-technologie",
+        "astronomie",
+        "oude-grieken"
+      ],
+      "titel": "Het Antikythera-mechanisme: tandwielen uit de oudheid",
+      "tekst": "Sponsduikers vonden in 1900 een scheepswrak bij het Griekse eiland Antikythera. In 1902 zag Valerios Stais in een van de geborgen brokstukken een tandwiel zitten. Het apparaat is vermoedelijk in de 2e eeuw voor Christus gebouwd.\n\nCT-scans wijzen op 35 in elkaar grijpende bronzen tandwielen; het grootste heeft 223 tanden. Daarmee volgde het de stand van zon en maan in de dierenriem, de maanfasen, verduisteringen en zelfs de cyclus van spelen zoals de Olympiade. Machines van vergelijkbare complexiteit doken in West-Europa pas in de 14e eeuw weer op, als astronomische klokken.",
+      "kern": "Technische vooruitgang loopt niet rechtdoor: zulke ingewikkelde machines verschenen pas eeuwen later opnieuw.",
+      "bron": {
+        "titel": "Antikythera mechanism",
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Antikythera mechanism fragment",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Antikythera_Fragment_20_%28Front%29.webp/1280px-Antikythera_Fragment_20_%28Front%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Logg Tandy · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_20_(Front).webp"
+      }
+    },
+    {
+      "id": "2026-11-04-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "meten"
+      ],
+      "titel": "Waarom AI-scores minder zeggen dan ze lijken",
+      "tekst": "'Als je 90 procent nauwkeurigheid haalt op de ene dataset en 73 procent op een andere, welke is het dan?' Moritz Hardt, directeur bij het Max Planck Institute for Intelligent Systems, noemt het systeem van AI-benchmarks kapot.\n\nTestsets waren bedoeld om achter slot te blijven, maar worden gepubliceerd en steeds opnieuw gebruikt. Omdat de trainingsdata van taalmodellen niet openbaar is, kunnen makers hun data afstemmen op bekende tests. Nieuwe modellen scoren daardoor vaak sterk op oudere benchmarks en veel zwakker op tests die kort daarna verschenen. Hardt pleit ervoor naar rangordes te kijken, niet naar absolute getallen.",
+      "kern": "Een score zegt pas iets als duidelijk is waarop vooraf is geoefend.",
+      "bron": {
+        "titel": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+        "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "computer chip circuit macro",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Circuit_Board_%28260854457%29.jpeg/1280px-Circuit_Board_%28260854457%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Tobias Hanf · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Circuit_Board_(260854457).jpeg"
+      }
+    },
+    {
+      "id": "2026-11-04-08",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "statistiek"
+      ],
+      "titel": "Kijk naar de vliegtuigen die niet terugkwamen",
+      "tekst": "In de Tweede Wereldoorlog beschreef statisticus Abraham Wald, lid van de Statistical Research Group aan Columbia University, hoe de kwetsbaarheid van vliegtuigonderdelen te schatten is uit de schade aan toestellen die terugkeerden.\n\nDe valkuil zit in wie er in de data ontbreekt. De treffers op teruggekeerde toestellen zijn treffers die ze overleefden. Wie alleen daar extra pantser aanbrengt, vergeet de vraag waar de neergestorte toestellen dodelijk werden geraakt. Wald stelde voor zijn conclusies te gebruiken als leidraad voor de plaatsing van bepantsering. Zijn werk geldt als baanbrekend voor de toen jonge operationele research.",
+      "kern": "De gevallen die ontbreken vertellen soms meer dan de gevallen die zichtbaar zijn.",
+      "bron": {
+        "titel": "Survivorship bias",
+        "url": "https://en.wikipedia.org/wiki/Survivorship_bias",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Survivorship bias airplane",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/1280px-Survivorship-bias.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Martin Grandjean (vector), McGeddon (picture), US Air Force… · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Survivorship-bias.svg"
+      }
+    },
+    {
+      "id": "2026-11-04-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "japan",
+        "architectuur",
+        "traditie"
+      ],
+      "titel": "Een heiligdom dat elke twintig jaar opnieuw wordt gebouwd",
+      "tekst": "Het Grote Heiligdom van Ise in Japan wordt elke twintig jaar afgebroken en op een naastgelegen terrein opnieuw opgebouwd. De gebouwen uit 2013 zijn de 62e versie; de volgende herbouw staat gepland voor 2033. De eerste ceremoniële herbouw liet keizerin Jitō in 692 uitvoeren.\n\nHet oorspronkelijke doel is onbekend. Het wordt verbonden met het shinto-begrip tokowaka: dingen vernieuwen om eeuwigheid na te streven. Een gevolg is dat de bouwtechnieken telkens van de ene generatie op de volgende overgaan. Het hout voor een nieuwe herbouw ligt eerst jaren in een vijver voordat het gedroogd en gebruikt wordt.",
+      "kern": "Iets kan eeuwen meegaan juist doordat het steeds opnieuw gemaakt wordt.",
+      "bron": {
+        "titel": "Ise Grand Shrine",
+        "url": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "Ise Grand Shrine Naiku",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ise_grand_shrine_Naiku_%2C_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio_%2816%29.jpg/1280px-Ise_grand_shrine_Naiku_%2C_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "z tanuki · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ise_grand_shrine_Naiku_,_%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE_%E5%86%85%E5%AE%AE_-_panoramio_(16).jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "netwerken",
+        "algoritmen"
+      ],
+      "titel": "Een slijmzwam die het spoornet van Tokio nabouwt",
+      "tekst": "Onderzoekers legden havervlokken neer op de plekken van Tokio en 36 omliggende plaatsen, en lieten de slijmzwam Physarum polycephalum zijn gang gaan. Het resultaat, in 2010 gepubliceerd in Science: een netwerk dat leek op het bestaande treinnet, met vergelijkbare efficiëntie, fouttolerantie en kosten.\n\nTien jaar eerder had een Japans-Hongaars team al laten zien dat het organisme een doolhof kan oplossen. Met voedsel op twee plekken trekt het zich overal in het doolhof terug, behalve uit de kortste route tussen beide voedselbronnen.",
+      "kern": "Een efficiënt netwerk kan ontstaan door overbodige routes los te laten.",
+      "bron": {
+        "titel": "Physarum polycephalum",
+        "url": "https://en.wikipedia.org/wiki/Physarum_polycephalum",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Physarum polycephalum",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Physarum_polycephalum.jpg/1280px-Physarum_polycephalum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "HelenGinger · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Physarum_polycephalum.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-11",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "wiskunde",
+        "democratie"
+      ],
+      "titel": "De stemparadox van Condorcet heeft een vorm",
+      "tekst": "In 1785 ontdekte Nicolas de Condorcet dat meerderheden in een kringetje kunnen draaien. Elke kiezer rangschikt drie kandidaten consequent, maar in onderlinge duels verliest toch elke kandidaat van een rivaal. Kenneth Arrow bewees in 1951 dat geen rangschikkingsmethode al zijn redelijke eisen tegelijk haalt.\n\nIn een recent preprint gaven Ori Livson, Mikhail Prokopenko en Siddharth Pritam de paradox een vorm: een Klein-fles, een oppervlak met één kant en geen rand. Elk stukje lijkt twee kanten te hebben, maar over het geheel zijn die niet consequent te onderscheiden. Zo zijn losse stembiljetten samenhangend, terwijl de groep geen samenhangende rangorde heeft.",
+      "kern": "Wiskunde toont welke afwegingen bestaan, maar de keuze tussen stemsystemen blijft een kwestie van waarden.",
+      "bron": {
+        "titel": "How Voting Is Like a Klein Bottle",
+        "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "Klein bottle glass",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Klein_bottle_glass2.jpg/1280px-Klein_bottle_glass2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "PaulT (Gunther Tschuch) · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Klein_bottle_glass2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "navigatie",
+        "uitvinders",
+        "klokken"
+      ],
+      "titel": "Hoe een klok het lengtegraadprobleem oploste",
+      "tekst": "Zeelieden konden lang hun oost-westpositie niet betrouwbaar bepalen, en fouten in het gegist bestek leidden tot schipbreuken. Het Britse parlement loofde in 1714 beloningen tot 20.000 pond uit voor een oplossing.\n\nDe Engelse schrijnwerker en klokkenmaker John Harrison zocht het in tijd: een klok die de tijd van een referentieplaats als Greenwich nauwkeurig vasthoudt, zodat een navigator die kan vergelijken met de lokale tijd. Zijn zeehorloge H4 vertrok in november 1761 naar Jamaica en liep bij aankomst slechts 5 seconden achter, ongeveer één zeemijl fout. De Board of Longitude vermoedde geluk en eiste een nieuwe proef.",
+      "kern": "Een navigatieprobleem bleek een tijdprobleem: wie de tijd thuis kent, kent zijn lengtegraad.",
+      "bron": {
+        "titel": "John Harrison",
+        "url": "https://en.wikipedia.org/wiki/John_Harrison",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Harrison H4 marine chronometer",
+      "beeldWiki": "H4 (watch)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Harrison_%28Gem%C3%A4lde%29.jpg/1280px-John_Harrison_%28Gem%C3%A4lde%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Thomas King († circa 1796) · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:John_Harrison_(Gem%C3%A4lde).jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "kernfusie",
+        "energie"
+      ],
+      "titel": "Koude fusie faalde, maar de oorspronkelijke koude fusie leeft",
+      "tekst": "In maart 1989 claimden twee chemici op een persconferentie dat een eenvoudig tafelexperiment meer energie gaf dan chemie kon verklaren: kernfusie. Andere labs konden het niet herhalen en binnen enkele maanden viel de claim om.\n\nGeorge Musser wijst op de oorspronkelijke betekenis van 'koude fusie': fusie met hulp van muonen. Een muon is zo'n 207 keer zwaarder dan een elektron, dus muonische atomen kunnen tot 207 keer kleiner zijn, en twee waterstofkernen kunnen dan bij kamertemperatuur fuseren. De meeste natuurkundigen betwijfelen of dat ooit netto energie oplevert, maar het onderzoek leert veel over atoom- en kernfysica.",
+      "kern": "Een onderzoekslijn is pas sterk als hij interessant blijft wanneer de hoofdclaim tegenvalt.",
+      "bron": {
+        "titel": "Is There Anything Left in the Dream of Cold Fusion?",
+        "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "muon catalyzed fusion",
+      "beeld": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fussion-cr.Oleg-Borodin-Social.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: quantamagazine.org",
+        "pagina": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/"
+      }
+    },
+    {
+      "id": "2026-11-04-14",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "verandering",
+        "systeemdenken"
+      ],
+      "titel": "Het hek van Chesterton: eerst weten waarom het er staat",
+      "tekst": "Haal een hek niet weg voordat je weet waarom het er ooit is neergezet. Zo luidt de korte versie van een gelijkenis van G.K. Chesterton.\n\nHet is geen pleidooi voor stilstand, maar voor begrip vóór verandering. Regels, normen en zelfs schijnbare inefficiënties zijn meestal ontstaan om een doel te dienen. Wie een bedrijf zonder hiërarchie inricht, ziet over het hoofd dat iemand moet beslissen en verantwoordelijk moet zijn; dan kan een informele hiërarchie ontstaan waarin de meest dominante persoon wint. Wie een slechte gewoonte schrapt zonder de onderliggende behoefte te zien, krijgt er vaak een andere voor terug.",
+      "kern": "Begrijp eerst welk probleem iets oplost, voordat het verdwijnt.",
+      "bron": {
+        "titel": "Chesterton's Fence: A Lesson in Thinking",
+        "url": "https://fs.blog/chestertons-fence/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "wooden fence gate countryside",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Churchyard_gate_to_All_Saints_Church%2C_Berners_Roding%2C_Essex%2C_England_01.jpg/1280px-Churchyard_gate_to_All_Saints_Church%2C_Berners_Roding%2C_Essex%2C_England_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Acabashi · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Churchyard_gate_to_All_Saints_Church,_Berners_Roding,_Essex,_England_01.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "stoicisme",
+        "filosofie",
+        "oude-grieken"
+      ],
+      "titel": "Epictetus: alleen je eigen keuze is echt van jou",
+      "tekst": "Epictetus werd in de jaren 50 na Christus geboren in Hierapolis en was een deel van zijn leven slaaf van Epaphroditus, een functionaris aan het hof van Nero. Later stichtte hij een school in Nicopolis. Zijn lessen kennen we via de Discourses, opgetekend door Arrianus.\n\nZijn kernidee: alleen de prohairesis, het vermogen om te kiezen, is echt van jezelf. Lichaam, bezit, reputatie en relaties zijn 'extern'. Die hebben geen waarde op zichzelf, maar het gebruik ervan wel: 'Het materiaal van het handelen is onverschillig, het gebruik dat we ervan maken niet.' Zorgvuldig handelen en kalm blijven over de uitkomst gaan zo samen.",
+      "kern": "Zorg goed voor wat je doet, en laat de afloop los die je niet bepaalt.",
+      "bron": {
+        "titel": "Epictetus",
+        "url": "https://plato.stanford.edu/entries/epictetus/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Epictetus",
+      "beeldWiki": "Epictetus",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/1280px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "William Sonmans / Michael Burghers · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg"
+      }
+    }
+  ]
+}

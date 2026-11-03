@@ -31,7 +31,7 @@ const normUrl = u => String(u || '').replace(/^https?:\/\/(www\.)?/, '').replace
 const oudeTitels = new Set(gezien.items.filter(i => i.datum !== datum).map(i => norm(i.titel)));
 const oudeUrls = new Set(gezien.items.filter(i => i.datum !== datum).map(i => normUrl(i.url)));
 
-const ids = new Set(), urls = new Set(), titels = new Set(), domeinen = {};
+const ids = new Set(), urls = new Set(), titels = new Set(), domeinen = {}, beeldloos = [];
 const telling = {};
 (feed.kaarten || []).forEach((k, i) => {
   const w = k.id || `kaart[${i}]`;
@@ -64,11 +64,18 @@ const telling = {};
     if (urls.has(nu)) fout(w, 'zelfde bron-URL twee keer vandaag'); urls.add(nu);
     if (oudeUrls.has(nu)) fout(w, 'bron-URL al eerder gebruikt (gezien.json)');
   }
+  if (k.beeld != null) {
+    const bb = k.beeld;
+    if (!/^https:\/\//.test(bb.url || '')) fout(w, 'beeld.url moet https zijn');
+    if (!['commons', 'bron'].includes(bb.soort)) fout(w, `beeld.soort "${bb.soort}" onbekend (commons/bron)`);
+    if (!bb.credit) fout(w, 'beeld.credit ontbreekt - elke afbeelding krijgt een naamsvermelding');
+  } else if (!k.geenBeeld) beeldloos.push(k.id);
   const nt = norm(k.titel);
   if (titels.has(nt)) fout(w, 'dubbele titel'); titels.add(nt);
   if (oudeTitels.has(nt)) fout(w, 'titel al eerder gebruikt (gezien.json)');
 });
 
+if (beeldloos.length) console.warn('waarschuwing: geen beeld bij ' + beeldloos.join(', ') + ' - draai tools/beelden.mjs, of zet geenBeeld: true');
 for (const [d, n] of Object.entries(domeinen)) if (n > 4) fout('', `${n} kaarten van ${d} - hooguit 4 per domein (streef naar 3)`);
 
 if (metUrls) {

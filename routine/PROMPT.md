@@ -48,8 +48,14 @@ Schrijf `feed/DATUM.json`:
     "tekst": "35-110 woorden. Eén idee. Eén of twee alinea's, gescheiden door \n\n.",
     "kern": "Eén zin om te onthouden (4-25 woorden).",
     "bron": { "titel": "Originele titel van de bron", "url": "https://...", "soort": "artikel|paper|boek|video|podcast", "gelezen": true },
-    "leesmin": 2, "verkenning": false } ] }
+    "leesmin": 2, "verkenning": false,
+    "beeldWiki": "Engelse Wikipedia-artikeltitel waarvan de hoofdafbeelding past (optioneel)",
+    "beeldZoek": "2-5 Engelse woorden voor Wikimedia Commons (optioneel)" } ] }
 ```
+Beeld-hints (het script `tools/beelden.mjs` zoekt de afbeelding er later bij; jij schrijft geen `beeld`-veld zelf):
+- `beeldWiki` werkt het best bij een persoon, plaats, object, organisme of gebeurtenis: `"Epictetus"`, `"Antikythera mechanism"`, `"Physarum polycephalum"`. Neem het artikel waarvan de **hoofdfoto** het onderwerp laat zien.
+- `beeldZoek` is voor iets concreets zonder eigen artikel: `"spider web dew"`, `"Klein bottle glass"`. Wees letterlijk en visueel. Gebruik geen abstracte woorden, en ook geen namen die ook iets anders kunnen zijn (bij "Epictetus" vond Commons een vlinder).
+- Abstract idee zonder zinnig beeld? Geef dan geen hints. Het script probeert de bron zelf, en anders toont de app een kleurvlak. Dat is prima.
 Stijl:
 - Nederlands, helder, concreet, actief. Spreek de lezer niet aan met "je moet". Geen clickbait, geen emoji.
 - Begin de tekst met het verrassende of het concrete (een getal, een scène of een paradox), niet met "In dit artikel…".
@@ -66,7 +72,12 @@ Stijl:
    - `onbereikbaar` (netwerkfout, ook na de ingebouwde herhaalpoging): test eerst of het netwerk werkt, bv. met `curl -sI https://www.wikipedia.org`. Werkt het netwerk wel, dan vervang je de bron. Werkt het niet, dan wacht je even en draai je de check opnieuw.
    - Een `waarschuwing` (401/403/429, botblokkade) is toegestaan, mits jij de pagina met WebFetch wel hebt gelezen.
 3. Lees de feed nog één keer kritisch: klopt elke bewering met wat je las? Twijfel je, dan verwijder je die bewering.
-4. Draai `node tools/registreer.mjs feed/DATUM.json`.
+4. **Beelden:** draai `node tools/beelden.mjs feed/DATUM.json --bekijk`. Bij elk gevonden beeld staat een pad naar een klein voorbeeld.
+   **Bekijk elk voorbeeld met Read** en beoordeel: laat het beeld het onderwerp van de kaart zien, of iets wat er duidelijk mee te maken heeft?
+   - Past het niet (verkeerd onderwerp, naamgenoot, lelijk, alleen tekst of een logo), pas dan `beeldWiki`/`beeldZoek` aan en draai `node tools/beelden.mjs feed/DATUM.json --alleen=NN --bekijk`. Hooguit 2 pogingen per kaart.
+   - Lukt het niet, zet dan `"geenBeeld": true` en draai `--alleen=NN`. Dan toont de app een kleurvlak. Een kleurvlak is beter dan een verkeerd beeld.
+   - Draai daarna de check uit stap 1 opnieuw (zonder `--urls` is genoeg). Een waarschuwing "geen beeld" mag alleen overblijven als `geenBeeld` gezet is.
+5. Draai `node tools/registreer.mjs feed/DATUM.json`.
 
 ## 5. Opslaan
 ```

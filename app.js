@@ -88,12 +88,27 @@ function stopZicht() {
 document.addEventListener('visibilitychange', () => { if (document.hidden) { stopZicht(); autoSync(); } });
 
 /* ---------- kaart tekenen ---------- */
+const GLYPH = { wetenschap: '⚛', denken: '◎', geschiedenis: '⌛' };
+function kleurvlak(kaart) {
+  return el('div', { class: 'beeld vlak' }, el('span', { tekst: GLYPH[kaart.pijler] || '✦' }));
+}
+function beeldKop(kaart, idx) {
+  const b = kaart.beeld;
+  const url = b && veiligeUrl(b.url);
+  if (!url) return kleurvlak(kaart);
+  const img = el('img', { src: url, alt: '', loading: idx < 2 ? 'eager' : 'lazy', decoding: 'async', referrerpolicy: 'no-referrer' });
+  const kop = el('figure', { class: 'beeld' }, img,
+    el('figcaption', {}, veiligeUrl(b.pagina) ? el('a', { href: veiligeUrl(b.pagina), target: '_blank', rel: 'noopener', tekst: b.credit || '' }) : (b.credit || '')));
+  img.addEventListener('error', () => kop.replaceWith(kleurvlak(kaart)));   // hotlink geweigerd of offline
+  return kop;
+}
 function kaartVak(kaart, idx, totaal) {
   const a = S.acties[kaart.id] || {};
   const url = veiligeUrl(kaart.bron && kaart.bron.url);
   const alinea = String(kaart.tekst || '').split(/\n{2,}/).map(t => el('p', { tekst: t }));
   const vak = el('section', { class: 'kaart-vak' },
     el('article', { class: 'kaart', data: { pijler: kaart.pijler } },
+      beeldKop(kaart, idx),
       el('div', { class: 'label' },
         el('span', { tekst: PIJLERS[kaart.pijler] || kaart.pijler }),
         kaart.verkenning ? el('span', { class: 'verk', tekst: '✧ verkenning' }) : null,
