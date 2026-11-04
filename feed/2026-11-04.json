@@ -1,0 +1,408 @@
+{
+  "datum": "2026-11-04",
+  "kaarten": [
+    {
+      "id": "2026-11-04-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "introspectie"
+      ],
+      "titel": "Weten taalmodellen wat er in hun eigen hoofd gebeurt?",
+      "tekst": "Onderzoekers versterken in een taalmodel het activatiepatroon van één concept, een soort ingespoten gedachte, en vragen dan: merk je iets? In 2025 herkende het krachtigste model de injectie in 20 procent van de pogingen. Zonder injectie meldde het model nooit iets. Maar is dat introspectie? Volgens Kyle Mahowald en Harvey Lederman gaat het eerder om afwijkingsdetectie: het opmerken dat iets niet klopt is een ander proces dan het benoemen van het concept.\n\nCritici stellen dat het woord introspectie zo betekenisloos kan worden.",
+      "kern": "Dat een model een afwijking opmerkt bewijst nog niet dat het in zichzelf kijkt.",
+      "bron": {
+        "titel": "New Research Tests Whether AI Models Know Their Own Thoughts",
+        "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "neural network visualization",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Neural_network_-_Midjourney_and_Grok.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Midjourney; prompt suggested by Grok · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Neural_network_-_Midjourney_and_Grok.png"
+      }
+    },
+    {
+      "id": "2026-11-04-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "oude-grieken",
+        "paradox"
+      ],
+      "titel": "Zeno: waarom Achilles de schildpad nooit inhaalt",
+      "tekst": "Wie een afstand wil afleggen, moet eerst de helft halen, daarvoor de helft van die helft, enzovoort zonder eind. Zeno van Elea, actief in de vijfde eeuw voor Christus, trok daaruit de conclusie dat bewegen onmogelijk is. In zijn tweede paradox krijgt een schildpad een voorsprong: de snelste loper, schrijft Aristoteles, haalt de langzaamste nooit in, omdat hij steeds eerst de vorige plek moet bereiken. Aristoteles bespreekt de paradoxen in zijn Physica.",
+      "kern": "Een sluitende redenering met een absurde uitkomst dwingt je je aannames over ruimte en tijd te heroverwegen.",
+      "bron": {
+        "titel": "Zeno of Elea",
+        "url": "https://plato.stanford.edu/entries/zeno-elea/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Zeno of Elea",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg/1280px-Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jan de Bisschop · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_(serietitel),_RP-P-1907-4495.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-03",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "denkmodellen"
+      ],
+      "titel": "Tweede-orde denken: en wat dan?",
+      "tekst": "Honger? Een chocoladereep lost dat direct op. Dat is eerste-orde denken: snel, makkelijk en blind voor de gevolgen. Tweede-orde denken stelt de vraag \"And then what?\" en kijkt wat er gebeurt als je dit steeds blijft doen. Het artikel adviseert gevolgen te bekijken na tien minuten, tien maanden en tien jaar. Sommige goede keuzes lijken op het eerste niveau negatief en pakken op het tweede positief uit. Omdat de meeste mensen niet verder kijken, is er daar minder concurrentie.",
+      "kern": "Vraag bij elke beslissing niet alleen wat er nu gebeurt, maar ook wat daarna.",
+      "bron": {
+        "titel": "Second-Order Thinking: What Smart People Use to Outperform",
+        "url": "https://fs.blog/second-order-thinking/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "chess game",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Wilfredor · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "melkweg",
+        "sterrenvorming"
+      ],
+      "titel": "De lege ruimte tussen de sterren blijkt onrustig",
+      "tekst": "Het leerboekmodel kent twee stabiele toestanden voor gas tussen de sterren: koud, rond 100 kelvin, en warm, rond 8.000 kelvin. Shelest en Bialy (Technion) combineerden een 3D-stofkaart van Gaia met een kaart van uv-straling. Hun uitkomst: 27 procent van het gas is koud, 32 procent warm en 41 procent onstabiel. Sterren en supernova's blijven het gas opwarmen en wegduwen. Dat zou volgens Anna Rosen verklaren waarom sterrenvorming zo inefficiënt is. Het werk is nog niet door peer review, en critici wijzen op mogelijke vertekening door resolutie.",
+      "kern": "Het interstellaire gas is geen rustig decor maar een continu geroerd systeem.",
+      "bron": {
+        "titel": "A New Map of 'Empty' Space Challenges a Tranquil Picture of the Galaxy",
+        "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Interstellar medium",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/WHAM_survey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Haffner, L. M.; Reynolds, R. J.; Tufte, S. L.; Madsen, G. J… · Attribution · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:WHAM_survey.png"
+      }
+    },
+    {
+      "id": "2026-11-04-05",
+      "pijler": "geschiedenis",
+      "tags": [
+        "kaarten",
+        "kolonialisme",
+        "afrika"
+      ],
+      "titel": "Wie tekende de kaart van Afrika echt?",
+      "tekst": "Zo'n 65 procent van de routes op Jean-Baptiste Marchands kaart uit 1896 kwam van Afrikaanse bronnen. Gidsen, tolken en handelaars tekenden routes in het zand of met stro; Europeanen namen die over en streken de eer op. Op kaarten kregen lokale gegevens vaak een stippellijn, Europese routes een volle lijn. Bij Henri Duveyrier (1861) kwam meer dan een derde van de Saharakaart van lokale bronnen. Dankzij Afrikaanse tussenpersonen ontdekte Binger dat de legendarische Kong-bergen niet bestonden.",
+      "kern": "Achter veel beroemde ontdekkingsreizigers stonden Afrikaanse kaartmakers die zelden met naam worden genoemd.",
+      "bron": {
+        "titel": "Who mapped Africa? Debunking the myth that Europeans alone plotted the continent",
+        "url": "https://theconversation.com/who-mapped-africa-debunking-the-myth-that-europeans-alone-plotted-the-continent-293657",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Africa map 1890",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Map_of_Africa_from_Encyclopaedia_Britannica_1890.jpg/1280px-Map_of_Africa_from_Encyclopaedia_Britannica_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Map_of_Africa_from_Encyclopaedia_Britannica_1890.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-06",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "geneeskunde",
+        "wetenschapsgeschiedenis"
+      ],
+      "titel": "Het Semmelweis-reflex: bewijs afwijzen omdat het niet past",
+      "tekst": "In 1847 daalde de sterfte aan kraamvrouwenkoorts tienvoudig toen artsen hun handen met chloor desinfecteerden, volgens het artikel van 18 procent naar minder dan 3 procent. Toch werd Ignaz Semmelweis niet geloofd. Charles Meigs verwoordde de houding: artsen zijn heren, en de handen van heren zijn schoon. Het Semmelweis-reflex is de neiging nieuw bewijs af te wijzen omdat het botst met gevestigde overtuigingen. Autoriteitsbias, bevestigingsbias en groepsdenken versterken dat.",
+      "kern": "Wie een idee afwijst om wie het zegt of wat het kost, kan het juiste idee missen.",
+      "bron": {
+        "titel": "Semmelweis reflex",
+        "url": "https://en.wikipedia.org/wiki/Semmelweis_reflex",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Ignaz Semmelweis",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg/1280px-Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "József Borsos / Albert Doctor · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "chemie",
+        "voeding",
+        "isotopen"
+      ],
+      "titel": "Je lichaam draagt de koolstof van je eten",
+      "tekst": "Ongeveer 99 procent van de koolstofatomen is C-12; ongeveer 1 procent is het zwaardere C-13, met één neutron extra. Planten nemen tijdens de fotosynthese liever de lichtere atomen op. Zo krijgt elke plant een eigen verhouding, een soort vingerafdruk. Rijst neemt bijvoorbeeld meer zwaar koolstof op dan aardappel. Eet je die planten, dan wordt hun verhouding bijna één op één overgenomen door je lichaam. Atomen in je lichaam vertellen dus wat je at.",
+      "kern": "De verhouding van koolstofisotopen in je lichaam is een logboek van je maaltijden.",
+      "bron": {
+        "titel": "Hoe atomen verraden wat je eet",
+        "url": "https://nemokennislink.nl/publicaties/hoe-atomen-verraden-wat-je-eet/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "potato rice plate",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/A_plate_of_Matooke%2C_Rice%2C_Irish_potatoes%2C_chapati%2C_French_beans.jpg/1280px-A_plate_of_Matooke%2C_Rice%2C_Irish_potatoes%2C_chapati%2C_French_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ssemmanda will · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:A_plate_of_Matooke,_Rice,_Irish_potatoes,_chapati,_French_beans.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "renaissance",
+        "italie",
+        "vuurwapens"
+      ],
+      "titel": "Van duivelswerk tot gewoon gereedschap: het vuurwapen in Italië",
+      "tekst": "Renaissance-Italianen vonden het vuurwapen eerst duivels en onmannelijk. Toch had Cosimo de' Medici in 1539 in Florence 91 vuurwapens in zijn magazijnen. Volgens Catherine Fletcher was de groei van burgermilities de belangrijkste factor voor de verspreiding. Schietwedstrijden met flinke prijzen, sierlijke hofwapens, jacht en plaagbestrijding deden de rest, en het wieslot maakte verborgen dragen mogelijk. In Ferrara had in 1552 meer dan de helft van 520 uitgeruste huishoudens een vuurwapen.",
+      "kern": "Een technologie wordt pas gewoon wanneer instituties, prijzen en status haar omarmen.",
+      "bron": {
+        "titel": "Horrible, unmanly, indispensable",
+        "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "wheellock pistol",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Wheellock_Pistol_MET_sfrl14.25.1422_135020.jpg/1280px-Wheellock_Pistol_MET_sfrl14.25.1422_135020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "onbekend · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Wheellock_Pistol_MET_sfrl14.25.1422_135020.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-09",
+      "pijler": "denken",
+      "tags": [
+        "stedenbouw",
+        "veiligheid",
+        "psychologie"
+      ],
+      "titel": "Maakt meer licht de nacht echt veiliger?",
+      "tekst": "Meer licht betekent niet automatisch minder misdrijven. Onderzoek spreekt elkaar tegen: soms minder criminaliteit na betere verlichting, soms geen verschil, soms meer geregistreerde misdrijven. Het gevoel van veiligheid hangt af van overzicht. Verblinding en harde contrasten tussen fel en donker verminderen juist het zicht. Beter werken gelijkmatig, niet-verblindend licht, heldere zichtlijnen, weinig schuilplekken, goede vluchtroutes en sociale controle, de \"eyes on the street\".",
+      "kern": "Een veilige straat vraagt om overzicht en toezicht, niet simpelweg om meer lampen.",
+      "bron": {
+        "titel": "Maakt meer licht de nacht veiliger?",
+        "url": "https://nemokennislink.nl/publicaties/maakt-meer-licht-de-nacht-veiliger/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "street lamp night city",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Three_Lamps_at_night_-_geograph.org.uk_-_7430314.jpg/1280px-The_Three_Lamps_at_night_-_geograph.org.uk_-_7430314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Neil Owen · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:The_Three_Lamps_at_night_-_geograph.org.uk_-_7430314.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "zwarte-gaten",
+        "astronomie",
+        "telescopen"
+      ],
+      "titel": "Hoe maak je een foto van een zwart gat?",
+      "tekst": "Zo groot als de hele aarde moet de telescoop zijn, want het oplossend vermogen hangt af van golflengte gedeeld door telescoopgrootte. De Event Horizon Telescope laat radiotelescopen over de wereld samenwerken, met atoomklokken die elke golf van een tijdstempel voorzien. De klokken verliezen ongeveer een seconde per 10 miljoen jaar. Het eerste beeld, van M87 op zo'n 55 miljoen lichtjaar, toont de schaduw van het gat in een lichtring. Shep Doeleman verwacht een film vanaf de vroege jaren 2030.",
+      "kern": "Een telescoop ter grootte van de aarde bestaat uit losse schotels met uiterst precieze klokken.",
+      "bron": {
+        "titel": "How Do You Take a Picture of a Black Hole?",
+        "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+        "soort": "podcast",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Event Horizon Telescope",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg/1280px-Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "D. Marrone/UofA · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-11",
+      "pijler": "denken",
+      "tags": [
+        "politiek",
+        "wiskunde",
+        "democratie"
+      ],
+      "titel": "Gerrymandering: waarom eerlijk tekenen zo moeilijk is",
+      "tekst": "Massachusetts telt ongeveer een derde Republikeinen, maar door hun spreiding kan die partij soms geen enkel district winnen. Wiskundigen rond Moon Duchin tekenden willekeurige kaarten en zagen: ongeveer 10 procent komt dicht bij proportionele uitkomsten. Democraten wonen vaak rond steden, waardoor hun stemmen elders verloren gaan. De term komt van Elbridge Gerry, wiens district na de telling van 1810 op een salamander leek. Auteur Feline Lindeboom concludeert dat het lastig is om niet te gerrymanderen.",
+      "kern": "Zelfs zonder kwade opzet bepaalt de vorm van de kiesdistricten mede de uitslag.",
+      "bron": {
+        "titel": "Gerrymandering: hoe Amerika zijn kiesdistricten tekent",
+        "url": "https://nemokennislink.nl/publicaties/gerrymandering-de-wiskunde-achter-amerikaanse-kiesdistricten-hertekenen/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Gerrymandering",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DifferingApportionment.svg/1280px-DifferingApportionment.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "M.boli · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:DifferingApportionment.svg"
+      }
+    },
+    {
+      "id": "2026-11-04-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "evolutie",
+        "biologie",
+        "ideeen"
+      ],
+      "titel": "Lamarck: het organisme als actieve speler",
+      "tekst": "Jean-Baptiste Lamarck bedacht in 1802 het woord \"biology\" en benoemde meer dan 6.000 soorten. Bekend is alleen de giraf die zijn nek rekt. Zijn bredere idee: organismen reageren met gedrag op hun omgeving, dat gedrag wordt gewoonte, en dat verandert hen. Het neodarwinisme verwierp dat. Maar onderzoek naar erfelijke aanpassing, zoals bij koraal in 2020 en bij de spiny chromis in 2015, en het begrip niche construction brengen het actieve organisme terug.",
+      "kern": "Lamarcks kernidee dat levende wezens zichzelf en hun wereld vormen, krijgt nieuwe aandacht.",
+      "bron": {
+        "titel": "The self-making world",
+        "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Jean-Baptiste Lamarck",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jean-Baptiste_de_Lamarck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Charles Thévenin · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_de_Lamarck.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "taal",
+        "vogels",
+        "evolutie"
+      ],
+      "titel": "Spraak en vogelzang delen dezelfde patronen",
+      "tekst": "Onderzoekers vergeleken de zang van 367 vogelsoorten, ruim 70.000 syllaben, met zang en spraak uit 52 menselijke talen. Veel akoestische patronen bleken gedeeld. Een mogelijke verklaring: spieren van het stemkanaal moeten in vogel en mens worden afgestemd op de ademhaling. Stemleren lijkt het niet te verklaren; daar vond de studie weinig bewijs voor. Volgens de auteurs is meer onderzoek nodig. Zangvogels ontstonden ongeveer 50 miljoen jaar geleden.",
+      "kern": "Een gedeeld ademhalingsprobleem kan verklaren waarom vogels en mensen vergelijkbaar klinken.",
+      "bron": {
+        "titel": "Human speech follows the same patterns as birdsong — new research",
+        "url": "https://theconversation.com/human-speech-follows-the-same-patterns-as-birdsong-new-research-295030",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "songbird singing",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/USFWS_Singing_songbird_%2816929559225%29.jpg/1280px-USFWS_Singing_songbird_%2816929559225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "USFWS - Pacific Region · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:USFWS_Singing_songbird_(16929559225).jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "engineering",
+        "wrijving"
+      ],
+      "titel": "Zonder wrijving geen vooruitgang",
+      "tekst": "Zonder statische wrijving zou een wiel vrij draaien en komt niemand vooruit. Tribologe Jennifer Vail beschrijft wrijving als voorwaarde voor beweging, niet alleen als hindernis. Al de Sumeriërs wisten dat vet en olie beter smeren dan water, en Romeinse wagenwielen werden zo heet dat ze gloeiden. In de jaren 1960 werd tribologie een formeel vakgebied. Wie wrijving begrijpt, kan haar bestrijden of benutten, zoals bij regeneratief remmen.",
+      "kern": "Weerstand is geen tegenstander van beweging maar de reden dat beweging mogelijk is.",
+      "bron": {
+        "titel": "Traction!",
+        "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "friction tire road",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tire_-_induced_drag_on_traction_circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Paradigm Shift Driver Development · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tire_-_induced_drag_on_traction_circle.jpg"
+      }
+    },
+    {
+      "id": "2026-11-04-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "kunst",
+        "japan",
+        "perspectief"
+      ],
+      "titel": "Hokusais Grote Golf is één van 46 prenten",
+      "tekst": "Hokusai maakte zijn Fuji-prenten in de jaren 1830 tot 1833, toen hij in de zeventig was. Er waren 36 Gezichten op de berg Fuji, later aangevuld met tien, samen 46. De Grote Golf is dus één beeld uit een reeks, bedoeld voor gewone mensen in Edo. Volgens Dominik Havsteen-Franklin krijgt de berg betekenis door wat eromheen staat. Wie de prenten samen ziet, merkt hoe snel we op één standpunt vastlopen, ook bij het inschatten van andere mensen.",
+      "kern": "Een bekend beeld verandert van betekenis als je de hele reeks ziet.",
+      "bron": {
+        "titel": "Hokusai’s Great Wave is one of 46 prints of Mount Fuji – seeing them together changes everything",
+        "url": "https://theconversation.com/hokusais-great-wave-is-one-of-46-prints-of-mount-fuji-seeing-them-together-changes-everything-294801",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "The Great Wave off Kanagawa",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Katsushika Hokusai · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+      }
+    }
+  ]
+}
