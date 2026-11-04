@@ -11,7 +11,7 @@ Bepaal de datum van vandaag in Europe/Amsterdam met node. `date` is hier niet be
 ```
 node -e "console.log(new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Amsterdam'}).format(new Date()))"
 ```
-Hieronder heet die datum `DATUM`. Bestaat `feed/DATUM.json` al en geeft `node tools/check-feed.mjs feed/DATUM.json` (zonder `--urls`) GROEN, dan stop je meteen met "feed bestond al".
+Hieronder heet die datum `DATUM`. Bestaat `feed/DATUM.json` al, dan stop je meteen met "feed bestond al". Je repareert of controleert bestaande feeds niet. Oudere feeds kunnen gemaakt zijn onder eerdere regels, en dat is in orde.
 
 ## 1. Profiel en plan
 1. Lees `profiel/interesses.md`. Dat zijn de onderwerpen en de smaak.
