@@ -1,0 +1,398 @@
+{
+  "datum": "2026-11-05",
+  "kaarten": [
+    {
+      "id": "2026-11-05-01",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oude-grieken",
+        "engineering",
+        "astronomie"
+      ],
+      "titel": "Een Griekse rekenmachine uit een scheepswrak",
+      "tekst": "In 1901 haalden duikers bij het eiland Antikythera een klomp gecorrodeerd brons uit een Romeins wrak. Daarin zat een mechanisme met minstens dertig tandwielen, waarvan het grootste ongeveer 13 centimeter meet en oorspronkelijk 223 tanden had.\n\nMet een handslinger voorspelde het apparaat de maancyclus en zonsverduisteringen, tientallen jaren vooruit. Een wijzerplaat volgde zelfs de vierjarige cyclus van de Olympische Spelen. Het stamt uit de tweede eeuw voor Christus.",
+      "kern": "Twee eeuwen voor Christus bestond al ingenieuze tandwieltechniek, en veel daarvan is nooit overgeleverd.",
+      "bron": {
+        "titel": "Antikythera mechanism",
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Antikythera mechanism",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Antikythera_Fragment_A_%28Front%29.webp/1280px-Antikythera_Fragment_A_%28Front%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Logg Tandy · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_(Front).webp"
+      }
+    },
+    {
+      "id": "2026-11-05-02",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "biologie",
+        "spinnenzijde"
+      ],
+      "titel": "Hoe een spin vloeibare dope tot supervezel spint",
+      "tekst": "Een spin spuit geen draad uit een tube. In de zijdeklier zit eerst vloeibare 'dope': eiwitten die elkaar nog niet vasthouden. Onderzoekers zagen dat die eiwitten eerst halfvloeibare druppels vormen, condensaten.\n\nVolgens het voorstel van Keiji Numata zet fosfaat in het middendeel van de klier dat proces in gang. Dan gaan de aminozuren arginine en tyrosine als 'moleculaire plakkertjes' zwakke bindingen aan, wordt water verdreven en pakken de eiwitten samen tot een dichte gel. Die bindingen blijven later in de vezel zitten.",
+      "kern": "De sterkste natuurlijke vezel begint als een vloeistof die zichzelf ordent via zwakke, tijdelijke bindingen.",
+      "bron": {
+        "titel": "How Spiders Spin 'Silk Dope' Into Nature's Toughest Material",
+        "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Spider silk",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Argiope_bruennichi_Cornacchiaia_1.jpg/1280px-Argiope_bruennichi_Cornacchiaia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Lucarelli · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Argiope_bruennichi_Cornacchiaia_1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-03",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "inversie"
+      ],
+      "titel": "Omdraaien: eerst bedenken hoe het misgaat",
+      "tekst": "De wiskundige Carl Jacobi loste moeilijke problemen vaak op met een motto: 'man muss immer umkehren', keer het altijd om. Charlie Munger maakte het idee beroemd met de zin: 'Ik wil alleen weten waar ik ga sterven, zodat ik daar nooit heen ga.'\n\nIn de praktijk betekent inversie dat je niet vraagt hoe je slaagt, maar hoe je zeker faalt, en dat vermijdt. Het artikel noemt dat subtractief denken: dwaasheid vermijden is makkelijker dan briljant zijn.",
+      "kern": "Wie eerst de zekere manieren om te mislukken schrapt, hoeft minder briljant te zijn om te slagen.",
+      "bron": {
+        "titel": "Inversion and The Power of Avoiding Stupidity",
+        "url": "https://fs.blog/inversion/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Carl Gustav Jacob Jacobi",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Carl_Jacobi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Carl_Jacobi.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "energie",
+        "fusie"
+      ],
+      "titel": "Koude fusie is dood, maar het muon leeft",
+      "tekst": "In 1989 raakte de wereld in de ban van koude fusie. Het bleek niets, en toch leeft een verwante tak voort. Een muon is een 207 keer zwaardere neef van het elektron. In een waterstofmolecuul maakt het de atomen veel kleiner, zodat de kernen vrijwel meteen fuseren. Daarna komt het muon weer vrij: een 'nucleaire koppelaar'.\n\nOm energie op te leveren moet een muon die truc minstens 300 keer herhalen, maar het leeft slechts 2 microseconden. Het artikel noemt het geen oplossing voor de energiecrisis, wel een rijk onderzoeksveld met exotische atomen.",
+      "kern": "Uit een mislukte belofte groeide wél bruikbare natuurkunde, juist omdat men exotische atomen serieus bleef bestuderen.",
+      "bron": {
+        "titel": "Is There Anything Left in the Dream of Cold Fusion?",
+        "url": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-05-05",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "stoicisme",
+        "oude-grieken"
+      ],
+      "titel": "Epictetus: de vrijheid van het kiezen zelf",
+      "tekst": "Epictetus, geboren in de jaren 50 van onze jaartelling, onderwees tot zijn dood rond 135. Zijn kern: er is een kleine sfeer die echt van jou is, de wil (prohairesis), en een grote wereld van 'externe zaken' daarbuiten.\n\nDie wil is 'van nature onbelemmerd', schrijft hij: niemand kan je dwingen iets te vinden of te kiezen. Het goede ligt dus in de gesteldheid van je wil, niet in bezit of reputatie. Verdriet en angst ontstaan volgens hem door het verkeerde idee dat geluk buiten ons ligt.",
+      "kern": "Geluk hangt af van wat je zelf kiest te denken en te doen, niet van wat je overkomt.",
+      "bron": {
+        "titel": "Epictetus",
+        "url": "https://plato.stanford.edu/entries/epictetus/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Epictetus",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/1280px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "William Sonmans / Michael Burghers · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-06",
+      "pijler": "denken",
+      "tags": [
+        "leren",
+        "psychologie",
+        "onderwijs"
+      ],
+      "titel": "Leren door uitleggen: waarom een rubberen eend helpt",
+      "tekst": "PhD-kandidaat Robbin Kramer gaf les aan Biomedische Wetenschappen en merkte dat zij de stof zelf beter ging begrijpen. Wie hardop uitlegt, ontdekt precies waar de eigen kennis gaten heeft.\n\nOnderwijskundigen noemen dit 'leren door lesgeven', met onder meer de naam van Jean-Pol Martin eraan verbonden. Programmeurs kennen hetzelfde principe als 'rubberen eend debuggen': een probleem uitspreken tegen een eend maakt het vaak al helder, ook zonder echt publiek.",
+      "kern": "Uitleggen is een toets: wat je niet kunt vertellen, begrijp je nog niet.",
+      "bron": {
+        "titel": "Het belang van een rubberen eend",
+        "url": "https://nemokennislink.nl/publicaties/het-belang-van-een-rubberen-eend/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Rubber duck debugging",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rubber_duck_assisting_with_debugging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Tom Morris · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Rubber_duck_assisting_with_debugging.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "genetica",
+        "aanpassing"
+      ],
+      "titel": "Er bestaat geen enkel gen voor kou",
+      "tekst": "In Yakutië kan het in de winter onder de min 50 graden worden. Toch vonden Italiaanse onderzoekers geen enkel 'kou-gen' bij de Sakha. Wel zagen ze sporen van selectie in veel genen tegelijk, ieder met een klein effect: polygene adaptatie.\n\nHet gaat om genen voor de schildklier (THRB, RCAN2), voor bruin vet dat warmte maakt (ERBB4) en voor insuline en vetstofwisseling (INSR, GPAT3). Rond twee ervan zit DNA dat op Neanderthaler-DNA lijkt. Zoals de auteur zegt: de schildklier zet de kachel aan, insuline zorgt voor brandstof.",
+      "kern": "Aanpassing aan een extreem klimaat is meestal een verschuiving van veel kleine knoppen, niet één mutatie.",
+      "bron": {
+        "titel": "Heeft de mens een gen voor kou?",
+        "url": "https://nemokennislink.nl/publicaties/heeft-de-mens-een-gen-voor-kou/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Yakutsk",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Yakutsk_-_190228_DSC_5379.jpg/1280px-Yakutsk_-_190228_DSC_5379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ilya Varlamov · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Yakutsk_-_190228_DSC_5379.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "romeinse-rijk",
+        "filosofie",
+        "deugd"
+      ],
+      "titel": "Cicero's mannelijkheid: zelfbeheersing, geen opschepperij",
+      "tekst": "Het Latijnse woord virtus, verwant aan vir, 'man', betekende oorspronkelijk moed in oorlog. Maar Cicero maakte er iets anders van. Na zijn verbanning in 58 voor Christus, 16 maanden lang, en de dood van zijn dochter Tullia in 45 voelde hij zijn mannelijkheid bedreigd.\n\nZijn antwoord: 'de eigenlijke deugd van een man is bovenal moed', en die toonde zich in zelfbeheersing. Zijn verdriet verdedigde hij als moedig. Tegenstanders als Antonius schilderde hij in zijn Filippica's af als gebrek aan precies die beheersing.",
+      "kern": "Voor Cicero bewees een man zijn kracht niet door te domineren, maar door zichzelf te beheersen.",
+      "bron": {
+        "titel": "How to be a (Roman) man",
+        "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Cicero",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/1280px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "José Luiz · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-09",
+      "pijler": "denken",
+      "tags": [
+        "wiskunde",
+        "democratie",
+        "besluitvorming"
+      ],
+      "titel": "Stemmen heeft de vorm van een Klein-fles",
+      "tekst": "Bij drie kandidaten kan elke kiezer consistent rangschikken, terwijl de groep in een kringetje eindigt: Alice verslaat Bob, Bob verslaat Carol, Carol verslaat Alice. Condorcet zag dat al in 1785.\n\nIn april 2025 toonden Ori Livson, Mikhail Prokopenko en Siddharth Pritam dat alle mogelijke stemmingen op drie kandidaten samen een Klein-fles vormen, een oppervlak zonder duidelijke binnen- of buitenkant. Alleen lijmen mét een omkering van de volgorde klopt. Of een stelsel 'eerlijk' is, blijft volgens Iain McLean een debat over waarden.",
+      "kern": "Dat een groep zich niet altijd consistent laat samenvatten, is geen foutje maar een meetkundig gegeven.",
+      "bron": {
+        "titel": "How Voting Is Like a Klein Bottle",
+        "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Klein bottle glass",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Klein_bottle_glass2.jpg/1280px-Klein_bottle_glass2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "PaulT (Gunther Tschuch) · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Klein_bottle_glass2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-10",
+      "pijler": "geschiedenis",
+      "tags": [
+        "steentijd",
+        "archeologie",
+        "jagen"
+      ],
+      "titel": "Gifpijlen in de Deense steentijd?",
+      "tekst": "Het gif zelf is allang verdwenen. Het 'rokende pistool' van deze studie is de grootte van de pijlpunten. Rond 9.000 tot 3.950 voor Christus waren de pijlpunten in Noord-Europa klein, maar de jachtdieren groot: elanden en oerossen.\n\nEen vergiftigde pijl hoeft de prooi maar licht te verwonden, zodat het gif in het bloed komt. Giftige planten als waterscheerling en bitterzoet groeiden in Denemarken. Directe sporen van toxine zijn nog niet gevonden: dit is een afleiding, geen bewijs.",
+      "kern": "Een klein stukje steen kan verraden dat er iets onzichtbaars aan zat.",
+      "bron": {
+        "titel": "Stone-age hunters in northern Europe may have used poison arrows to hunt big prey",
+        "url": "https://theconversation.com/stone-age-hunters-in-northern-europe-may-have-used-poison-arrows-to-hunt-big-prey-294856",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Mesolithic flint arrowheads",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mesolithic_flint_microlith_%28FindID_231381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "None, Stuart Ward, 2008-09-05 16:44:05 · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mesolithic_flint_microlith_(FindID_231381).jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "biologie",
+        "fossielen"
+      ],
+      "titel": "Vleermuizen komen waarschijnlijk uit Europa",
+      "tekst": "Een nieuwe studie in Nature plaatst de oorsprong van vleermuizen in Europa, meer dan 56 miljoen jaar geleden. De onderzoekers gebruikten genomen van 103 soorten uit alle 21 levende families en anatomische gegevens van 65 soorten, waarvan 44 uitgestorven.\n\nHet fossiel Vielasia uit Frankrijk, ongeveer 50 miljoen jaar oud, hoort bij de vroegste aftakkingen en wijst op echolocatie via het strottenhoofd voordat de levende groepen zich splitsten. Wat eerst kwam, vliegen of echolocatie, blijft onbeantwoord.",
+      "kern": "De oudste vondst is niet per se de plek van oorsprong: stamboom en fossielen samen wijzen een andere kant op.",
+      "bron": {
+        "titel": "Where did bats come from? New research points to Europe",
+        "url": "https://theconversation.com/where-did-bats-come-from-new-research-points-to-europe-293625",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Bat",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Big-eared-townsend-fledermaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "PD-USGov, exact author unknown · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-12",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "taal",
+        "moraal"
+      ],
+      "titel": "Verandert een vreemde taal je moraal?",
+      "tekst": "Wie in een tweede taal over dilemma's nadenkt, zou volgens eerder onderzoek nuchterder oordelen. Irini Mavrou en Andreas Kyriakou lieten 106 Griekse moedertaalsprekers vier morele dilemma's beoordelen, de helft in het Grieks en de helft in het Engels.\n\nDe beslissingen veranderden niet. Wel hechtten de Griekssprekers meer waarde aan 'een moreel persoon zijn'. De moedertaal hangt samen met kindertijd en familiewaarden. Morele identiteit voorspelde de reacties dus beter dan de taal, al noemen de auteurs eerdere resultaten gemengd.",
+      "kern": "Taal verschuift hoe sterk je je moraal voelt, maar nauwelijks wat je kiest.",
+      "bron": {
+        "titel": "Speaking in a second language may shift your moral compass – but it can't overpower it",
+        "url": "https://theconversation.com/speaking-in-a-second-language-may-shift-your-moral-compass-but-it-cant-overpower-it-294614",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-05-13",
+      "pijler": "denken",
+      "tags": [
+        "filosofie",
+        "creativiteit",
+        "specialisatie"
+      ],
+      "titel": "Lof van de dilettant",
+      "tekst": "Het woord dilettant klinkt als een verwijt, 'oppervlakkige interesse' zegt het woordenboek. Maar in het barokke Italiaans betekende het iemand die iets deed 'om het genoegen'. Het negatieve beeld kwam later.\n\nFilosoof Jay Miller betoogt dat de dilettant een vorm van vrijheid belichaamt: vrij van beroepsmatige beperkingen en vrij om te verkennen. Het kost wel erkenning, want de dilettant blijft vaak een buitenstaander. Maar in een tijd van hyperspecialisatie noemt hij hem de juiste antiheld.",
+      "kern": "Breed en nieuwsgierig zijn is geen gebrek aan diepgang maar een bewuste keuze met een prijs.",
+      "bron": {
+        "titel": "In praise of the dilettante",
+        "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Jean Cocteau",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg/1280px-Jean_Cocteau_b_Meurisse_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Agence de presse Meurisse · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jean_Cocteau_b_Meurisse_1923.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-14",
+      "pijler": "geschiedenis",
+      "tags": [
+        "wiskunde",
+        "filosofie",
+        "kennis"
+      ],
+      "titel": "De ladder van kennis: Hilbert, Gödel en de grens die meegroeit",
+      "tekst": "Hilbert zei in Königsberg op 8 september 1930: 'Wir müssen wissen. Wir werden wissen.' Een dag eerder had de 24-jarige Kurt Gödel aangekondigd dat in elk redelijk rekenkundig systeem ware uitspraken bestaan die er niet in te bewijzen zijn.\n\nDummett en Sandqvist lezen dat anders: betekenis hangt af van hoe we beweren, rechtvaardigen en afleiden. Wiskundige begrippen zijn daardoor 'onbepaald uitbreidbaar'. De grens geldt voor één versie van het systeem, niet voor de wiskunde. In de woorden van het essay: waarheid reikt precies zo ver als we de sporten hebben gebouwd.",
+      "kern": "Een onbewijsbare waarheid is geen muur, maar een uitnodiging om het systeem trouw uit te breiden.",
+      "bron": {
+        "titel": "The ladder of knowledge",
+        "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Kurt Gödel",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurt_g%C3%B6del.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Kurt_g%C3%B6del.jpg"
+      }
+    },
+    {
+      "id": "2026-11-05-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "taal",
+        "cultuur",
+        "biodiversiteit"
+      ],
+      "titel": "Wat als een taal verdwijnt?",
+      "tekst": "Wereldwijd worden 7.170 talen gesproken, en 3.226 daarvan (44,9 procent) zijn bedreigd. In 2022 waren dat er nog 3.045 van de 7.151.\n\nEen taal verdwijnt niet plotseling. Ze begint te kwijnen als kinderen haar niet meer leren en gebruiken. Het artikel schetst dat met het Westfries: thuis steeds meer Nederlands, eerst verdwijnen woorden, dan zinnen. Daarom vergelijkt het verlies met de laatste Pinta-reuzenschildpad Lonesome George: wie wacht tot de laatste spreker sterft, is te laat.",
+      "kern": "Een taal sterft in de keuken van de volgende generatie, lang voordat de laatste spreker overlijdt.",
+      "bron": {
+        "titel": "Wat als een taal verdwijnt?",
+        "url": "https://nemokennislink.nl/publicaties/wat-als-een-taal-verdwijnt/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Lonesome George",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lonesome_George_in_profile.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Mike Weston · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Lonesome_George_in_profile.png"
+      }
+    }
+  ]
+}
