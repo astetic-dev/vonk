@@ -1,0 +1,409 @@
+{
+  "datum": "2026-11-06",
+  "kaarten": [
+    {
+      "id": "2026-11-06-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "paleontologie",
+        "dinosaurussen",
+        "biologie"
+      ],
+      "titel": "Bloedcellen in een dinosaurusbot van 115 miljoen jaar oud",
+      "tekst": "In een achterpoot van de kleine dinosaurus Aratasaurus museunacionali uit Brazilië vonden onderzoekers structuurtjes die op rode bloedcellen lijken, plus moleculaire sporen van bloed: heem, een onderdeel van hemoglobine. Ze zaten alleen in de vaatkanalen van het bot, niet in het omringende sediment.\n\nHet bot is 115 miljoen jaar oud. Snelle begraving zonder zuurstof vertraagde het verval, en mineralen stabiliseerden gevoelige moleculen. De cellen zelf zijn tijdens het fossiliseren wel in mineralen veranderd.",
+      "kern": "Onder gunstige omstandigheden kunnen zelfs moleculen van bloed meer dan honderd miljoen jaar overleven.",
+      "bron": {
+        "titel": "Traces of dinosaur blood found in world-first discovery",
+        "url": "https://theconversation.com/traces-of-dinosaur-blood-found-in-world-first-discovery-286450",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "dinosaur skeleton museum",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dinosaur_Egg_Museum%2C_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_02.jpg/1280px-Dinosaur_Egg_Museum%2C_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Gary Todd · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Dinosaur_Egg_Museum,_Xixia_Dinosaur_Park-_Psittacosaurus_Skeleton_02.jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-02",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "logica",
+        "psychologie"
+      ],
+      "titel": "Vier kaarten die bijna niemand goed omdraait",
+      "tekst": "Voor je liggen vier kaarten met 3, 8, blauw en rood. De regel: heeft een kaart een even getal, dan is de andere kant blauw. Welke draai je om? Peter Wason liet mensen dit in 1966 proberen, en in zijn onderzoek vond minder dan 10 procent de oplossing: de 8 en de rode kaart.\n\nMensen zoeken bevestiging en vergeten dat alleen een tegenvoorbeeld een regel kan breken. Giet dezelfde logica in een drinkleeftijd (16 en bier) en de meeste mensen hebben het wel goed.",
+      "kern": "Een regel toets je met het geval dat hem kan weerleggen, niet met gevallen die hem bevestigen.",
+      "bron": {
+        "titel": "Wason selection task",
+        "url": "https://en.wikipedia.org/wiki/Wason_selection_task",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "playing cards",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Valentin_de_Boulogne_-_Soldiers_Playing_Cards_and_Dice_%28The_Cheats%29.jpg/1280px-Valentin_de_Boulogne_-_Soldiers_Playing_Cards_and_Dice_%28The_Cheats%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Valentin de Boulogne · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Valentin_de_Boulogne_-_Soldiers_Playing_Cards_and_Dice_(The_Cheats).jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "londen",
+        "engineering",
+        "volksgezondheid"
+      ],
+      "titel": "De stank die Londen een rioolstelsel opleverde",
+      "tekst": "In de zomer van 1858 werd de stank van onbehandeld afval in de Theems zo erg dat het Parlement er last van had. Drie cholera-uitbraken waren al aan de rivier toegeschreven. Disraeli diende op 15 juni een wetsvoorstel in; op 2 augustus was het aangenomen.\n\nIngenieur Joseph Bazalgette bouwde ongeveer 1.800 kilometer straatriool, dat uitmondt in 132 kilometer hoofdriool, met 318 miljoen bakstenen. De cholera-uitbraak van 1866 was de laatste in Londen. Het stelsel werkt nog steeds.",
+      "kern": "Een crisis die ook de machthebbers raakt, kan een jarenlang uitgesteld plan ineens mogelijk maken.",
+      "bron": {
+        "titel": "Great Stink",
+        "url": "https://en.wikipedia.org/wiki/Great_Stink",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg/1280px-Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Lock & Whitfield / Adam Cuerden · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg"
+      },
+      "beeldWiki": "Joseph Bazalgette"
+    },
+    {
+      "id": "2026-11-06-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "taal",
+        "informatica"
+      ],
+      "titel": "Hoe een stagiair van 23 de attention-operatie bedacht",
+      "tekst": "In 2014 bedacht Dzmitry Bahdanau, 23 jaar en stagiair in Montreal, de attention-operatie voor vertalen van Engels naar Frans. Het werkte meteen, vanaf de eerste poging.\n\nElk woord krijgt een query, key en value. De query van een woord wordt vergeleken met de keys van alle andere woorden, en dat bepaalt hoeveel hun values meetellen. Zo wijst \"it\" in \"The animal didn't cross the street because it was too tired\" naar het dier. In 2017 maakte Google er de transformer van, in 2022 volgde ChatGPT.",
+      "kern": "Attention zet context om in wiskunde: elk woord weegt mee naar rato van hoe goed het erbij past.",
+      "bron": {
+        "titel": "Is ‘Attention’ the Essence of Intelligence?",
+        "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Transformer (deep learning)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Transformer%2C_full_architecture.png/1280px-Transformer%2C_full_architecture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "dvgodoy · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Transformer,_full_architecture.png"
+      }
+    },
+    {
+      "id": "2026-11-06-05",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "eerste-principes"
+      ],
+      "titel": "Redeneren vanuit eerste principes in plaats van analogie",
+      "tekst": "Wie redeneert bij analogie, kopieert wat al bestaat. Wie redeneert vanuit eerste principes, scheidt wat zeker waar is van wat aanname is en bouwt dan opnieuw. Volgens Farnam Street rekende Elon Musk uit dat de materialen van een raket ongeveer twee procent van de gangbare prijs kosten.\n\nBij batterijen kostte een kilowattuur historisch 600 dollar, maar de materialen kwamen op ongeveer 80 dollar uit. De kloof zat dus in de aannames. De methode: blijf \"waarom\" vragen tot je op iets stuit dat niet verder te ontleden is.",
+      "kern": "Vraag niet hoe het meestal gaat, maar wat zeker waar is, en bouw daar opnieuw vanuit.",
+      "bron": {
+        "titel": "What is First Principles Thinking?",
+        "url": "https://fs.blog/first-principles/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Falcon 9 launch",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Falcon_9_first_stage_at_LZ-1%28two%29.jpg/1280px-Falcon_9_first_stage_at_LZ-1%28two%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "SpaceX Photos · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Falcon_9_first_stage_at_LZ-1(two).jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "stoicisme",
+        "filosofie",
+        "romeinse-rijk"
+      ],
+      "titel": "Seneca hield elke dag zitting over zichzelf",
+      "tekst": "In \"Over woede\" beschrijft Seneca een dagelijks zelfonderzoek, een soort rechtszitting over het eigen handelen (III 36.3-4). Woede ziet hij als irrationeel: een emotie ontstaat pas als je instemt met een eerste, onwillekeurige reactie.\n\n\"Gematigde emoties\" noemt hij in Brief 85 even absurd als gematigde waanzin. Het gaat hem dus niet om onderdrukken, maar om het onderzoeken van die instemming. Filosofie is voor hem een praktijk van zelfverbetering, geen puur theoretisch systeem.",
+      "kern": "Een eerste opwelling kun je niet voorkomen, wel de instemming ermee onderzoeken.",
+      "bron": {
+        "titel": "Seneca",
+        "url": "https://plato.stanford.edu/entries/seneca/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/1280px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Calidius · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg"
+      },
+      "beeldWiki": "Seneca the Younger"
+    },
+    {
+      "id": "2026-11-06-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "malaria",
+        "biologie",
+        "geneeskunde"
+      ],
+      "titel": "De deur die de malariaparasiet zelf maakt",
+      "tekst": "Een rode bloedcel is ongeveer 8 micrometer breed, en de malariaparasiet moet er in minder dan een minuut in. Onderzoekers in het lab van Chi-Min Ho zagen met cryo-elektronenmicroscopie hoe: een ring van eiwitankers, de \"moving junction\", laat de parasiet zich vastgrijpen en vooruitduwen.\n\nHet membraan buigt naar binnen en sluit zich daarna achter de indringer. Dat korte venster is een mogelijk doelwit voor medicijnen: een met AI ontworpen eiwit blokkeerde de invasie in reageerbuizen, maar is nog niet in dieren getest.",
+      "kern": "Het moment van binnendringen is kort, en juist daardoor een kwetsbaar aangrijpingspunt voor medicijnen.",
+      "bron": {
+        "titel": "Malaria Parasite Caught in the Act of Breaking and Entering",
+        "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "malaria parasite red blood cell",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Red_blood_cells_infected_with_malaria.jpg/1280px-Red_blood_cells_infected_with_malaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Rick Fairhurst and Jordan Zuspann, National Institute of Al… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Red_blood_cells_infected_with_malaria.jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-08",
+      "pijler": "denken",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "maatschappij",
+        "regulering"
+      ],
+      "titel": "Hoeft AI de wereld over te nemen om gevaarlijk te zijn?",
+      "tekst": "Volgens Arie Soeteman in NEMO Kennislink is AI nu al goed genoeg om economie en maatschappij op hun kop te zetten, zonder dat het \"rogue\" hoeft te gaan. Het IMF verwacht dat wereldwijd zo'n 40 procent van de banen door AI wordt geraakt, in rijke landen 60 procent.\n\nTegelijk heeft opschalen een plafond: tien keer meer rekenkracht maakte een model in 2020 maar zo'n 12 procent beter in het voorspellen van het volgende woord, en de data raken op. De grootste gevaren zijn veiligheid en machtsverschuiving, en daarvoor zijn afspraken nodig.",
+      "kern": "Het echte risico van AI is niet overname, maar wie de voorspellingsmachines bezit.",
+      "bron": {
+        "titel": "Gaat AI de wereld overnemen?",
+        "url": "https://www.nemokennislink.nl/publicaties/gaat-ai-de-wereld-overnemen/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "data center servers",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "taal",
+        "archeologie",
+        "migratie"
+      ],
+      "titel": "Oud DNA verschuift de wortels van het Germaans",
+      "tekst": "Oud DNA van duizenden prehistorische Europeanen, waaronder meer dan 700 nieuw gesequencete individuen, laat zien dat een tweede groep met steppe-afkomst rond 4.000 jaar geleden in Oost-Scandinavië verscheen. Daarmee dateren de voorlopers van het Germaans zo'n 800 jaar later dan traditioneel gedacht.\n\nBij de Keltische talen wijst afkomst die hoort bij de Urnenveldcultuur op een verspreiding naar het westen, tussen 3.200 en 2.800 jaar geleden, tot in noordoost-Spanje.",
+      "kern": "Talen verspreiden zich met mensen, en oud DNA maakt die routes op grote schaal zichtbaar.",
+      "bron": {
+        "titel": "We used ancient DNA to track the origins and spread of the Germanic and Celtic languages – new research",
+        "url": "https://theconversation.com/we-used-ancient-dna-to-track-the-origins-and-spread-of-the-germanic-and-celtic-languages-new-research-295786",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Urnfield_culture_distribution_map_%28after_V._Gordon_Childe%2C_1950%29.svg/1280px-Urnfield_culture_distribution_map_%28after_V._Gordon_Childe%2C_1950%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Sette-quattro · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Urnfield_culture_distribution_map_(after_V._Gordon_Childe,_1950).svg"
+      },
+      "beeldWiki": "Urnfield culture"
+    },
+    {
+      "id": "2026-11-06-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "kunstmatige-intelligentie",
+        "priemgetallen"
+      ],
+      "titel": "Een AI bewees de quasi-Riemann-hypothese",
+      "tekst": "De Riemann-hypothese zegt dat alle niet-triviale nulpunten van de zeta-functie op één lijn liggen. OpenAI claimde in oktober 2026 een bewijs van een zwakkere versie: de nulpunten liggen tussen 1/12 en 11/12 in plaats van overal tussen 0 en 1. Wiskundigen zijn grotendeels overtuigd, al wil Peter Sarnak pas van een stelling spreken na menselijke verificatie.\n\nVolgens Alexander Dunn is het bewijs een verrassende synthese van bekende ideeën: het model vond de juiste familie functies, de metaplectische vormen.",
+      "kern": "Het bewijs vroeg geen nieuwe concepten, maar legde verborgen verbanden tussen bestaande ideeën bloot.",
+      "bron": {
+        "titel": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+        "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Riemann_zeta_function_absolute_value.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "No machine-readable author provided. Conscious assumed (bas… · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Riemann_zeta_function_absolute_value.png"
+      },
+      "beeldWiki": "Riemann hypothesis"
+    },
+    {
+      "id": "2026-11-06-11",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "engineering",
+        "risico"
+      ],
+      "titel": "Bouw voor tien keer de belasting",
+      "tekst": "Farnam Street gebruikt een brug als voorbeeld: op een gewone dag rijden er 5.000 auto's overheen, maar ingenieurs ontwerpen hem voor veel meer, bijvoorbeeld tien keer die belasting. Ze ontwerpen voor extremen, niet voor gemiddelden, en voegen een buffer toe.\n\nHoe duurder falen is, hoe groter de marge. Reserves maken een systeem veerkrachtig. De valkuil: bij mensen kan te veel marge tot roekelozer gedrag leiden, zodat het voordeel verdwijnt.",
+      "kern": "Hoe duurder falen is, hoe groter de buffer moet zijn.",
+      "bron": {
+        "titel": "Margin of Safety: Expect the Unexpected",
+        "url": "https://fs.blog/margin-of-safety/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "suspension bridge",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cincinnati-roebling-suspension-bridge.jpg/1280px-Cincinnati-roebling-suspension-bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Derek Jensen (Tysto) · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cincinnati-roebling-suspension-bridge.jpg"
+      }
+    },
+    {
+      "id": "2026-11-06-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "kunstgeschiedenis",
+        "diversiteit",
+        "rijksmuseum"
+      ],
+      "titel": "Het portret van een koning die een stok vasthield",
+      "tekst": "Technisch onderzoek toonde dat Lodewijk Napoleon, koning van Holland (1806-1810) en bekend als de \"Lamme koning\", op zijn portret eerst een stok vasthield. Die is later overschilderd.\n\nHet Rijksmuseum-project Lichaamsverhalen laat schrijvers, ervaringsdeskundigen, wetenschappers en conservatoren elk op een kunstwerk reageren. Zo wordt een portret een verhaal over kwetsbaarheid, en wordt zichtbaar hoe lichamelijke en mentale diversiteit al eeuwen in de collectie zit.",
+      "kern": "Kunstwerken bevatten verhalen over lichamen die pas zichtbaar worden als je er anders naar kijkt.",
+      "bron": {
+        "titel": "Lichaamsverhalen: wat kunst vertelt over ons lichaam",
+        "url": "https://www.nemokennislink.nl/publicaties/lichaamsverhalen-wat-oude-kunst-vertelt-over-ons-lichaam/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/LouisBonaparte_Holland.jpg/1280px-LouisBonaparte_Holland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Charles Howard Hodges · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:LouisBonaparte_Holland.jpg"
+      },
+      "beeldWiki": "Louis Bonaparte"
+    },
+    {
+      "id": "2026-11-06-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "astronomie",
+        "oorsprong-van-leven",
+        "ruimtevaart"
+      ],
+      "titel": "Alle vijf de bouwstenen van DNA en RNA in een asteroïde",
+      "tekst": "In twee monsters van de asteroïde Ryugu, in 2020 door de Hayabusa2-missie naar de aarde gebracht, vond een team alle vijf nucleobasen: adenine, guanine, cytosine, thymine en uracil. Ze werkten in ultraschone labcondities en vonden ze in ongeveer vergelijkbare hoeveelheden.\n\nOok de meteorieten Murchison en Orgueil en monsters van de asteroïde Bennu bevatten nucleobasen. Dat suggereert dat deze ingrediënten wijdverspreid waren in het vroege zonnestelsel, al is dat nog een hypothese.",
+      "kern": "De bouwstenen van erfelijkheid zijn niet uniek voor de aarde: ze zitten ook in het gesteente van asteroïden.",
+      "bron": {
+        "titel": "All 5 fundamental units of life’s genetic code were just discovered in an asteroid sample",
+        "url": "https://theconversation.com/all-5-fundamental-units-of-lifes-genetic-code-were-just-discovered-in-an-asteroid-sample-278099",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/162173_Ryugu_brightened.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Original image taken by JAXA/ISAS, processed by User:Anonym… · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:162173_Ryugu_brightened.png"
+      },
+      "beeldWiki": "162173 Ryugu"
+    },
+    {
+      "id": "2026-11-06-14",
+      "pijler": "denken",
+      "tags": [
+        "veerkracht",
+        "systeemdenken",
+        "natuurkunde"
+      ],
+      "titel": "Wat natuurkunde leert over ontslagen worden",
+      "tekst": "Zahaan Bharmal werd in de zomer van 2001, na negen maanden bij een consultancy in Londen, ontslagen. Later gebruikte hij natuurkunde om te begrijpen wat er gebeurde. Edward Lorenz zag in 1961 dat afronden van zes naar drie decimalen een weersimulatie totaal anders liet uitpakken: in chaotische systemen kunnen kleine verschillen groot worden.\n\nEen tweede les: wie altijd op het maximum draait, mist \"surge capacity\" en wordt kwetsbaar, net als een stroomnet.",
+      "kern": "Een systeem zonder speling breekt bij de eerste schok; een buffer is een vorm van veerkracht.",
+      "bron": {
+        "titel": "The physics of getting fired",
+        "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/EdwardLorenz.jpg/1280px-EdwardLorenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "American Geophysical Union (AGU), courtesy of AIP Emilio Se… · Attribution · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:EdwardLorenz.jpg"
+      },
+      "beeldWiki": "Edward Norton Lorenz"
+    },
+    {
+      "id": "2026-11-06-15",
+      "pijler": "denken",
+      "tags": [
+        "intuitie",
+        "filosofie",
+        "kennisleer"
+      ],
+      "titel": "Waarom een intuïtie een reden kan zijn",
+      "tekst": "Soms weet je dat iets niet klopt, zoals bij een vreemdeling die \"creepy\" aanvoelt. Filosoof Marc Moffett betoogt in Aeon dat zo'n intuïtie een reden kan zijn, net als waarnemen: zoals het zien van een boom je reden geeft te geloven dat hij er staat, geeft het aanvoelen dat een vreemdeling creepy is je reden om weg te lopen.\n\nIntuïties overkomen ons, het zijn geen handelingen, en volgens Moffett ondersteunen ze ons begrip: intuïtie concurreert niet met het toepassen van begrippen, ze maakt het mogelijk.",
+      "kern": "Een intuïtie is geen bewijs, maar wel een reden die je niet automatisch hoeft weg te redeneren.",
+      "bron": {
+        "titel": "Sometimes, you ‘just know’ something’s off – but how?",
+        "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeld": {
+        "url": "https://images.aeonmedia.co/images/ebbfc9dd-2883-4780-837a-43887f0fbdb5/pessay-ar211874.jpg?width=1200&quality=75&format=jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: aeon.co",
+        "pagina": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how"
+      }
+    }
+  ]
+}
