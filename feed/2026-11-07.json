@@ -1,0 +1,400 @@
+{
+  "datum": "2026-11-07",
+  "kaarten": [
+    {
+      "id": "2026-11-07-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "kwantummechanica",
+        "natuurkunde",
+        "werkelijkheid"
+      ],
+      "titel": "Is de kwantumtoestand echt, of alleen onze kennis?",
+      "tekst": "Een dealer trekt twee kaarten uit een rode stapel of een azenstapel. In het klassieke spel kan een speler verliezen, bijvoorbeeld bij twee rode azen. In de kwantumversie van de PBR-stelling kan een machine de kaarten scannen zonder ze om te draaien en altijd winnen, omdat de toestanden niet overlappen.\n\nMatthew Pusey, Jonathan Barrett en Terry Rudolph bewezen dit in 2012. Het volgt dat de kwantumtoestand geen kennis over verborgen eigenschappen kan zijn. Quanta vat het samen: als iets echt is, dan is de kwantumtoestand dat ook.",
+      "kern": "Een bepaalde manier om kwantummechanica als kennis in plaats van werkelijkheid te lezen, is wiskundig uitgesloten.",
+      "bron": {
+        "titel": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+        "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Albert Einstein",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1280px-Albert_Einstein_Head_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Oren Jack Turner · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-02",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "risico"
+      ],
+      "titel": "Chesterton’s Fence: eerst begrijpen, dan weghalen",
+      "tekst": "Een hervormer ziet een hek over een weg en vindt het nutteloos. Chesterton’s antwoord in de parabel: wie het nut niet ziet, mag het niet weghalen. Eerst moet hij uitzoeken waarom het er staat. Pas als hij dat weet, mag hij het beargumenteren.\n\nDe regel is breder dan hekken. Regels, gewoontes en instellingen ontstonden met een reden. Die reden kan verdwenen zijn, maar grijp je in zonder haar te kennen, dan krijg je onbedoelde gevolgen die jaren kunnen doorwerken.",
+      "kern": "Verander niets voordat je weet waarom het er is.",
+      "bron": {
+        "titel": "Chesterton’s Fence: A Lesson in Thinking",
+        "url": "https://fs.blog/chestertons-fence/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "G. K. Chesterton",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gilbert_Chesterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Ernest Herbert Mills · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Gilbert_Chesterton.jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "klimaat",
+        "vulkanen",
+        "19e-eeuw"
+      ],
+      "titel": "1816: het jaar zonder zomer",
+      "tekst": "In juni 1816 sneeuwde het in Albany en in Maine. De oorzaak lag aan de andere kant van de wereld: in april 1815 barstte de Tambora op Sumbawa uit, minstens 37 kubieke kilometer materiaal, de grootste uitbarsting in minstens 1.300 jaar. De Europese zomer werd de koudste tussen 1766 en 2000.\n\nDe gevolgen waren talloos: voedseloproeren, hongersnood, en het regenachtige weer hield Mary Shelley, Byron en Polidori binnen aan het Meer van Genève. Daar begon Frankenstein.",
+      "kern": "Een vulkaan op Sumbawa verstoorde oogsten, migratie en literatuur aan de andere kant van de wereld.",
+      "bron": {
+        "titel": "Year Without a Summer",
+        "url": "https://en.wikipedia.org/wiki/Year_Without_a_Summer",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Mount Tambora",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mount_Tambora_Volcano%2C_Sumbawa_Island%2C_Indonesia.jpg/1280px-Mount_Tambora_Volcano%2C_Sumbawa_Island%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "This image was taken by the NASA Expedition 20 crew. · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mount_Tambora_Volcano,_Sumbawa_Island,_Indonesia.jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "bloed",
+        "pigmenten"
+      ],
+      "titel": "Bloed is lang niet altijd rood",
+      "tekst": "Mensen hebben rood bloed door ijzer in hemoglobine. Octopussen, krabben en hoefijzerkrabben gebruiken hemocyanine met koper, en dat kleurt blauw zodra het zuurstof bindt. Brachiopoden en pindawormen hebben paars bloed door hemerythrine. Bij hagedissen uit Nieuw-Guinea hoopt zich biliverdine op en kleurt het bloed groen.\n\nAntarctische ijsvissen hebben helemaal geen hemoglobine of rode bloedcellen. Hun bloed is melkachtig doorschijnend, omdat zuurstof direct in het bloed oplost.",
+      "kern": "Bloedkleur is een kwestie van welk metaal of pigment zuurstof draagt.",
+      "bron": {
+        "titel": "The Bloody Palette of the Animal Kingdom Goes Far Beyond Red",
+        "url": "https://www.smithsonianmag.com/science-nature/the-bloody-palette-of-the-animal-kingdom-goes-far-beyond-red-these-creatures-have-blood-that-runs-a-chilling-blue-bright-green-or-milky-white-180989752/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Horseshoe crab",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tachypleus_gigas.JPG/1280px-Tachypleus_gigas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Shubham Chatterjee · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tachypleus_gigas.JPG"
+      }
+    },
+    {
+      "id": "2026-11-07-05",
+      "pijler": "denken",
+      "tags": [
+        "meten",
+        "besluitvorming",
+        "economie"
+      ],
+      "titel": "Goodhart’s wet: als een maat een doel wordt",
+      "tekst": "Zodra een maatstaf een doel wordt, is hij geen goede maatstaf meer. Zo formuleerde Keith Hoskin in 1996 een idee van de Britse econoom Charles Goodhart, die in 1975 schreef dat een statistisch verband instort zodra je er druk op zet om te sturen.\n\nHet gebeurde bij het Britse testdoel van 100.000 tests per dag, dat eerst uitgevoerde tests telde en later maximale capaciteit, en in de wetenschap, waar Mario Biagioli stelde dat alle meetpunten van wetenschappelijke kwaliteit misbruikt zullen worden.",
+      "kern": "Wie op een cijfer stuurt, krijgt uiteindelijk het cijfer en niet meer het doel.",
+      "bron": {
+        "titel": "Goodhart's law",
+        "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Charles Goodhart",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-07-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "massahysterie",
+        "straatsburg"
+      ],
+      "titel": "De dansepidemie van Straatsburg, 1518",
+      "tekst": "Op 14 juli 1518 begon Frau Troffea in een straat in Straatsburg te dansen. Binnen enkele dagen volgden meer dan dertig anderen, en in augustus dansten tussen de 50 en 400 mensen. De stad probeerde het met meer dansen: artsen adviseerden de getroffenen zich vrij te dansen.\n\nErgotvergiftiging wordt vaak genoemd, maar John Waller verwerpt dat: dagenlang dansen zou zo niet lukken. Hij gaat uit van massahysterie door stress, honger en bijgeloof. Het aantal doden is onzeker.",
+      "kern": "Een stad in nood kan collectief zo ontregeld raken dat ook de remedie het probleem versterkt.",
+      "bron": {
+        "titel": "Dancing plague of 1518",
+        "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Dancing plague of 1518",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dancingplague2_%28alt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Dancingplague2_(alt).jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "ruimtevaart",
+        "engineering",
+        "zon"
+      ],
+      "titel": "Swift verbrandde, ondanks een reddingspoging",
+      "tekst": "Op 4 november 2026 verbrandde NASA’s Swift-telescoop boven Noord-Sumatra. Zonneactiviteit liet de hoge atmosfeer opzwellen, waardoor de luchtweerstand Swift omlaag trok. Een reddingsrobot, LINK van Katalyst Space, moest hem in een hogere baan brengen. In juli viel echter twee van zijn drie reactiewielen uit en raakte hij in een ongecontroleerde draai.\n\nDe correcties kostten brandstof die nodig was voor het vangen. In augustus werd de missie afgeblazen. LINK greep Swift nooit.",
+      "kern": "Een satelliet ophalen is moeilijker dan een satelliet lanceren, vooral als de atmosfeer meewerkt aan de val.",
+      "bron": {
+        "titel": "NASA's Swift telescope has burned up, months after a robot sent to save it failed – here's why it's so hard to boost a satellite",
+        "url": "https://theconversation.com/nasas-swift-telescope-has-burned-up-months-after-a-robot-sent-to-save-it-failed-heres-why-its-so-hard-to-boost-a-satellite-295538",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Neil Gehrels Swift Observatory",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Swift_Observatory_spacecraft_model.png/1280px-Swift_Observatory_spacecraft_model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA E/PO, Sonoma State University/Aurore Simonnet · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Swift_Observatory_spacecraft_model.png"
+      }
+    },
+    {
+      "id": "2026-11-07-08",
+      "pijler": "denken",
+      "tags": [
+        "overtuigingen",
+        "psychologie",
+        "rechtsstaat"
+      ],
+      "titel": "Geloven kies je, weten niet",
+      "tekst": "Je kunt niet kiezen te geloven dat leeuwen vegetariërs zijn, zelfs niet voor een miljoen dollar. Religieus geloof ligt anders: dat is vrijwillig, niet gevoelig voor bewijs en beperkt tot rituele momenten. Feitelijk geloof is onvrijwillig, bewijsgevoelig en stuurt je gedrag altijd.\n\nVolgens dit Aeon-essay verklaart dat het scheiden van kerk en staat. Beleid moet toetsbaar zijn, en religieus geloof is dat niet. Omdat het privé kan blijven, past het ook goed bij vrijheid van godsdienst.",
+      "kern": "Kerk en staat scheiden werkt omdat geloven en weten psychologisch verschillende dingen zijn.",
+      "bron": {
+        "titel": "The psychology of separating church and state",
+        "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Wall of separation between church and state",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-07-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "beslistheorie",
+        "pascal"
+      ],
+      "titel": "Pascals gok: de eerste beslissingstheorie?",
+      "tekst": "Pascal redeneerde zo: of God bestaat, of niet, en je moet kiezen. Wed je op God en het klopt, dan wint je oneindig veel. Klopt het niet, dan verlies je iets eindigs. Zelfs bij een kleine kans is de verwachte opbrengst dus oneindig.\n\nHacking noemde het in 1975 de eerste goed begrepen bijdrage aan de beslistheorie. Bezwaren: elke bedachte god geeft een eigen gok, en Diderot zei dat een imam hetzelfde kon beredeneren. Voltaire vond het kinderachtig.",
+      "kern": "Pascals gok is zowel een start van de beslistheorie als een les in de grenzen ervan.",
+      "bron": {
+        "titel": "Pascal's Wager",
+        "url": "https://plato.stanford.edu/entries/pascal-wager/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Blaise Pascal",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/1280px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "unknown; a copy of the painting of François II Quesnel, whi… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles,_circa_1690.JPG"
+      }
+    },
+    {
+      "id": "2026-11-07-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "grafentheorie",
+        "bewijzen"
+      ],
+      "titel": "Het vierkleurenprobleem krijgt een efficiënter bewijs",
+      "tekst": "In 1852 kleurde Francis Guthrie een kaart van Engelse graafschappen en vroeg zich af of vier kleuren altijd volstaan. Het eerste bewijs, van Kempe in 1879, stond elf jaar voordat Heawood er een fout in vond. Appel en Haken losten het in 1976 met een computer op.\n\nHet nieuwe bewijs van Thorup, Thomassen en collega’s gebruikt een verzameling van 8.202 configuraties die tegelijk te reduceren zijn. Dat scheelt veel stappen. Thomassen wil toch een bewijs zonder computer.",
+      "kern": "Zelfs een opgelost probleem kan jarenlang om een mooier bewijs blijven vragen.",
+      "bron": {
+        "titel": "The Four-Color Theorem Has Haunted Mathematicians for Decades. It Just Got a Rare New Proof, but Some Still Long for a Simpler Solution",
+        "url": "https://www.smithsonianmag.com/science-nature/the-four-color-theorem-has-haunted-mathematicians-for-decades-it-just-got-a-rare-new-proof-but-some-still-long-for-a-simpler-solution-180989799/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Four color theorem",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Colour_Map_Example.svg/1280px-Four_Colour_Map_Example.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Inductiveload · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Four_Colour_Map_Example.svg"
+      }
+    },
+    {
+      "id": "2026-11-07-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "paleontologie",
+        "egypte",
+        "uitsterven"
+      ],
+      "titel": "Een uitgestorven krokodil in het gesteente van de Sphinx",
+      "tekst": "De Grote Sphinx is uit kalksteen van de Mokattam-formatie gehouwen, ongeveer 45 miljoen jaar oud. Daarin vonden onderzoekers een nieuwe uitgestorven gavialsoort, Herugavialis cairensis, genoemd naar Horus.\n\nHet helpt verklaren waarom krokodilachtigen ongeveer 6 miljoen jaar geleden uit de Middellandse Zee verdwenen: de zee droogde bijna op door de Messiniaanse zoutcrisis, en het water werd te zout, zelfs voor soorten die zout water kunnen hebben.",
+      "kern": "Een oud gesteente bewaart de sporen van een verdwenen zee en haar bewoners.",
+      "bron": {
+        "titel": "How the Sphinx is helping answer a riddle about extinct crocodiles",
+        "url": "https://theconversation.com/how-the-sphinx-is-helping-answer-a-riddle-about-extinct-crocodiles-294007",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Great Sphinx of Giza",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1280px-Sphinx_with_the_third_pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Hesham Ebaid · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "afrika",
+        "territorium"
+      ],
+      "titel": "Botten in Malawi: grenzen zonder oorlog",
+      "tekst": "In de rotsschuilplaats Hora 1 in noord-Malawi lagen ongeveer 13.000 botfragmenten uit 21.000 jaar bewoning. De jagers brachten hele karkassen terug, dus jaagden ze dicht bij huis. Het voedsel was echter niet overvloedig genoeg om actief te verdedigen.\n\nToch is er vanaf 19.000 jaar geleden een grens tussen wij en zij: DNA toont dat verwantschap snel afneemt met de afstand. Bertacchi en Thompson vermoeden dat de grenzen vooral symbolisch werden bewaakt, bijvoorbeeld met gedeelde begrafenisrituelen.",
+      "kern": "Een territorium kan een identiteit zijn zonder dat er om gevochten hoeft te worden.",
+      "bron": {
+        "titel": "What animal bones in Malawi teach us about the social lives of people long ago",
+        "url": "https://theconversation.com/what-animal-bones-in-malawi-teach-us-about-the-social-lives-of-people-long-ago-281660",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Malawi rock shelter",
+      "beeld": {
+        "url": "https://images.theconversation.com/files/767375/original/file-20261020-70-gu0jbi.JPG?ixlib=rb-4.1.1&rect=0%2C329%2C5184%2C2592&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/what-animal-bones-in-malawi-teach-us-about-the-social-lives-of-people-long-ago-281660"
+      }
+    },
+    {
+      "id": "2026-11-07-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "wetenschapsfilosofie",
+        "onderzoek"
+      ],
+      "titel": "Wanneer is stof in de ruimte geen hinder maar het doel?",
+      "tekst": "Stof verstoort de kosmische achtergrondstraling, en geioniseerd gas verstoort pulsarmetingen. Astronomen noemen dat ruis. Volgens Dylan Jow (Stanford) is dat een keuze: sinds de Koude Oorlog en de annulering van de Superconducting Super Collider in 1993 geldt het heelal als laboratorium voor fundamentele natuurkunde.\n\nOnderzoekers moeten daarom hun werk koppelen aan de Grote Vragen om geld te krijgen. Zijn punt: de prioriteiten van een vakgebied zijn geen natuurwet, maar een keuze.",
+      "kern": "Wat als ruis telt, hangt af van wat een vakgebied belangrijk vindt.",
+      "bron": {
+        "titel": "Celestial nuisance (Why astrophysics needs to abandon the ‘Big Questions’)",
+        "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Cosmic microwave background",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cosmic_Microwave_Background_%28CMB%29.jpeg/1280px-Cosmic_Microwave_Background_%28CMB%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "ESA and the Planck Collaboration · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cosmic_Microwave_Background_(CMB).jpeg"
+      }
+    },
+    {
+      "id": "2026-11-07-14",
+      "pijler": "denken",
+      "tags": [
+        "recht",
+        "natuur",
+        "amazone"
+      ],
+      "titel": "Wie bezit een regenwoud? Het Peruaanse antwoord",
+      "tekst": "Voor buitenstaanders was de Amazone res nullius, niemands land, en dus te nemen. Tussen 1880 en 1940 draaide de rubberhandel op gedwongen arbeid van inheemse mensen. Pas in 1974 erkende de Peruaanse staat inheemse gemeenschappen juridisch.\n\nIn het Santuario Nacional Megantoni van 215.868 hectare gelden per zone andere regels: toerisme langs de Urubamba, traditionele jacht en visserij in Sababantiari. Voor ongecontacteerde volken geldt een streng beschermd gebied dat boswachters niet mogen betreden.",
+      "kern": "Natuurbescherming met regels is een evenwichtsoefening tussen eigendom, rechten en een andere kijk op het bos.",
+      "bron": {
+        "titel": "Hoe bescherm je de Amazone met regels?",
+        "url": "https://nemokennislink.nl/publicaties/hoe-bescherm-je-de-amazone-met-regels/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Urubamba River",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Urubamba_River_seen_from_train_to_Machu_Picchu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Leon petrosyan · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Urubamba_River_seen_from_train_to_Machu_Picchu.jpg"
+      }
+    },
+    {
+      "id": "2026-11-07-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "vleermuizen",
+        "echolocatie",
+        "dierengedrag"
+      ],
+      "titel": "Hoe vleermuizen door de herrie heen horen",
+      "tekst": "Dwergvleermuizen vertragen of versnellen op de ‘Doppler-melodie’ van bewegende echo’s: in een test met 8.000 nepbladeren op twee transportbanden. Japanse hoefijzerneuzen stemmen hun roep af op het voorwerp met de hoogste consistente echofrequentie, zodat lagere achtergrondechos wegvallen.\n\nProboscis-vleermuizen gebruiken 22 syllabetypes, vaak boven het gehoor van roofdieren. Franjelip-vleermuizen stoppen met echolocatie en luisteren naar kikkerroepen om te bepalen welke prooi veilig is.",
+      "kern": "Vleermuizen filteren de herrie niet weg maar gebruiken haar.",
+      "bron": {
+        "titel": "Bats Thrive in a Messy, Noisy World. These Four Discoveries Reveal How They Can Listen and Chatter Through the Din",
+        "url": "https://www.smithsonianmag.com/science-nature/bats-thrive-in-a-messy-noisy-world-these-four-discoveries-reveal-how-they-can-listen-and-chatter-through-the-din-180989750/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Pipistrelle",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pipistrellus_pipistrellus_lateral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "onbekend · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Pipistrellus_pipistrellus_lateral.jpg"
+      }
+    }
+  ]
+}
