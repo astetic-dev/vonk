@@ -1,0 +1,401 @@
+{
+  "datum": "2026-11-08",
+  "kaarten": [
+    {
+      "id": "2026-11-08-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "schimmels",
+        "ecologie"
+      ],
+      "titel": "Schimmels als handelaren onder je voeten",
+      "tekst": "Tachtig procent van alle plantensoorten leeft samen met schimmels, een relatie van zo'n 450 miljoen jaar oud. Planten sturen suikers en vetten de grond in; schimmeldraden van een paar micron dik leveren fosfor en stikstof terug. Volgens bioloog Toby Kiers gaat tot 80 procent van de fosfor van een plant eerst door een schimmelnetwerk.\n\nPlanten en schimmels kiezen elkaar bovendien: wie meer levert, krijgt meer koolstof. Zonder hersenen gedraagt zo'n netwerk zich als een slimme handelaar.",
+      "kern": "Onder de grond ruilen planten en schimmels koolstof tegen voedingsstoffen, en kiezen ze daarbij hun beste partner.",
+      "bron": {
+        "titel": "How Do Fungi Keep the Planet Healthy?",
+        "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+        "soort": "podcast",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Mycorrhiza",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Amanita_muscaria_fruit_bodies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "onbekend · CC BY 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria_fruit_bodies.jpg"
+      }
+    },
+    {
+      "id": "2026-11-08-02",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "kansrekening"
+      ],
+      "titel": "Een spion leeft gemiddeld zes weken: denken in kansen",
+      "tekst": "Van de 400 agenten die Vera Atkins van de Britse SOE naar Frankrijk stuurde, werden er 100 gevangen en gedood. Haar marconisten overleefden gemiddeld zes weken. Zulke cijfers dwingen tot kansdenken.\n\nProbabilistisch denken begint met een uitgangskans (de basisfrequentie) en past die aan met nieuwe informatie, zoals Thomas Bayes beschreef. Houd rekening met extremen: bij verdelingen met dikke staarten is er geen plafond. Het garandeert geen succes, maar brengt je in de buurt van de werkelijkheid.",
+      "kern": "Begin bij de basiskans, werk die bij met nieuw bewijs, en reken op uitschieters.",
+      "bron": {
+        "titel": "The Value of Probabilistic Thinking: Spies, Crime, and Lightning Strikes",
+        "url": "https://fs.blog/probabilistic-thinking/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "leesmin": 2,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-08-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "bronstijd",
+        "vulkanen",
+        "archeologie"
+      ],
+      "titel": "Akrotiri: het Griekse Pompeii onder 60 meter as",
+      "tekst": "Rond 1620 tot 1530 voor Christus begroef de vulkaan Thera op Santorini de Bronstijdstad Akrotiri onder zo'n 200 voet as en puimsteen. Eerst waarschuwden aardbevingen en rookpluimen de bewoners, die per boot vertrokken, kort terugkeerden en opnieuw vluchtten.\n\nDaardoor is een zeevarende samenleving bewaard gebleven, met huizen als Xeste 3 van veertien kamers per verdieping. Pas in 1967 begon Spyridon Marinatos de grote opgraving. Tot nu toe is ongeveer 10 procent van de nederzetting blootgelegd.",
+      "kern": "Vroege waarschuwingen redden Akrotiri's bewoners; de stad zelf bleef daardoor ongewoon heel.",
+      "bron": {
+        "titel": "Greece Has Its Own Pompeii, and the Ruins Tell a Captivating Story of a Sophisticated, Seafaring Bronze Age Society",
+        "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Akrotiri (Santorini)",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Akrotiri003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "originaly owned and uploaded by Κλέαρχος Π. Καπούτσης, tran… · Attribution · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Akrotiri003.jpg"
+      }
+    },
+    {
+      "id": "2026-11-08-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "meten",
+        "informatica"
+      ],
+      "titel": "Waarom AI-benchmarks niets meer zeggen, en wat ertegen helpt",
+      "tekst": "Informaticus Moritz Hardt zegt: \"The benchmarking ecosystem is broken.\" Een benchmark rangschikt modellen met een testset, en dat werkt zolang alle modellen op dezelfde trainingsdata zijn getraind. Bij taalmodellen is niet bekend wat erin zat, en bouwers kunnen er op sturen. De absolute scores zeggen dan weinig, de volgorde nog wel iets.\n\nHardt stelt \"altitude training\" voor: iedereen bereidt zich volgens een vast protocol voor op de benchmarkdata. De cijfers worden opgeblazen, maar de rangschikking wordt weer geldig.",
+      "kern": "Wie het examen kent, scoort hoger. Gelijke voorbereiding voor iedereen herstelt de rangorde.",
+      "bron": {
+        "titel": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+        "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "ImageNet",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Social.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: quantamagazine.org",
+        "pagina": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
+      }
+    },
+    {
+      "id": "2026-11-08-05",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "neurodiversiteit",
+        "gewoontes"
+      ],
+      "titel": "Autisme en ADHD in één hoofd: orde en prikkel tegelijk",
+      "tekst": "Tussen de 50 en 70 procent van de autistische mensen heeft ook ADHD, schrijft Sarah Hendrickx. Dat levert twee tegengestelde krachten op. Autisme zoekt routine en voorspelbaarheid, ADHD zoekt nieuwigheid en variatie.\n\nHendrickx beschrijft hoe ze elkaar corrigeren: autisme houdt ADHD in toom om taken af te maken, ADHD doorbreekt de starheid. Pas sinds 2013 mogen beide diagnoses samen worden gesteld, en onderzoek naar de combinatie is jong. Zelf haalde ze 90 procent van de stress en onvoorspelbaarheid uit haar leven.",
+      "kern": "Tegenstrijdige behoeften hoeven je niet te verlammen, als je er ruimte voor beide inbouwt.",
+      "bron": {
+        "titel": "Methodical/mercurial",
+        "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://images.aeonmedia.co/images/38d6ec42-ad97-412b-800e-8e5c327d2c8f/essay-claudio-schwarz-exb9oi0i1ha-unsplash.jpg?width=1200&quality=75&format=jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: aeon.co",
+        "pagina": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd"
+      }
+    },
+    {
+      "id": "2026-11-08-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "oude-grieken",
+        "epicurisme"
+      ],
+      "titel": "Epicurus: de dood is niets voor ons",
+      "tekst": "Epicurus (341-270 voor Christus) noemde angst voor de dood de grootste bron van onrust. Zijn redenering: zolang wij er zijn, is de dood er niet, en als de dood er is, zijn wij er niet meer. \"Death is nothing to us.\"\n\nZijn doel was ataraxia, de afwezigheid van geestelijke onrust. Daarom ordende hij verlangens in natuurlijke en noodzakelijke, natuurlijke maar niet noodzakelijke, en lege. Vriendschap rekende hij tot het beste wat een leven kan hebben.",
+      "kern": "Rust komt niet van meer krijgen, maar van minder vrezen en minder lege verlangens.",
+      "bron": {
+        "titel": "Epicurus",
+        "url": "https://plato.stanford.edu/entries/epicurus/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Epicurus",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1280px-Epikouros_BM_1843.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Unknown artist · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg"
+      }
+    },
+    {
+      "id": "2026-11-08-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "paleontologie",
+        "evolutie",
+        "zoogdieren"
+      ],
+      "titel": "Een zoogdier zo groot als een poema liep tussen de dinosaurussen",
+      "tekst": "In zuidelijk Brazilië vonden steengroeparbeiders in 2019 sporen in gesteente van ongeveer 130 miljoen jaar oud. De afdrukken zijn bijna twee keer zo groot als de grootste andere zoogdiersporen uit dezelfde lagen. Onderzoekers denken aan een viervoeter ter grootte van een poema.\n\nDat past bij andere aanwijzingen: Repenomamus beet 125 miljoen jaar geleden in een jonge dinosaurus. Elsa Panciroli noemt het \"very exciting\", mits het echt om zoogdieren of nauwe verwanten gaat.",
+      "kern": "Zoogdieren uit het tijdperk van de dinosaurussen waren niet allemaal klein.",
+      "bron": {
+        "titel": "Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs",
+        "url": "https://www.smithsonianmag.com/science-nature/fossil-footprints-in-brazil-hint-at-a-cougar-size-mammal-that-walked-among-dinosaurs-its-another-sign-that-some-early-beasts-grew-to-impressive-sizes-after-all-180989815/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldZoek": "fossil dinosaur footprints track",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Impression_of_a_Dinosaur_Trace_Fossil_Footprint_-_DPLA_-_8d083e6ac6b685c53d3dc5fb84baa8a6.jpg/1280px-Impression_of_a_Dinosaur_Trace_Fossil_Footprint_-_DPLA_-_8d083e6ac6b685c53d3dc5fb84baa8a6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "President (1969-1974 : Nixon). White House Gift Unit. 1/20/… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Impression_of_a_Dinosaur_Trace_Fossil_Footprint_-_DPLA_-_8d083e6ac6b685c53d3dc5fb84baa8a6.jpg"
+      }
+    },
+    {
+      "id": "2026-11-08-08",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "risico"
+      ],
+      "titel": "Weet waar je cirkel ophoudt",
+      "tekst": "Warren Buffett vertelt over Rose Blumkin, een Russische immigrant met gebrekkig Engels die de grootste meubelzaak van Nebraska bouwde. Over aandelen zei ze: ze begreep ze niet, dus liet ze ze links liggen.\n\nDe cirkel van competentie draait niet om grootte: \"What is important is knowing when you are approaching the perimeter.\" Bij de rand neemt je voordeel af, maar je vertrouwen daalt minder snel dan je kunnen. Het gevaar zit dus in wat je niet ziet.",
+      "kern": "Je vertrouwen zakt langzamer dan je kennis; let op de rand van je cirkel.",
+      "bron": {
+        "titel": "Mastering Success: Navigating Within Your Circle of Competence",
+        "url": "https://fs.blog/circle-of-competence/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Warren Buffett",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "USA International Trade Administration · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-08-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "maya",
+        "archeologie",
+        "steden"
+      ],
+      "titel": "Caracol was geen leeg tempelcentrum maar een stad van 100.000",
+      "tekst": "Archeologen Arlen en Diane Chase werken sinds 1987 in de Maya-stad Caracol in Belize. Lidar-scans in 2009 lieten de ware omvang zien: een piekbevolking van meer dan 100.000 mensen, met 1.600 reservoirs en terrassen. Vrijwel iedereen woonde binnen twintig minuten lopen van een markt.\n\nObsidiaan, jade en aardewerk bij gewone huishoudens tonen dat niet alleen de elite handelsgoed had. Na de overwinning op Tikal in 562 hielden heersers hun rijkdom bescheiden: \"symbolic egalitarianism\".",
+      "kern": "Maya-steden waren dichtbevolkt en minder elitair dan het oude beeld wilde.",
+      "bron": {
+        "titel": "Archaeologists at This Ancient Maya Metropolis in the Forest of Belize Are Debunking Long-Held Myths About the Mesoamerican Civilization",
+        "url": "https://www.smithsonianmag.com/history/archaeologists-ancient-maya-metropolist-forest-belize-debunking-long-held-myth-about-mesoamerican-civilization-180989648/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Caracol (Maya site)",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/2ZoucxlnjaYfuDxl-x_A_zOmNok=/fit-in/1200x0/filters:focal(1575x1050:1576x1051)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/84/c1/84c11f72-06b7-4005-ae60-ef238b55d97d/opener_-_2602-bel-car-52_copy.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/history/archaeologists-ancient-maya-metropolist-forest-belize-debunking-long-held-myth-about-mesoamerican-civilization-180989648/"
+      }
+    },
+    {
+      "id": "2026-11-08-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "zonnestorm",
+        "geschiedenis-van-de-wetenschap",
+        "telegrafie"
+      ],
+      "titel": "1859: de zonnestorm die telegrafen zonder batterij liet werken",
+      "tekst": "Op 1 september 1859 zagen Richard Carrington en Richard Hodgson als eersten een zonnevlam. Een coronale massa-ejectie legde de 150 miljoen kilometer naar de aarde in 17,6 uur af, veel sneller dan gebruikelijk. Een eerdere uitbarsting had de weg vrijgemaakt.\n\nTelegraafsystemen in Europa en Noord-Amerika vielen uit. Telegrafisten tussen Boston en Portland communiceerden ongeveer twee uur zonder batterijen, alleen op de stroom van het noorderlicht. Een schatting uit 2013 zet de schade van zo'n storm nu op 0,6 tot 2,6 biljoen dollar.",
+      "kern": "Een zonnestorm kan geleidende draden zelf van stroom voorzien en ons net op hol laten slaan.",
+      "bron": {
+        "titel": "Carrington Event",
+        "url": "https://en.wikipedia.org/wiki/Carrington_Event",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Carrington Event",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/1280px-Carrington_Richard_drawing_of_1859_sunspots.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Richard Christopher Carrington · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Carrington_Richard_drawing_of_1859_sunspots.jpeg"
+      }
+    },
+    {
+      "id": "2026-11-08-11",
+      "pijler": "denken",
+      "tags": [
+        "systeemdenken",
+        "denkmodellen",
+        "terugkoppeling"
+      ],
+      "titel": "Thermostaat of sneeuwbal: twee soorten terugkoppeling",
+      "tekst": "Een thermostaat zet de verwarming uit als het warm wordt en weer aan als het koud is: negatieve terugkoppeling dempt en stabiliseert. Positieve terugkoppeling versterkt juist. Bij speculatiebubbels voedt optimisme hoge prijzen en voeden hoge prijzen optimisme.\n\nCharlie Munger omschreef de kredietcrisis als een \"vicious negative-feedback cycle\". Vraag bij elk systeem dus: wat dempt, wat versterkt, en welke lus wint?",
+      "kern": "Zoek in elk systeem naar lussen die dempen en lussen die versterken.",
+      "bron": {
+        "titel": "An Introduction to Feedback Loops",
+        "url": "https://fs.blog/mental-model-feedback-loops/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldWiki": "Thermostat",
+      "leesmin": 1,
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/PECO_T8532-002.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Mottsarah · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:PECO_T8532-002.png"
+      }
+    },
+    {
+      "id": "2026-11-08-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "topologie",
+        "ruimte"
+      ],
+      "titel": "Wat zie je in de vierde dimensie? Een rol van driedimensionale foto's",
+      "tekst": "Wiskundige Maggie Miller (University of Texas at Austin) vergelijkt de vierde dimensie met \"a reel of three-dimensional snapshots\": een reeks ruimtes achter elkaar, zoals tijd. In 4D gedragen dingen zich anders. Een knoop in 3D kan in 4D ontknoopt worden, maar geknoopte oppervlakken niet altijd, en daar richt haar onderzoek zich op.\n\nOm haar intuïtie niet te verliezen tekent ze met strikte regels, zodat een tekening iets betekent. Het is volgens haar \"not proof by picture\".",
+      "kern": "Een vierde dimensie voorstellen kan, mits je tekeningen aan regels bindt.",
+      "bron": {
+        "titel": "What Does the Fourth Dimension Actually Look Like?",
+        "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+        "soort": "podcast",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "beeldZoek": "tesseract hypercube projection",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tesseract_net_Crooked_House.svg/1280px-Tesseract_net_Crooked_House.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "AnonMoos, Byteemoz · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tesseract_net_Crooked_House.svg"
+      }
+    },
+    {
+      "id": "2026-11-08-13",
+      "pijler": "denken",
+      "tags": [
+        "rouw",
+        "psychologie",
+        "filosofie"
+      ],
+      "titel": "Rouw is liefde zonder bestemming, ook zonder dood",
+      "tekst": "Rouw is niet alleen voor de doden, schrijft Derek van Zoonen. Ze ontstaat bij elk verlies dat mogelijkheden uit je leven haalt. Filosofen Matthew Ratcliffe en Louise Richardson (2023) beschrijven rouw als het inzien van verloren mogelijkheden.\n\nOmdat zulke verliezen ambigu zijn, heet de rouw volgens Kenneth Doka \"disenfranchised\": ze krijgt geen erkenning en geen woorden. Zonder taal gaat het verdriet ondergronds, en vervreemdt iemand van zichzelf.",
+      "kern": "Benoem ook verlies zonder overlijden: onbenoemd verdriet verdwijnt niet.",
+      "bron": {
+        "titel": "Love with nowhere to go",
+        "url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": true,
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://images.aeonmedia.co/images/e4ffcd43-fc58-49e0-9596-99b6020acfca/essay-v2-nyc117497.jpg?width=1200&quality=75&format=jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: aeon.co",
+        "pagina": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death"
+      }
+    },
+    {
+      "id": "2026-11-08-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "landbouw",
+        "biodiversiteit",
+        "genetica"
+      ],
+      "titel": "Zaden uit een zolder: de tarwe die zeven aren per stengel droeg",
+      "tekst": "Begin jaren negentig vond boer Claudio Grossi in Parma een zak oude zaden op zijn zolder. Hij plantte ze in een mesthoop. De planten werden ongeveer zes voet hoog, tweemaal zo hoog als gangbare tarwe, met zeven aren per stengel in plaats van één.\n\nDe hoge halmen overschaduwen onkruid en doorstaan droogte beter. Onderzoek wees op meer fosfor en ijzer en minder gluten. Het is *Triticum turgidum*, poulard-tarwe. Oude rassen kunnen dus verrassend robuust zijn.",
+      "kern": "Vergeten gewasrassen kunnen eigenschappen dragen die moderne rassen missen.",
+      "bron": {
+        "titel": "An Italian Farmer Found Some Unknown Seeds in His Attic and, With Nothing to Lose, Planted Them. The Result Was Almost Biblical",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": true,
+      "beeldWiki": "Triticum turgidum",
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Triticum-turgidum-ear.JPG/1280px-Triticum-turgidum-ear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "onbekend · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Triticum-turgidum-ear.JPG"
+      }
+    },
+    {
+      "id": "2026-11-08-15",
+      "pijler": "denken",
+      "tags": [
+        "gemeenschap",
+        "psychologie",
+        "zelfbeeld"
+      ],
+      "titel": "Samenwonen: waar je zelfbeeld sneuvelt",
+      "tekst": "Elizabeth Oldfield woonde bijna zes jaar met anderen samen en schrijft: \"Living in community is where illusions about the self go to die.\" Zonder gepolijste persona zien huisgenoten elkaar zoals men is, en dat dwingt tot bijstellen.\n\nVolgens Dan Siegel ontstaat het zelf uit relaties. Oldfield: \"We triangulate the world via other people.\" Gemeenschappen houden alleen stand als ze hun aandacht naar buiten richten, op iets voorbij de groep zelf.",
+      "kern": "Anderen zijn de spiegel waarin je zelfbeeld getest wordt, en dat maakt je nauwkeuriger.",
+      "bron": {
+        "titel": "Living in community is where self-illusions go to die",
+        "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "verkenning": false,
+      "leesmin": 2,
+      "beeld": {
+        "url": "https://images.aeonmedia.co/images/9bc0eb2d-bb6c-4037-8408-96e841ba02b7/essay-photo-.jpg?width=1200&quality=75&format=jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: aeon.co",
+        "pagina": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die"
+      }
+    }
+  ]
+}
