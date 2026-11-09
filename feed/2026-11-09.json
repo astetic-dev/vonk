@@ -1,0 +1,392 @@
+{
+  "datum": "2026-11-09",
+  "kaarten": [
+    {
+      "id": "2026-11-09-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "ontwikkeling",
+        "stamcellen"
+      ],
+      "titel": "Waddingtons landschap: de bal die een cel is",
+      "tekst": "Zet een bal bovenop een heuvel vol vertakkende dalen: dat tekende Conrad Waddington in de jaren vijftig om te laten zien hoe een stamcel een huid-, zenuw- of spiercel wordt. Bij elke splitsing rolt de bal één dal in, en de dalwanden houden hem op koers. Lang was dit alleen een metafoor. Nu worden landschappen in kaart gebracht uit data van vele duizenden cellen.\n\nHet blijkt ingewikkelder: volgens David Rand is het landschap niet vast, maar een eigenschap van elke cel en verandert het tijdens de ontwikkeling.",
+      "kern": "Een cel rolt niet over een vast landschap: de cellen vormen dat landschap onderweg zelf mee.",
+      "bron": {
+        "titel": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own",
+        "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Conrad Hal Waddington",
+      "beeld": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Social-1.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: quantamagazine.org",
+        "pagina": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/"
+      }
+    },
+    {
+      "id": "2026-11-09-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "oude-grieken",
+        "muziek"
+      ],
+      "titel": "Een bottenfluit uit Troje, uit de tijd van Homeros",
+      "tekst": "Ruim 150 jaar lang wordt Troje al opgegraven. Goud, wijnbekers en wapens kwamen boven, maar geen muziekinstrument. Tot nu: een fluit van bot, zo'n 2.800 jaar oud, uit een laag uit de achtste eeuw voor Christus. Daarmee is het volgens het artikel het eerste directe archeologische bewijs van de muziekcultuur van de stad.\n\nDe datering ligt rond de tijd dat de Ilias en Odyssee ontstonden. Opgravingsleider Rüstem Aslan noemt dat een interessant toeval vanuit de opgravingsgeschiedenis.",
+      "kern": "Het verhaal over Troje had altijd muziek, maar pas nu is er een instrument dat dat bewijst.",
+      "bron": {
+        "titel": "Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed 'The Iliad' and 'The Odyssey'",
+        "url": "https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Troy",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_%282%29.jpg/1280px-Walls_of_Troy_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "CherryX · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-03",
+      "pijler": "denken",
+      "tags": [
+        "innovatie",
+        "psychologie",
+        "werk"
+      ],
+      "titel": "Wie niet ontslagen kan worden, wordt soms minder creatief",
+      "tekst": "Meer baanzekerheid zou vrijheid moeten geven om te experimenteren. Een studie onder 82.000 Amerikaanse uitvinders met octrooien, uit de jaren zeventig tot negentig, laat iets anders zien. Nadat staten wetten tegen onrechtmatig ontslag invoerden, kozen uitvinders vaker projecten die aansloten op de eigen technologie van hun bedrijf.\n\nHun octrooien werden minder nieuw, maar vaak waardevoller voor de werkgever. Wie minder beschermd was, greep vaker naar brede, algemene technologieën.",
+      "kern": "Veiligheid en vernieuwing gaan niet vanzelf samen: zekerheid kan ook naar binnen laten kijken.",
+      "bron": {
+        "titel": "Greater job security can make inventors less creative",
+        "url": "https://theconversation.com/greater-job-security-can-make-inventors-less-creative-292613",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-09-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "paleontologie",
+        "dinosaurussen",
+        "evolutie"
+      ],
+      "titel": "Een dinosaurus die 100 jaar in een la lag",
+      "tekst": "Een hersenschedelfragment lag meer dan honderd jaar in de opslag van het Natural History Museum in Londen. In 2020 herkende Paul Barrett het als belangrijk. Het bleek afkomstig van Sudmoor Point op het Isle of Wight. CT-scans en een stamboomalgoritme plaatsten het dier bij de megaraptoren: roofdinosaurussen met enorme klauwen, tot dan toe alleen bekend uit onder meer Thailand, Japan, Australië en Argentinië.\n\nInvictibellatrix amberina, ongeveer 120 miljoen jaar oud en zo'n 5 meter lang, is de eerste megaraptoor van Europa.",
+      "kern": "Museumdepots bewaren ontdekkingen die wachten op iemand die weet waar hij naar kijkt.",
+      "bron": {
+        "titel": "New long-clawed British dinosaur is the first of its kind in Europe",
+        "url": "https://theconversation.com/new-long-clawed-british-dinosaur-is-the-first-of-its-kind-in-europe-294499",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Isle of Wight cliffs fossil",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cliffs_at_Brook_Bay%2C_Isle_of_Wight_-_geograph.org.uk_-_1727070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Christine Matthews · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cliffs_at_Brook_Bay,_Isle_of_Wight_-_geograph.org.uk_-_1727070.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-05",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "meten"
+      ],
+      "titel": "Bezos belde zelf de klantenservice",
+      "tekst": "Volgens de cijfers van Amazon bleef een klant hooguit zestig seconden in de wacht. Toen Jeff Bezos zelf het nummer belde, duurde het meer dan tien minuten. Zijn conclusie: als data en anekdotes botsen, hebben de anekdotes meestal gelijk.\n\nHet is een voorbeeld van het denkmodel dat de kaart niet het gebied is. Een model vereenvoudigt en veroudert. Daarom is de werkelijkheid zelf de ultieme update: toets de kaart regelmatig aan het terrein.",
+      "kern": "Een meetwaarde is een kaart; bezoek af en toe het gebied zelf.",
+      "bron": {
+        "titel": "The Map Is Not the Territory",
+        "url": "https://fs.blog/map-and-territory/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Jeff Bezos",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "SECWAR · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_(3x4_cropped_on_Bezos_and_rotated).jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "oude-grieken",
+        "verandering"
+      ],
+      "titel": "Dezelfde rivier, steeds ander water",
+      "tekst": "Het enige fragment over een rivier dat volgens de Stanford Encyclopedia zeker van Heraclitus komt, luidt: \"Op wie in rivieren stappen, stromen steeds andere en andere wateren.\" Het punt is niet dat alles verandert, maar dat iets hetzelfde blijft juist doordat het verandert: de rivier bestaat dankzij het wisselende water.\n\nZo hoort bij Heraclitus (actief rond 500 voor Christus, in Efeze) ook de eenheid van tegendelen: ze horen in één systeem en gaan in elkaar over.",
+      "kern": "Stabiliteit kan ontstaan uit voortdurende verandering, niet ondanks verandering.",
+      "bron": {
+        "titel": "Heraclitus",
+        "url": "https://plato.stanford.edu/entries/heraclitus/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Heraclitus",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Heraclitus_b_4_compressed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "RoyFokker · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Heraclitus_b_4_compressed.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "kunstmatige-intelligentie",
+        "onderzoek"
+      ],
+      "titel": "Als bewijzen makkelijk worden, wat blijft er dan van wiskunde?",
+      "tekst": "Op 8 september meldde OpenAI dat zijn modellen een van de beroemdste wiskundeproblemen hadden opgelost. Bewijzen kunnen automatisch gecontroleerd worden, maar wiskundigen weten vaak niet waarom ze kloppen. Marcel Goh: het ging nooit om de stellingen.\n\nHet vak draait op publicaties en erkenning voor bewezen stellingen, en dat systeem schuurt nu. arXiv beperkt inzendingen tot twee per maand. Daniel Litt waarschuwt: \"If we don't adapt, there's just no more math in 50 years.\"",
+      "kern": "Het doel van wiskunde is begrip, en dat is iets anders dan een bewezen stelling.",
+      "bron": {
+        "titel": "Is AI the End of Math As We Know It?",
+        "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-09-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "oorlog",
+        "schotland"
+      ],
+      "titel": "Neville's Cross: de slag waar Schotland zijn koning verloor",
+      "tekst": "In 1346 vroeg Frankrijk Schotland om hulp: Edward III was met zijn leger in Frankrijk, dus Engeland zou weerloos zijn. Dat klopte niet. Koning David II viel binnen met ongeveer 12.000 man, en de Engelse noordelijke heren hadden 6.000 man verzameld.\n\nOp 17 oktober sloegen zij bij Durham toe in de ochtendmist. Tegen 17.00 uur vluchtten de Schotten. David werd gevangengenomen en zat elf jaar vast. Edward kon zijn noordgrens veiligstellen en 30.000 man werven voor het beleg van Calais.",
+      "kern": "Een bondgenootschap gebaseerd op een verkeerde inschatting kostte Schotland zijn koning.",
+      "bron": {
+        "titel": "The little-known 14th century battle that has shaped English, Scottish and French relations",
+        "url": "https://theconversation.com/the-little-known-14th-century-battle-that-has-shaped-english-scottish-and-french-relations-288771",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Battle of Neville's Cross",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BNMsFr2643FroissartFol97vBatNevilleCross.jpg/1280px-BNMsFr2643FroissartFol97vBatNevilleCross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jean Froissart · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BNMsFr2643FroissartFol97vBatNevilleCross.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-09",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "materialen",
+        "geduld"
+      ],
+      "titel": "Het langste druppelexperiment ter wereld",
+      "tekst": "Pek lijkt vast, maar stroomt. In 1927 goot Thomas Parnell in Queensland hete pek in een trechter. Pas in 1930 werd de afsluiting doorgesneden. De eerste druppel viel in december 1938, de tweede in 1947. De achtste, in 2000, kwam uit een stof met een viscositeit van ongeveer 230 miljard keer die van water.\n\nIn 2014 viel de negende. Elke druppel doet ongeveer tien jaar over zijn groei. De eerste druppel van een proef in Dublin werd pas in 2013 opgenomen.",
+      "kern": "Wat vast lijkt, is vaak alleen te traag om het te zien bewegen.",
+      "bron": {
+        "titel": "Pitch drop experiment",
+        "url": "https://en.wikipedia.org/wiki/Pitch_drop_experiment",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Pitch drop experiment",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/University_of_Queensland_Pitch_drop_experiment-white_bg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "University_of_Queensland_Pitch_drop_experiment.jpg: John Ma… · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:University_of_Queensland_Pitch_drop_experiment-white_bg.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-10",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "wetenschapsfilosofie"
+      ],
+      "titel": "Het scheermes van Ockham snijdt in beide richtingen",
+      "tekst": "Kies tussen verklaringen die hetzelfde voorspellen de verklaring met de minste aannames. Dat is het scheermes van Ockham, ook al bedacht de veertiende-eeuwse monnik William of Ockham de term niet zelf. De reden is praktisch: eenvoudige theorieën zijn makkelijker te toetsen en uit te voeren, en artsen zoeken zo naar de kleinste groep oorzaken die de klachten verklaart.\n\nMaar het is een vuistregel voor voorlopige conclusies. Wie het blind volgt tegen logica of bewijs in, snijdt zichzelf.",
+      "kern": "Eenvoud is een startpunt voor je oordeel, geen bewijs dat je gelijk hebt.",
+      "bron": {
+        "titel": "How to Use Occam's Razor Without Getting Cut",
+        "url": "https://fs.blog/occams-razor/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "William of Ockham",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "self-created (Moscarlop) · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:William_of_Ockham.png"
+      }
+    },
+    {
+      "id": "2026-11-09-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "bronstijd",
+        "huisdieren"
+      ],
+      "titel": "De pootafdruk van een hond, 4.000 jaar oud",
+      "tekst": "Modderbakstenen werden gemaakt van water, aarde en stro, in een mal gegoten en in de zon gedroogd. Op één steen liep toen een hond, en liet een afdruk met vier ronde teenkussentjes achter. Archeologen van de universiteit van Bilecik vonden hem in het puin van een huis in Tavşanlı Höyük, West-Turkije, dat rond 1700 voor Christus in brand vloog.\n\nDe site wordt sinds 2021 opgegraven. Het artikel noemt de afdruk kenmerkend.",
+      "kern": "Een vluchtig moment van een hond is door een steen vastgelegd en 4.000 jaar bewaard gebleven.",
+      "bron": {
+        "titel": "A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House",
+        "url": "https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "mud brick dog paw print",
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/lXcZrTLk_sbumGm30ZlaqIHvkU8=/fit-in/1200x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/1b/3d1b71b2-0c3b-47b1-9545-7f125caf1983/paw-print.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/"
+      }
+    },
+    {
+      "id": "2026-11-09-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "netwerken",
+        "intelligentie"
+      ],
+      "titel": "Een slijmzwam die het kortste pad vindt",
+      "tekst": "Zet haver op twee plekken in een doolhof, en Physarum polycephalum trekt zich terug uit alles behalve de kortste route ertussen. Dat beschreven Nakagaki, Yamada en Tóth in 2000 in Nature.\n\nIn 2010 legde Tero en collega's havervlokken neer als Tokio en 36 omliggende steden. De slijmzwam bouwde een netwerk dat lijkt op het spoorsysteem, met vergelijkbare efficiëntie, storingsbestendigheid en kosten. Het organisme lost zo een netwerkprobleem op met haver als enige gegeven.",
+      "kern": "Optimaliseren kan zonder plan, alleen met een organisme dat doorlopend terugtrekt wat niet werkt.",
+      "bron": {
+        "titel": "Physarum polycephalum",
+        "url": "https://en.wikipedia.org/wiki/Physarum_polycephalum",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Physarum polycephalum",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Physarum_polycephalum_plasmodium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "frankenstoen · CC BY 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Physarum_polycephalum_plasmodium.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "tudor",
+        "diplomatie",
+        "rusland"
+      ],
+      "titel": "Hoe Elizabeth I de tsaar afwees zonder de handel te schaden",
+      "tekst": "Ivan de Verschrikkelijke wilde met Elizabeth I trouwen, maar zij zei geen nee. Ze liet hem weten erover na te denken, en deed alsof ze zijn toespelingen niet begreep. Intussen hing er veel van de handel af: de Muscovy Company had sinds 1555 exclusieve rechten.\n\nIn 1582 stelde Ivan voor met Mary Hastings te trouwen. Elizabeth gebruikte een verzonnen pestuitbraak als reden om de gezant op afstand te houden, en noemde Mary uiteindelijk verre van mooi.",
+      "kern": "Diplomatie is vaak een kunst van vertragen, zodat een weigering niemand hoeft te kosten.",
+      "bron": {
+        "titel": "Ivan the Terrible Wanted to Marry Elizabeth I. How Did England's 'Virgin Queen' Reject the Russian Czar Without Souring Trade Relations?",
+        "url": "https://www.smithsonianmag.com/history/ivan-the-terrible-wanted-to-marry-elizabeth-i-how-did-englands-virgin-queen-reject-the-russian-czar-without-souring-trade-relations-180989656/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Ivan the Terrible",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ivan_grozny_frame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ivan_grozny_frame.jpg"
+      }
+    },
+    {
+      "id": "2026-11-09-14",
+      "pijler": "denken",
+      "tags": [
+        "economie",
+        "samenwerking",
+        "vrede"
+      ],
+      "titel": "Kan een coöperatie vrede bouwen?",
+      "tekst": "Na een vredesakkoord stijgt het geweld soms. In Guatemala, waar tussen 1960 en 1996 meer dan 200.000 mensen omkwamen, werd het land volgens Wereldbankonderzoekers na het akkoord juist gewelddadiger.\n\nAzize Aslan betoogt dat vrede ook economische verhoudingen moet veranderen. Ze noemt coöperaties in Rojava en in Colombia, waar ECOMÚN ongeveer 6.200 ondertekenaars van het akkoord en 154 organisaties telt. De beperking: ECOMÚN is verweven met de staat en moet op de markt overleven.",
+      "kern": "Een akkoord beëindigt de oorlog; blijvende vrede vraagt ook een andere economische basis.",
+      "bron": {
+        "titel": "What cooperatives for an anticapitalist peace look like",
+        "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-09-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "raadsel",
+        "taal"
+      ],
+      "titel": "Het boek dat niemand kan lezen",
+      "tekst": "Het Voynich-manuscript is een geïllustreerd boek in een onbekend schrift, Voynichese, dat nog nooit aantoonbaar is ontcijferd. Radiokoolstofdatering in 2009 plaatste het perkament tussen 1404 en 1438. Van 272 pagina's zijn er 240 bewaard.\n\nHet is lang van hand tot hand gegaan: via Georg Baresch in Praag en Jan Marek Marci naar Wilfrid Voynich, die het in 1912 kocht. In 1969 schonk Hans Kraus het aan Yale, dat het in 2020 volledig online zette.",
+      "kern": "Je kunt een boek perfect dateren en toch niet weten wat erin staat.",
+      "bron": {
+        "titel": "Voynich manuscript",
+        "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Voynich manuscript",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Voynich_Manuscript_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(32).jpg"
+      }
+    }
+  ]
+}
