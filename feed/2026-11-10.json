@@ -1,0 +1,386 @@
+{
+  "datum": "2026-11-10",
+  "kaarten": [
+    {
+      "id": "2026-11-10-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "evolutie",
+        "biologie"
+      ],
+      "titel": "De hersenen blijken uit twee aparte bronnen te komen",
+      "tekst": "Bij een muisembryo van zeven en een halve dag bleek er niet één groep voorlopercellen voor de hersenen te zijn, maar twee. Het gen Otx2 zet de voor- en middenhersenen in gang, Gbx2 de achterhersenen. Volgens Kyle Loh (Stanford) ligt al bij het ontstaan van een hersencel vast tot welke helft hij hoort.\n\nDie tweedeling zat ook bij mens, aap, kip, zebravis en eikelwormen, dieren die meer dan 500 miljoen jaar geleden uiteen gingen. Het onderzoek, verschenen in Nature Neuroscience, zet het decennialang dominante beeld van de hersenen als één orgaan onder druk.",
+      "kern": "Voor- en achterhersenen komen mogelijk uit twee afzonderlijke celbronnen, al meer dan 500 miljoen jaar.",
+      "bron": {
+        "titel": "You Have Two Brains, Not One",
+        "url": "https://nautil.us/you-have-two-brains-not-one-1285111",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Human brain",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brain_autopsy_lateral_view.jpg/1280px-Brain_autopsy_lateral_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jensflorian · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Brain_autopsy_lateral_view.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-02",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "psychologie"
+      ],
+      "titel": "Hanlons scheermes: eerst nalatigheid, dan pas kwade wil",
+      "tekst": "Siri kon ooit geen abortuskliniek vinden, en dat gold als bewijs van vrouwenhaat. Het bleek een programmeerfout. Hanlons scheermes zegt: schrijf niets toe aan kwade opzet wat nalatigheid afdoende verklaart.\n\nDe gedachte is ouder dan Hanlon. Goethe schreef in 1774 dat misverstand en nalatigheid meer verwarring zaaien dan list en boosaardigheid. De pagina eindigt wel met een voorbehoud: is kwade opzet bevestigd, dan geldt \"be ruthless\".",
+      "kern": "Ga uit van onhandigheid zolang kwade opzet niet is aangetoond, en treed hard op als dat wel zo is.",
+      "bron": {
+        "titel": "Hanlon’s Razor: Not Everyone is Out to Get You",
+        "url": "https://fs.blog/mental-model-hanlons-razor/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-10-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "uitvindingen",
+        "oorlog",
+        "amerikaanse-revolutie"
+      ],
+      "titel": "Een onderzeeër met een bom: de Turtle van 1776",
+      "tekst": "Rond middernacht op 6 september 1776 voer Ezra Lee in David Bushnells Turtle naar HMS Eagle, het Britse vlaggenschip bij New York. Eén man bediende alles: een propeller op pedalen, een handslinger, bilgepompen om op te stijgen. De bom met timer moest onder water aan de romp worden geschroefd.\n\nDat lukte niet. De lading ontplofte later in de haven zonder de Eagle te beschadigen, en twee latere pogingen mislukten ook. Toch zien historici de Turtle als een vroeg asymmetrisch wapen.",
+      "kern": "De Turtle faalde, maar liet zien dat één man onder water een oorlogsschip kon bedreigen.",
+      "bron": {
+        "titel": "To Defeat the Royal Navy During the American Revolution, a Rebel Inventor Designed a Secret Weapon: a Bomb-Carrying Submarine",
+        "url": "https://www.smithsonianmag.com/history/to-defeat-the-royal-navy-during-the-american-revolution-a-rebel-inventor-designed-a-secret-weapon-a-bomb-carrying-submarine-180989400/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Turtle (submersible)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Turtle_model_at_the_Royal_navy_submarine_museum.jpg/1280px-Turtle_model_at_the_Royal_navy_submarine_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Geni · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Turtle_model_at_the_Royal_navy_submarine_museum.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "geofysica",
+        "glasvezel",
+        "engineering"
+      ],
+      "titel": "Donder als zaklamp voor de ondergrond",
+      "tekst": "Donder schudt niet alleen de lucht: de drukgolven dringen de grond in. Onderzoekers van Penn State legden ongeveer 4 kilometer glasvezel op circa 1 meter diepte onder hun campus. Rekt een trilling de vezel iets uit, dan duurt de reis van het licht iets langer, en dat is meetbaar.\n\nUit meer dan 450 donderschokken over twee en een half jaar tekenden ze de ondergrond tot 100 meter diep. Ze vonden zwakke zones in het kalksteenlandschap die eerder onbekend waren, bevestigd met boorgegevens en satellietmetingen.",
+      "kern": "Bestaande glasvezelkabels en toevallige onweersbuien kunnen samen goedkoop de ondergrond scannen.",
+      "bron": {
+        "titel": "‘Thunderquakes’ do more than shake the ground — they map it",
+        "url": "https://www.sciencenews.org/article/thunderquakes-shake-ground-map-it",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "thunderstorm lightning",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1280px-Lightning_Pritzerbe_01_%28MK%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Mathias Krumbholz · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Lightning_Pritzerbe_01_(MK).jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-05",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "mindfulness"
+      ],
+      "titel": "Welke mindfulness helpt tegen welke bias?",
+      "tekst": "Biases werken vaak als reflex: meestal hebben we al besloten voordat we nadenken. Mindfulness schept een pauze ertussen, maar niet elke vorm werkt op elke bias. Ellen Langer en Philip Maymin testten er 22; aandacht voor nieuwigheid verminderde bijna alle, behalve verliesaversie.\n\nVoor verliesaversie wijst fMRI-onderzoek van Peter Sokol-Hessner naar emotieregulatie: wie zijn emoties reguleerde, liet minder verliesaversie zien.",
+      "kern": "Welke vorm van aandacht helpt, hangt af van de bias die je wilt bijsturen.",
+      "bron": {
+        "titel": "How to offset your brain",
+        "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 1,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-10-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "folklore",
+        "begraafrituelen"
+      ],
+      "titel": "Een sikkel en een hangslot tegen de terugkeer van een meisje",
+      "tekst": "In Pień in Noord-Centraal Polen groeven archeologen in 2022 een graf uit de 17e eeuw op van een jonge vrouw van 17 tot 19 jaar. Een sikkel lag met het lemmet over haar keel, en een hangslot zat aan haar linker grote teen: twee maatregelen tegen terugkeer uit het graf, volgens de onderzoekers voor het eerst samen gevonden.\n\nArm was ze niet: een zijdespeld en een muts met zilver- en goudgaren wijzen op hoge status. Bioarcheoloog Lauren Hosek benadrukt dat \"vampier\" hier gewoon een kwaadaardig ondood wezen betekent.",
+      "kern": "Angst voor de terugkerende doden gold ook voor de rijken, en kreeg dubbele bescherming.",
+      "bron": {
+        "titel": "This ‘anti-vampiric’ grave used two strategies to stop the undead",
+        "url": "https://www.sciencenews.org/article/ancient-anti-vampire-grave-undead",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Vampire",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Philip_Burne-Jones_-_The_Vampire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Philip Burne-Jones · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Philip_Burne-Jones_-_The_Vampire.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "oorsprong-van-leven",
+        "biologie",
+        "chemie"
+      ],
+      "titel": "Een RNA-molecuul van 45 letters dat andere RNA’s kopieert",
+      "tekst": "RNA kan informatie opslaan én reacties versnellen. Dat zou het kip-en-eiprobleem oplossen: DNA heeft eiwitten nodig, eiwitten hebben DNA nodig. Het knelpunt was lengte, want spontaan gevormd RNA haalde zo’n 10 tot 15 nucleotiden.\n\nPhilipp Holliger (MRC Laboratory of Molecular Biology) ontwikkelde QT45, 45 nucleotiden lang, dat een andere RNA-streng kan kopiëren, in principe elke volgorde. Leven is het nog niet: daarvoor is ook stofwisseling nodig, en of de vroege aarde een plek voor een RNA-wereld had, is onbekend.",
+      "kern": "Zelfkopiërend RNA maakt een RNA-wereld aannemelijker, maar RNA alleen is nog geen leven.",
+      "bron": {
+        "titel": "Did Life Begin in an RNA World?",
+        "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "RNA world",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Difference_DNA_RNA-EN.svg/1280px-Difference_DNA_RNA-EN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "File:Difference DNA RNA-DE.svg: Sponk / *translation: Sponk · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN.svg"
+      }
+    },
+    {
+      "id": "2026-11-10-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "scepsis",
+        "renaissance"
+      ],
+      "titel": "Montaigne: \"Que sais-je?\" als werkwijze",
+      "tekst": "Rond 1576 liet Michel de Montaigne \"Que sais-je?\" (\"wat weet ik?\") op zijn medaille zetten. Filosofie was voor hem geen systeem maar oefening in oordelen: \"De vraag is niet wie de ring raakt, maar wie de beste pogingen doet.\"\n\nGewoonte, schreef hij, kan bijna alles. Daarom vergeleek hij culturen, en vond hij in \"Cannibals\" meer barbaarsheid in het levend opeten van een mens dan in het dood eten ervan. Zijn Essays (1580, 1588, 1595) beschrijven de mens zoals hij is.",
+      "kern": "Twijfel is bij Montaigne geen eindpunt maar een manier om scherper te oordelen.",
+      "bron": {
+        "titel": "Michel de Montaigne",
+        "url": "https://plato.stanford.edu/entries/montaigne/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Michel de Montaigne",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Portrait_of_Michel_de_Montaigne,_circa_unknown.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-09",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "onderzoek"
+      ],
+      "titel": "Het Hawthorne-effect is minder hard dan gedacht",
+      "tekst": "Het Hawthorne-effect: mensen veranderen hun gedrag als ze weten dat ze worden geobserveerd. De naam komt van onderzoek in de Hawthorne Works, een fabriek van Western Electric bij Cicero (Illinois), tussen 1924 en 1932. De term zelf bedacht John French pas in 1953.\n\nLatere kritiek knaagt eraan. In 2011 vonden Steven Levitt en John List de oorspronkelijke data terug en zagen slechts zwak bewijs op lange termijn, veel minder dan beweerd. Richard Nisbett noemde het effect \"a glorified anecdote\".",
+      "kern": "Een beroemd experiment kan een sterker verhaal zijn dan een bewijs.",
+      "bron": {
+        "titel": "Hawthorne effect",
+        "url": "https://en.wikipedia.org/wiki/Hawthorne_effect",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-10-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "natuurkunde",
+        "engineering"
+      ],
+      "titel": "Glijdende waterdruppels laten metaal roesten door een coating heen",
+      "tekst": "Een druppel die over een blad of polystyreen glijdt, laadt zich op. Landt hij daarna op metaal, dan kan die lading overspringen. Bij koper met een Teflon-coating bereikte de lading het koper zelf, ondanks de beschermlaag.\n\nDruppels die rechtstreeks op het koper vielen, deden niets, en er waren duizenden druppels nodig, geen honderden, voor schade. Zhongyuan Ni (Max Planck Institute for Polymer Research) en collega’s publiceerden dit in Nature.",
+      "kern": "Ook een intacte beschermlaag helpt niet als elektrische lading erdoorheen kan.",
+      "bron": {
+        "titel": "A culprit for corrosion may have been operating under our noses",
+        "url": "https://www.sciencenews.org/article/corrosion-water-droplets-charge",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "water droplet leaf",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Water_droplet_on_a_leaf.JPG/1280px-Water_droplet_on_a_leaf.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Mightyhansa · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Water_droplet_on_a_leaf.JPG"
+      }
+    },
+    {
+      "id": "2026-11-10-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "fotografie",
+        "parijs",
+        "uitvindingen"
+      ],
+      "titel": "Waar stonden de eerste mensen op een foto?",
+      "tekst": "In 1838 fotografeerde Louis Daguerre een straat in Parijs. De belichting duurde tot tien minuten, dus alleen wie stilstond bleef zichtbaar: een schoenpoetser en zijn klant. De exacte plek raakte zoek toen de boulevard werd ingekort.\n\nDrie filmmakers zochten ruim twee jaar, met archieven en 3D-modellen. Twee architectenbureaus kwamen op punten een paar meter uiteen uit; ze \"splitsten het verschil\". Op 15 oktober plaatste Parijs er een bronzen plaquette.",
+      "kern": "Een eeuwenoud beeld kan nog altijd nieuw detectivewerk opleveren.",
+      "bron": {
+        "titel": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
+        "url": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Boulevard du Temple (Daguerre)",
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/CLZup8C7i-tsY2Yvxn55sJi3SIs=/fit-in/1200x0/filters:focal(1720x1147:1721x1148)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/b5/ebb52ce7-6bce-4a5f-866f-07208a301b70/boulevard_du_temple_by_daguerre.jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+      }
+    },
+    {
+      "id": "2026-11-10-12",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "gewoontes",
+        "natuurkunde"
+      ],
+      "titel": "Waarom beginnen zwaarder is dan doorgaan",
+      "tekst": "Een reactie komt pas op gang als bestaande bindingen breken, en dat kost energie: de activeringsenergie. Svante Arrhenius toonde in 1889 aan dat die bestaat en beschreef hoe temperatuur de reactiesnelheid bepaalt. Katalysatoren, in het lichaam enzymen, verlagen de drempel via een andere route.\n\nHet artikel past dat toe op het dagelijks leven: een lastige taak vraagt vooral bij de start extra energie.",
+      "kern": "Wie de drempel van het begin verlaagt, hoeft minder energie te mobiliseren.",
+      "bron": {
+        "titel": "Activation Energy: Why Getting Started Is the Hardest Part",
+        "url": "https://fs.blog/activation-energy/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Activation energy",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Incandescence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Debivort · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Incandescence.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "biologie",
+        "intelligentie"
+      ],
+      "titel": "Octopussen hebben grote hersenen dankzij de zeebodem, niet de groep",
+      "tekst": "De bekende gedachte: grote hersenen ontstonden om met soortgenoten om te gaan. Een analyse van 79 soorten koppotigen, gepubliceerd in iScience, wijst een ander pad aan. Soorten op de zeebodem en in ondiepe poelen hebben vaker grote hersenen, terwijl sociaal gedrag geen vergelijkbaar verband liet zien.\n\nIn complex terrein loont slimheid, bijvoorbeeld om calorierijke prooi te vinden. Onderzoeker Michael Muthukrishna (LSE) spreekt van een asociale variant van de culturele-hersenenhypothese.",
+      "kern": "Intelligentie kan evolueren door een ingewikkelde omgeving, ook zonder sociaal leven.",
+      "bron": {
+        "titel": "How the Rule-Breaking Octopus Is Rewriting the Evolution of Intelligence",
+        "url": "https://nautil.us/how-the-rule-breaking-octopus-is-rewriting-the-evolution-of-intelligence-1282633",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Common octopus",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/1280px-Octopus2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "albert kok · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-10-14",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "afrika",
+        "bronstijd"
+      ],
+      "titel": "Een muur van 4.000 jaar oud in Marokko",
+      "tekst": "In Oued Beht, in het noordwesten van Marokko, groeven archeologen in 2023 een greppel, wal en muur op over een smalle heuvelrug tussen rivier en ravijn. Volgens de auteurs is het de vroegste bekende grootschalige, waarschijnlijk verdedigende constructie in Noord-Afrika buiten het Nijldal, zo’n 4.000 tot 3.500 jaar oud.\n\nDe plek omvat minstens tien hectare. Waarom de muur kwam, weten de onderzoekers niet; concurrentie om land en controle over beweging is een hypothese, geen vaststelling.",
+      "kern": "Een verdedigingsmuur wijst op concurrentie om land, al is het doel nog onbewezen.",
+      "bron": {
+        "titel": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-10-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "paleontologie",
+        "mensapen"
+      ],
+      "titel": "Een kaakfragment uit Egypte verplaatst de wieg van de mensapen",
+      "tekst": "In Wadi Moghra in Noord-Egypte vonden onderzoekers een deel van een onderkaak van Masripithecus moghraensis, 17 tot 18 miljoen jaar oud: de eerste definitieve fossiele mensaap uit Noord-Afrika. Volgens de analyse staat de soort dichter bij de levende mensapen dan bekende vroeg-Mioceen apen uit Oost-Afrika.\n\nDaarom opperen de onderzoekers dat de voorouders van de moderne mensapen, mensen inbegrepen, in Noord-Afrika of het Midden-Oosten ontstonden. Ze benadrukken wel dat het om één kaakdeel gaat: over lichaamsbouw en gedrag is weinig bekend.",
+      "kern": "Eén kaak kan een stamboom verplaatsen, maar bewijst nog geen route.",
+      "bron": {
+        "titel": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "Masripithecus",
+      "beeld": {
+        "url": "https://www.sciencedaily.com/images/1920/masripithecus-moghraensis-reconstruction.webp",
+        "soort": "bron",
+        "credit": "Afbeelding: sciencedaily.com",
+        "pagina": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+      }
+    }
+  ]
+}
