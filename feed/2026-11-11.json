@@ -1,0 +1,392 @@
+{
+  "datum": "2026-11-11",
+  "kaarten": [
+    {
+      "id": "2026-11-11-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "oorsprong-van-leven",
+        "biologie",
+        "evolutie"
+      ],
+      "titel": "Eerst een bubbel, dan pas de chemie",
+      "tekst": "Volgens de lipid-first-hypothese begon leven niet met een zelfkopiërend molecuul, maar met een bolletje. Moleculen met een waterminnend en een waterafstotend uiteinde vormen vanzelf zo'n blaasje. Astrobioloog Bruce Damer: \"You need a container before you can get the chemistry.\"\n\nVersnellen twee stoffen elkaars productie, dan groeit het blaasje, splitst het en geeft het beide stoffen door. Een zwervend molecuul werkt als mutatie, en snelgroeiende blaasjes verdringen trage: natuurlijke selectie. Jack Szostak twijfelt echter of een bubbel alleen uit lipiden kan bestaan.",
+      "kern": "Een celmembraan kan de eerste plek zijn geweest waar chemie ging evolueren, al is omstreden of lipiden daarvoor volstonden.",
+      "bron": {
+        "titel": "The Case for a Bubble at Life’s Start",
+        "url": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Lipid bilayer",
+      "beeld": {
+        "url": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Social.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: quantamagazine.org",
+        "pagina": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/"
+      }
+    },
+    {
+      "id": "2026-11-11-02",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "statistiek",
+        "besluitvorming"
+      ],
+      "titel": "De pantserfout: kijk naar wat je niet ziet",
+      "tekst": "In de Tweede Wereldoorlog werkte de onderzoeksgroep van Abraham Wald aan de Columbia University aan de vraag hoe vliegtuigen beter beschermd konden worden. Wie alleen de teruggekeerde toestellen bekijkt, mist de toestellen die niet terugkwamen. Dat is survivorship bias.\n\nSuccesverhalen worden verteld, mislukkingen verdwijnen uit beeld. Farnam Street: \"There are thousands, even tens of thousands of failures for every big success in the world.\" Het tegenmiddel: vraag naar de basiskans en naar wie er niet meer is.",
+      "kern": "Wie alleen de overlevenden bestudeert, overschat de kans op succes.",
+      "bron": {
+        "titel": "Survivorship Bias: The Tale of Forgotten Failures",
+        "url": "https://fs.blog/survivorship-bias/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-11-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "economie",
+        "17e-eeuw",
+        "mythe"
+      ],
+      "titel": "De tulpenmanie was kleiner dan het verhaal",
+      "tekst": "Het verhaal gaat dat een hele natie in 1637 aan tulpen ten onder ging. Tussen 1634 en februari 1637 liepen de contractprijzen inderdaad op en stortten ze in. Maar volgens het artikel zijn de bekendste sappige details van Charles Mackay (1841) grotendeels satire of overdrijving.\n\nHistorica Anne Goldgar vond minder dan een half dozijn mensen met financiële problemen. Er ging nauwelijks geld van hand tot hand en de meeste contracten werden nooit nagekomen. De ruil van vijf hectare land voor één bol is twijfelachtig.",
+      "kern": "De populaire tulpenmanie is grotendeels een 19e-eeuwse mythe rond een kleine, speculatieve markt.",
+      "bron": {
+        "titel": "Tulip mania",
+        "url": "https://en.wikipedia.org/wiki/Tulip_mania",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Semper Augustus",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Jan Brueghel the Younger · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "muziek",
+        "gehoor"
+      ],
+      "titel": "Waarom blinden en musici toonhoogtes beter horen",
+      "tekst": "Het oor zelf lijkt niet beter te werken. Volgens Woon Ju Park (Georgia Tech) gaat het om \"internal noise\": hoe consistent het gehoorsysteem op hetzelfde geluid reageert. Minder ruis betekent betrouwbaardere verwerking, niet scherpere selectie op frequenties.\n\nPark: \"Surprisingly, we found that musical training seems to similarly reduce internal noise.\" Haar onderzoek in het Journal of Neuroscience vergeleek negen mensen die vóór hun tweede blind werden met 18 zienden.",
+      "kern": "Betere toonhoogte-waarneming komt niet uit scherper horen, maar uit minder ruis in de hersenen.",
+      "bron": {
+        "titel": "Why do blind people and musicians hear pitch better? New research suggests they have less internal noise",
+        "url": "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "piano keys close up",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Close-up_of_hands_playing_piano_keys.jpg/1280px-Close-up_of_hands_playing_piano_keys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Candeadly · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Close-up_of_hands_playing_piano_keys.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-05",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "nanotechnologie",
+        "romeinse-rijk"
+      ],
+      "titel": "Een Romeinse beker die van kleur verwisselt",
+      "tekst": "De Lycurgus-beker uit de vierde eeuw lijkt jadegroen bij voorlicht en bloedrood bij achterlicht. Het raadsel bleef tot 1990 onopgelost, toen onderzoekers gebroken scherven onder de microscoop bekeken.\n\nIn het glas zitten zilver- en goudnanodeeltjes van soms maar 50 nanometer. Licht zet de elektronen in die deeltjes aan het trillen, waardoor de kleur afhangt van waar het licht vandaan komt. Gang Logan Liu bouwde op dit principe een sensor die 100 keer gevoeliger was voor zoutverschillen dan commerciële sensoren.",
+      "kern": "Romeinse glasmakers gebruikten nanodeeltjes lang voordat iemand het woord kende.",
+      "bron": {
+        "titel": "This 1,600-Year-Old Goblet Shows that the Romans Were Nanotechnology Pioneers",
+        "url": "https://www.smithsonianmag.com/history/this-1600-year-old-goblet-shows-that-the-romans-were-nanotechnology-pioneers-787224/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Lycurgus Cup",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg/1280px-Front_of_4th_century_CE_Roman_Lycurgus_Cup%2C_British_Museum_%281958%2C1202.1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Chappsnet · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Front_of_4th_century_CE_Roman_Lycurgus_Cup,_British_Museum_(1958,1202.1).jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-06",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "economie",
+        "cognitieve-bias"
+      ],
+      "titel": "Wat er al is uitgegeven, hoort niet mee te beslissen",
+      "tekst": "Bob kocht een huis voor een miljoen dollar. De prijs zakt met 20 procent naar 800.000, en hij weigert te verhuizen vanwege het gevoelde verlies van 200.000. Dat is de sunk cost fallacy: beslissen op kosten die al gemaakt zijn en niet terugkomen.\n\nVerliesaversie speelt mee, schrijft econoom Aaron Nicholas: alleen de huidige en verwachte prijs zouden moeten tellen. De fout heet ook de Concorde-fallacy, naar de Britse en Franse regeringen die het ondergangsvliegtuig bleven financieren. Soms helpt het wel: een vooruitbetaalde sportschool bindt je aan je plan.",
+      "kern": "Weeg alleen wat er nog kan komen, niet wat er al is uitgegeven.",
+      "bron": {
+        "titel": "What is the 'sunk cost fallacy'? Is it ever a good thing?",
+        "url": "https://theconversation.com/what-is-the-sunk-cost-fallacy-is-it-ever-a-good-thing-217798",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Concorde",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Eduard Marmet · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-07",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "politiek",
+        "17e-eeuw"
+      ],
+      "titel": "Gelijkheid was eerst iets wat je deed",
+      "tekst": "Op een dag in juni 1646 weigerde de Leveller John Lilburne voor het House of Lords zijn hoed af te nemen of te knielen. Hij beriep zich op Magna Carta: een proces door zijn gelijken, \"per pares\". Zo trok hij gewone burgers gelijk met edelen.\n\nVolgens Teresa Bejan werd die claim geloofwaardig omdat de jury een praktijk was waarin mensen al als gelijken handelden. Het doen ging vooraf aan het idee. Gelijkheid is dus minder iets om in te geloven dan iets wat instituties moeten blijven organiseren.",
+      "kern": "Gelijkheid bestaat doordat mensen en instituties haar in praktijk brengen, niet alleen doordat we haar bedenken.",
+      "bron": {
+        "titel": "Equality talk",
+        "url": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "John Lilburne",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/John_Lilburne.jpg/1280px-John_Lilburne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "George Glover · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:John_Lilburne.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "thermodynamica",
+        "water"
+      ],
+      "titel": "Heet water dat sneller bevriest: of toch niet?",
+      "tekst": "Erasto Mpemba, een Tanzaniaanse scholier, merkte in de jaren zestig dat heet water soms eerder bevroor dan koud. Samen met natuurkundige Denis Osborne publiceerde hij in 1969. Voor water blijft het omstreden: Burridge en Linden toonden dat één centimeter verschil in thermometerplaats een schijneffect kan geven.\n\nIn 2020 liet Bechhoefer (Nature) met een glazen bolletje in een lasergemaakt landschap zien dat een heet systeem exponentieel sneller kan afkoelen. Osborne: \"It points to the danger of an authoritarian physics.\"",
+      "kern": "Het Mpemba-effect bestaat in modelsystemen, bij water hangt het af van hoe je meet.",
+      "bron": {
+        "titel": "Does Hot Water Freeze Faster Than Cold? Physicists Keep Asking.",
+        "url": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-11-09",
+      "pijler": "wetenschap",
+      "tags": [
+        "klimaat",
+        "gletsjers",
+        "geografie"
+      ],
+      "titel": "Welke gletsjers het volhouden in het Amerikaanse westen",
+      "tekst": "Midden vorige eeuw telde het westen van de Verenigde Staten ruim 1.450 gletsjers. Ruim 300 daarvan zijn verdwenen, en het totale oppervlak is met 35 procent gekrompen, volgens een PNAS-studie van Andrew Fountain en collega's.\n\nDe overlevers hebben iets gemeen: ze liggen in schaduwrijke nissen en krijgen extra sneeuw via lawines. Zonder die bescherming zouden ze waarschijnlijk niet overleven. De gemiddelde gletsjer is ongeveer een tiende vierkante mijl groot.",
+      "kern": "Gletsjers overleven vooral op beschutte plekken met schaduw en lawinesneeuw.",
+      "bron": {
+        "titel": "300 glaciers have disappeared from the American West since the mid-20th century – the survivors have a few things in common",
+        "url": "https://theconversation.com/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common-294084",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Grinnell Glacier",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Grinnell_Glacier_with_Lake_and_Salamander_Glacier.jpg/1280px-Grinnell_Glacier_with_Lake_and_Salamander_Glacier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Alexander Bock · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Grinnell_Glacier_with_Lake_and_Salamander_Glacier.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-10",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "altruisme",
+        "boeddhisme"
+      ],
+      "titel": "Helpen kan doorschieten",
+      "tekst": "Joan Halifax is 84 en onderging twee openhartoperaties in twaalf dagen. Als kind van vier kreeg ze polio, en de kloof tussen haar witte buurt en de zwarte wereld van haar verzorgster trok haar later naar plekken van lijden.\n\nZe noemt altruïsme en empathie \"edge states\": ze kunnen omslaan in \"pathological altruism\", waarbij helpen de ander van eigen kracht berooft. Haar tegenwicht is Zenpraktijk en aandacht voor sterven, waarvoor ze in 1990 Upaya oprichtte.",
+      "kern": "Zorg heeft grenzen nodig, anders slaat empathie om in schade.",
+      "bron": {
+        "titel": "How does Roshi Joan Halifax make sense of her Buddhist life?",
+        "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Joan Halifax",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Joan_Halifax_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Adam from USA · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Joan_Halifax_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-11",
+      "pijler": "denken",
+      "tags": [
+        "economie",
+        "incentives",
+        "systeemdenken"
+      ],
+      "titel": "Als een beloning het tegendeel oplevert",
+      "tekst": "In 1902 betaalde de Franse overheid in Hanoi één cent per gedode rat. Vangers kweekten ratten en lieten ze, na het afsnijden van de staart, weer vrij. In 2007–2008 gaf Fort Benning 40 dollar per varkensstaart, waarna de wilde varkenspopulatie toenam.\n\nHorst Siebert bedacht in 2001 de term cobra-effect. Maar het cobraverhaal zelf klopt waarschijnlijk niet: een onderzoek uit 2025 vond geen bronnen voor cobrakwekerijen. De les staat los van de anekdote.",
+      "kern": "Een prikkel stuurt op wat je meet en beloont, niet op wat je bedoelde.",
+      "bron": {
+        "titel": "Perverse incentive",
+        "url": "https://en.wikipedia.org/wiki/Perverse_incentive",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-11-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "stamcellen",
+        "geneeskunde"
+      ],
+      "titel": "Het dagelijks leven van nierceltjes in een lab",
+      "tekst": "Warm, donker en precies 37 graden: zo leven nierceltjes in het lab, met een voedingsmengsel van suikers, zouten, eiwitten en groeistoffen dat regelmatig wordt ververst. Stamcellen worden met toegevoegde stoffen richting niercel gestuurd.\n\nDan komt de D-day-test. Eerst een kleurstof aan één kant: lekt veel door, dan zit er een gat in de laag. Dan een elektrische meting, want een gesloten laag laat minder stroom door. Tot slot de microscoop. Het doel: ooit nierweefsel kweken om kapotte nieren te herstellen.",
+      "kern": "Een gesloten cellaag bewijs je met kleurstof, stroom en microscoop, en dat is de eerste stap naar kweekweefsel.",
+      "bron": {
+        "titel": "Het bijzondere leven van cellen in het lab",
+        "url": "https://nemokennislink.nl/publicaties/het-bijzondere-leven-van-cellen-in-het-lab/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Cell culture",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/XBio_illustration_%E2%80%93_Tissue_Culture.png/1280px-XBio_illustration_%E2%80%93_Tissue_Culture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "explorebiology · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:XBio_illustration_%E2%80%93_Tissue_Culture.png"
+      }
+    },
+    {
+      "id": "2026-11-11-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "optica",
+        "wetenschapsgeschiedenis",
+        "middeleeuwen"
+      ],
+      "titel": "De eerste experimentator zat in Caïro",
+      "tekst": "Ibn al-Haytham (ca. 965 Basra, ca. 1040 Caïro) schreef tussen 1011 en 1021 het zevendelige Boek der Optica. Volgens Sabra verscheen daarin \"for the first time a distinct concept of experiment\". Hij toonde experimenteel dat licht rechtlijnig reist en gaf de eerste heldere beschrijving van de camera obscura, die hij gebruikte om een gedeeltelijke zonsverduistering te bestuderen.\n\nWikipedia noemt hem een pionier van de wetenschappelijke methode, vijf eeuwen vóór Renaissancewetenschappers.",
+      "kern": "Systematisch experimenteren met wisselende omstandigheden is ouder dan de Renaissance.",
+      "bron": {
+        "titel": "Ibn al-Haytham",
+        "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Ibn al-Haytham",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ibn_al-Haytham_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Adolph Boÿ, engraved by Jeremias Falck. Used as the frontis… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ibn_al-Haytham_crop.jpg"
+      }
+    },
+    {
+      "id": "2026-11-11-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "dna",
+        "extremofielen"
+      ],
+      "titel": "Waarom een tardigraad zijn DNA beter herstelt",
+      "tekst": "Tardigraden staan bekend als bijna onverwoestbaar. Een genoomvergelijking van Carrero en collega's (Scientific Reports, 2019) laat zien dat Ramazzottius varieornatus meer kopieën van DNA-herstelgenen heeft dan Hypsibius dujardini: MRE11 minstens vier keer, XPC twee keer.\n\nDe auteurs schrijven dat de veranderingen duiden op \"an enhanced ability to maintain genomic stability\". Het eiwit Dsup, dat röntgenschade onderdrukt, is niet de hele verklaring. Het blijft een hypothese die experimenten nodig heeft.",
+      "kern": "Extreme tolerantie komt mogelijk voort uit een beter onderhouden genoom, maar dat is nog een hypothese.",
+      "bron": {
+        "titel": "Differential mechanisms of tolerance to extreme environmental conditions in tardigrades",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6797769/",
+        "soort": "paper",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Tardigrade",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png/1280px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengh… · CC BY 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_(white_background).png"
+      }
+    },
+    {
+      "id": "2026-11-11-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "eerste-wereldoorlog",
+        "kolonialisme",
+        "india"
+      ],
+      "titel": "De tranen van de vrouwen die de werving hinderden",
+      "tekst": "In december 1914 klaagden Britse functionarissen in Punjab dat de \"tears of womenfolk\" het grootste obstakel voor de werving waren. Rond 1915 noteerde een ambtenaar in Amritsar dat vrouwen wervingsgroepen kilometers volgden.\n\nPunjabi's vormden ongeveer 60 procent van het Indiase leger. Terwijl mannen vochten, kampten vrouwen met laat uitbetaalde soldij, honger, pest en influenza. Een echtgenote kreeg in zes maanden maar twee maanden toelage en verpandde haar sieraden. Historica Umaima Miraj laat zien dat hun verzet in de herinnering vaak ontbreekt.",
+      "kern": "Oorlogsherinnering is vaak militair en mannelijk, waardoor het verzet en de nood van vrouwen verdwijnt.",
+      "bron": {
+        "titel": "How women bore the consequences of the First World War in British India",
+        "url": "https://theconversation.com/how-women-bore-the-consequences-of-the-first-world-war-in-british-india-289672",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "Punjab village women 1910s",
+      "beeld": {
+        "url": "https://images.theconversation.com/files/770147/original/file-20261104-64-qbk356.png?ixlib=rb-4.1.1&rect=0%2C122%2C872%2C436&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/how-women-bore-the-consequences-of-the-first-world-war-in-british-india-289672"
+      }
+    }
+  ]
+}
