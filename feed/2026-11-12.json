@@ -1,0 +1,419 @@
+{
+  "datum": "2026-11-12",
+  "kaarten": [
+    {
+      "id": "2026-11-12-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "ruimtevaart",
+        "kwantummechanica"
+      ],
+      "titel": "Op een ruimtestation koelden atomen af tot 10 biljoenste kelvin",
+      "tekst": "Op het Chinese ruimtestation Tiangong zijn 20.000 rubidiumatomen met laserval afgekoeld tot ongeveer 10 picokelvin: tien biljoenste graad boven het absolute nulpunt. Daarmee verbetert het record van 52 picokelvin uit 2022 op het ISS. Op aarde zakt een atoomwolk door de zwaartekracht naar beneden, wat de koeling beperkt. In microzwaartekracht blijft de wolk zweven en mag hij langer uitzetten. Hoe langzamer de atomen uiteenwaaieren, hoe lager hun effectieve temperatuur.",
+      "kern": "Zwaartekracht is een belemmering bij koeling; in de ruimte zijn extremere temperaturen te bereiken dan in een lab.",
+      "bron": {
+        "titel": "Record-low temperature created on China's space station",
+        "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Tiangong space station",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chinese_Tiangong_Space_Station.jpg/1280px-Chinese_Tiangong_Space_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Shujianyang · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Chinese_Tiangong_Space_Station.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "kolonialisme",
+        "afrika",
+        "religie"
+      ],
+      "titel": "Kimpa Vita: de Kongolese profeet die op de brandstapel eindigde",
+      "tekst": "Dona Beatriz Kimpa Vita, geboren in 1684 in de Kongolese adel, werd in 1704 ernstig ziek. Ze leidde daarna een beweging die Afrikaanse tradities met het christendom verweefde, in een tijd van slavenhandel: tussen 1700 en 1709 werden gemiddeld bijna 7.000 mensen per jaar uit Kongo verkocht. Op 2 juli 1706 werd ze als ketter verbrand. Nu geldt ze in Congo en Angola als nationale heldin.",
+      "kern": "Een profeet die een gebroken land wilde herenigen, eindigde als ketter en werd pas eeuwen later een heldin.",
+      "bron": {
+        "titel": "This African Prophet Was Burned at the Stake 320 Years Ago. Today, Kimpa Vita Is Celebrated as the 'Kongolese Joan of Arc'",
+        "url": "https://www.smithsonianmag.com/history/this-african-prophet-was-burned-at-the-stake-320-years-ago-today-kimpa-vita-is-celebrated-as-the-kongolese-joan-of-arc-180989820/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Kimpa Vita",
+      "beeldZoek": "Kingdom of Kongo",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kimpa_Vita_%C2%B4s_statue_in_Angola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Somebody040404 · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Kimpa_Vita_%C2%B4s_statue_in_Angola.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-03",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "risico"
+      ],
+      "titel": "Het Lindy-effect: hoe ouder, hoe langer nog",
+      "tekst": "Een boek dat veertig jaar in druk is, blijft naar verwachting nog zo'n veertig jaar in druk. Dat is het Lindy-effect, genoemd naar Lindy's delicatessen in New York, waar komieken praatten over hoe lang een tv-show meeging. Albert Goldman schreef er in 1964 over; Nassim Taleb breidde het in 2012 uit tot technologieën en ideeën. Het werkt alleen voor niet-vergankelijke dingen, niet voor mensen. Elk jaar overleven vergroot de verwachte resterende levensduur: de sterftekans daalt met de tijd.",
+      "kern": "Wat lang standhoudt zonder te vergaan, heeft bewezen robuust te zijn en blijft vermoedelijk ook langer bestaan dan het nieuwe alternatief.",
+      "bron": {
+        "titel": "Lindy effect",
+        "url": "https://en.wikipedia.org/wiki/Lindy_effect",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Lindy's Deli New York",
+      "beeldZoek": "Lindy's delicatessen New York",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-12-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "biologie",
+        "schimmels"
+      ],
+      "titel": "Een paddenstoel die tegelijk hallucinogeen en dodelijk is",
+      "tekst": "Galerina indica, in 2025 ontdekt in een moeras in centraal Florida, maakt zowel psilocybine als het dodelijke amatoxine. Dat is een primeur: nooit eerder is een schimmel gevonden die beide stoffen aanmaakt. De genen daarvoor zijn waarschijnlijk via horizontale genoverdracht verkregen, dus door DNA uit te wisselen met andere soorten. Twee verwante, voorlopig onbenoemde Galerina-soorten missen het amatoxine of allebei: kennelijk raakten ze de genen weer kwijt.",
+      "kern": "Genen springen soms over soortgrenzen heen, en dat kan een heel ongewone chemische cocktail opleveren.",
+      "bron": {
+        "titel": "This magic mushroom can kill",
+        "url": "https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Galerina marginata",
+      "beeldZoek": "Galerina mushroom",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Galerina_marginata_Point_Reyes.jpg/1280px-Galerina_marginata_Point_Reyes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Alan Rockefeller · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Galerina_marginata_Point_Reyes.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-05",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "klimaat",
+        "dierengedrag"
+      ],
+      "titel": "Eén graad verschil bepaalt of een alligator mannetje of vrouwtje wordt",
+      "tekst": "Bij Amerikaanse alligators bepaalt de temperatuur in het nest het geslacht. Onderzoekers van de University of Georgia lieten 145 eieren uit zeven wilde nesten uitbroeden bij 30 tot 34 graden. De laagste en hoogste temperaturen leverden vooral vrouwtjes op, middelmatige vooral mannetjes. Korte hittepieken tot 35,6 graden vergrootten de kans op vrouwelijk nageslacht. Voorspelde nesttemperaturen tot 33,5 graden in 2100 kunnen populaties dus scheef verdelen.",
+      "kern": "Bij sommige reptielen beslist het klimaat in het nest over het geslacht, waardoor opwarming de verhouding tussen mannetjes en vrouwtjes verschuift.",
+      "bron": {
+        "titel": "The Temperamental Nature of Alligator Gender-Reveal Parties",
+        "url": "https://nautil.us/the-temperamental-nature-of-alligator-gender-reveal-parties-1286547",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "American alligator",
+      "beeldZoek": "American alligator hatchling",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/American_Alligator.jpg/1280px-American_Alligator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "User:Postdlf · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:American_Alligator.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-06",
+      "pijler": "denken",
+      "tags": [
+        "geheugen",
+        "roem",
+        "geschiedenis-van-ideeen"
+      ],
+      "titel": "Waarom kennen wereldwijd zoveel mensen Napoleon, maar Chili alleen O'Higgins?",
+      "tekst": "Volgens Cesar Hidalgo heeft collectief geheugen vier T's: technologie, territorium, taal en tijd. Technologie: na de drukpers rond 1450 kwamen schrijvers en schilders in beeld, film bracht acteurs. Taal: wie beroemd wordt in een taal die centraal ligt in het vertaalnetwerk, bereikt de wereld. Tijd: roem zakt in een knievormige curve, eerst snel, dan langzaam. Territorium: in een triviaspel met 41.000 spelers scoorden landgenoten negen procentpunt beter, plus vier voor dezelfde taal.",
+      "kern": "Wie onthouden wordt, hangt niet alleen af van prestaties, maar ook van taal, medium, tijd en geboortegrond.",
+      "bron": {
+        "titel": "The Four Forces That Shape Collective Memory",
+        "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Napoleon",
+      "beeldZoek": "Napoleon Bonaparte portrait",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1280px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jacques-Louis David · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-07",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "statistiek"
+      ],
+      "titel": "Het Dunning-Kruger-effect is misschien grotendeels statistiek",
+      "tekst": "In 1999 vroegen David Dunning en Justin Kruger studenten naar hun logica, grammatica en humor. De zwakste kwart scoorde op het 12e percentiel maar schatte zichzelf op het 62e. Bekende conclusie: wie weinig kan, overschat zich. Later betoogden onder anderen Gignac en Zajenkowski (2020) dat het patroon grotendeels voortkomt uit regressie naar het gemiddelde en het better-than-average-effect. Dunning houdt vol dat misoordelen over jezelf echt zijn, wat de oorzaak ook is.",
+      "kern": "Een beroemd psychologisch effect kan deels een rekenkundig artefact zijn, dus controleer eerst de statistiek achter de slogan.",
+      "bron": {
+        "titel": "Dunning–Kruger effect",
+        "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "David Dunning",
+      "beeldZoek": "David Dunning psychologist",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/David_Dunning_at_LiliCon_2026.jpg/1280px-David_Dunning_at_LiliCon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Karl Withakay · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:David_Dunning_at_LiliCon_2026.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "astronomie",
+        "china",
+        "mythe"
+      ],
+      "titel": "Twee Chinese astronomen onthoofd om een gemiste verduistering? Waarschijnlijk een mythe",
+      "tekst": "Volgens een oude legende werden de hofastronomen Hsi en Ho in 2134 v.Chr. onthoofd omdat ze een zonsverduistering niet voorspelden. De New York Times noemde het in 1970 nog 'the earliest written record of a total solar eclipse'. Sinoloog David Pankenier noemt het verhaal 'clearly mythical'. Wetenschapshistoricus Christopher Cullen betwijfelt zelfs of het over een verduistering gaat. Echt voorspellen lukte pas in de Han-tijd, vanaf 206 v.Chr. Toch laat de legende zien hoe riskant het was hemelverschijnselen te duiden.",
+      "kern": "Een beroemd oud verhaal kan dubbelzinnig of verzonnen zijn, dus kijk naar wanneer en hoe de vroegste bronnen het vertellen.",
+      "bron": {
+        "titel": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
+        "url": "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Solar eclipse",
+      "beeldZoek": "total solar eclipse",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Solar_eclipse_1999_4.jpg/1280px-Solar_eclipse_1999_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Luc Viatour · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-09",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "gewoontes",
+        "productiviteit"
+      ],
+      "titel": "Parkinson: werk groeit tot de beschikbare tijd vol is",
+      "tekst": "\"Work expands so as to fill the time available for its completion.\" C. Northcote Parkinson schreef dat op 19 november 1955 in The Economist, als satire op de Britse ambtenarij. Zijn verklaring: ambtenaren willen ondergeschikten, geen rivalen, en ze maken werk voor elkaar. Zo groeide de ambtenarij 5 tot 7 procent per jaar, ongeacht de hoeveelheid werk. De Admiralty groeide terwijl de vloot kromp.",
+      "kern": "Werk dijt uit als er ruimte voor is, dus een ruime deadline of een groot team kost al snel meer dan nodig.",
+      "bron": {
+        "titel": "Parkinson's law",
+        "url": "https://en.wikipedia.org/wiki/Parkinson%27s_law",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "C. Northcote Parkinson",
+      "beeldZoek": "Cyril Northcote Parkinson",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cyril_Northcote_Parkinson_1961.jpg/1280px-Cyril_Northcote_Parkinson_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Wim van Rossem for Anefo · CC BY-SA 3.0 nl · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cyril_Northcote_Parkinson_1961.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-10",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "kinderen",
+        "natufiers"
+      ],
+      "titel": "Kinderen van 15.000 jaar geleden lieten hun vingers in de klei achter",
+      "tekst": "Tussen 40 kilo klei van drie vindplaatsen in Israël, 15.000 tot 11.600 jaar oud, vonden onderzoekers zo'n 150 fragmenten van beeldjes van de Natufische jager-verzamelaars: vogels, gazellen, mensen. Op ongeveer 60 stukken zitten vingerafdrukken. De afstand tussen de richels verraadt leeftijd en geslacht: veel beeldjes zijn door vrouwen en kinderen gemaakt, sommige kinderen jonger dan tien. Eén torso draagt afdrukken van een volwassene én een kind, mogelijk tijdens een les.\n\nDe beeldjes zijn kleiner dan twee centimeter en nauwelijks gebruikt.",
+      "kern": "Prehistorische kinderen speelden niet alleen mee: ze leerden een ambacht en de verhalen erachter.",
+      "bron": {
+        "titel": "Stone Age children left fingerprints on ancient art projects",
+        "url": "https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Natufian culture",
+      "beeldZoek": "Natufian figurine clay",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NatufianSpread.svg/1280px-NatufianSpread.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Crates · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:NatufianSpread.svg"
+      }
+    },
+    {
+      "id": "2026-11-12-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "oorsprong-van-leven",
+        "biologie",
+        "scheikunde"
+      ],
+      "titel": "Leven begon misschien als een reactiekringloop, zonder genen",
+      "tekst": "Volgens de metabolisme-eerst-theorie begon leven niet met erfelijke informatie, maar met een zichzelf in stand houdende cyclus van simpele moleculen. In 2020 toonden William Martin en Martina Preiner aan dat CO₂, waterstof en nikkel- en ijzermineralen formiaat, acetaat en pyruvaat kunnen vormen. Daarmee lijkt zo'n cyclus rond hydrothermale bronnen denkbaar. Onopgelost blijft hoe zulke cycli stabiel werden en hoe ze aan genetische informatie koppelden. Ramanarayanan Krishnamurthy: 'That is the challenge.'",
+      "kern": "Misschien kwam de stofwisseling vóór het DNA, en ontstond erfelijkheid pas later bovenop een draaiend reactienetwerk.",
+      "bron": {
+        "titel": "How a Metabolic Spark Could Have Jump-Started Life",
+        "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hydrothermal vent",
+      "beeldZoek": "hydrothermal vent black smoker",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Blacksmoker_in_Atlantic_Ocean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "P. Rona / OAR/National Undersea Research Program (NURP); NO… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Blacksmoker_in_Atlantic_Ocean.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-12",
+      "pijler": "denken",
+      "tags": [
+        "moraal",
+        "leiderschap",
+        "literatuur"
+      ],
+      "titel": "Mag een koning een privémoraal hebben? Rama en Arthur zeggen nee",
+      "tekst": "Het Ramayana (toegeschreven aan Valmiki, 750-500 v.Chr.) en de Arthurlegende zetten hun koningen voor dezelfde keuze: persoonlijke liefde opgeven of de morele basis van het koninkrijk ondermijnen. Beide kiezen voor de publieke moraal, ten koste van zichzelf. Volgens Harsh Trivedi (University of Sheffield) is daarom nog steeds relevant wat in de verhalen wordt gevraagd: hebben leiders recht op een privémoraal? Hij verwijst naar gratieverlening door Biden voor zoon Hunter en door Trump voor bijna 1.600 mensen.",
+      "kern": "Oude verhalen leggen de spanning bloot tussen wat een leider voor zichzelf wil en wat het publieke vertrouwen vraagt.",
+      "bron": {
+        "titel": "King Arthur and Ramayana: ancient stories that speak to the moral dilemmas of today's leaders",
+        "url": "https://theconversation.com/king-arthur-and-ramayana-ancient-stories-that-speak-to-the-moral-dilemmas-of-todays-leaders-294175",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Ramayana",
+      "beeldZoek": "Rama Sita Ramayana",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/R%C4%81ma_slays_R%C4%81va%E1%B9%87a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Scribes and painters employed by the Kingdom of Mewar. · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:R%C4%81ma_slays_R%C4%81va%E1%B9%87a.png"
+      }
+    },
+    {
+      "id": "2026-11-12-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "ethiek",
+        "china"
+      ],
+      "titel": "Mozi: zorg voor iedereen, zonder uitzondering",
+      "tekst": "Rond 430 v.Chr. leefde in China Mo Di, 'Meester Mo'. Zijn kernidee heet jian ai, 'inclusieve zorg': onpartijdige bekommernis om iedereen, niet alleen om familie of vrienden. Het goede is volgens de Mohisten wat het welzijn van de hele wereld vergroot. Dat maakt Mozi een vroege consequentialist, uit het tijdperk van de Strijdende Staten (479–221 v.Chr.).",
+      "kern": "Lang voor het utilisme bepleitte een Chinese denker al dat nut voor iedereen telt, ook voor vreemden.",
+      "bron": {
+        "titel": "Mohism",
+        "url": "https://plato.stanford.edu/entries/mohism/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 1,
+      "verkenning": false,
+      "beeldWiki": "Mozi",
+      "beeldZoek": "Mozi",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Vjacheslav Rublevskiy · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "paleontologie",
+        "mensapen"
+      ],
+      "titel": "Het Taung-kind kan meer verschillende vroege mensachtigen verraden",
+      "tekst": "Het Taung-kind, een schedel uit 1924, is het eerste ooit gevonden Australopithecus-exemplaar. Een nieuwe studie onder leiding van Gabriele Macho (Vrije Universiteit Brussel) bekeek tandmineralisatie en groeimodellen. Het glazuurgrensvlak lijkt op dat van Paranthropus robustus, en de schedel zou uitgroeien tot sommige, maar niet alle, Australopithecus-schedels uit de streek. Alles in één geslacht stoppen verdoezelt dan mogelijk diversiteit. De onderzoekers noemen het zelf 'merely a hypothesis'.",
+      "kern": "De stamboom van de mens was waarschijnlijk geen nette stam, en een oud fossiel kan nieuwe vragen opwerpen.",
+      "bron": {
+        "titel": "Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity",
+        "url": "https://nautil.us/famous-fossil-could-be-rosetta-stone-for-hidden-hominin-diversity-1286535",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Taung Child",
+      "beeldZoek": "Taung Child skull",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Australopithecus_africanus_-_Cast_of_taung_child.jpg/1280px-Australopithecus_africanus_-_Cast_of_taung_child.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Australopithecus_africanus_-_Cast_of_taung_child.jpg"
+      }
+    },
+    {
+      "id": "2026-11-12-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "geneeskunde",
+        "detective",
+        "deductie"
+      ],
+      "titel": "De echte Sherlock Holmes stond voor een collegezaal in Edinburgh",
+      "tekst": "Joseph Bell was chirurg en docent in Edinburgh. Arthur Conan Doyle studeerde vanaf 1878 onder hem en onthulde in 1892 dat Bell het model was voor Sherlock Holmes, die in 1887 voor het eerst in druk verscheen. Bell stelde diagnoses door scherp te kijken en te redeneren. Meer dan twintig jaar werkte hij samen met politiechirurg Henry Duncan Littlejohn aan misdaadonderzoek. Zo bracht hij volgens historicus Z.M. Hamilton een generatie amateurdetectives voort.",
+      "kern": "De beroemdste detective ontstond uit een echte arts die observatie en deductie als leermethode gebruikte.",
+      "bron": {
+        "titel": "Arthur Conan Doyle Based Sherlock Holmes on a Real-Life Scottish Surgeon Who Used Deduction to Diagnose Patients and Investigate Crimes",
+        "url": "https://www.smithsonianmag.com/history/arthur-conan-doyle-based-sherlock-holmes-on-a-real-life-scottish-surgeon-who-used-deduction-to-diagnose-patients-and-investigate-crimes-180989623/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Joseph Bell",
+      "beeldZoek": "Joseph Bell surgeon",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Joseph_Bell.jpg/1280px-Joseph_Bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "J.M.E. Saxby · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Bell.jpg"
+      }
+    }
+  ]
+}
