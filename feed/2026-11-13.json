@@ -1,0 +1,405 @@
+{
+  "datum": "2026-11-13",
+  "kaarten": [
+    {
+      "id": "2026-11-13-01",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "pausen",
+        "politiek"
+      ],
+      "titel": "Een paus berechtte het lijk van zijn voorganger",
+      "tekst": "In januari 897 zette paus Stephanus VI het lijk van Formosus, ongeveer negen maanden dood, op een troon in de Lateraanse basiliek. Een diaken sprak namens de dode. Formosus werd schuldig bevonden aan onder meer meineed en het onrechtmatig bekleden van de pauselijke troon, drie vingers van zijn rechterhand werden afgehakt en zijn lichaam kwam in de Tiber.\n\nDaarna keerde het tij: het lijk spoelde aan, een volksopstand zette Stephanus af en in de gevangenis werd hij gewurgd. In 898 verbood paus Johannes IX processen tegen lijken.",
+      "kern": "Politiek maakt zelfs van een dode een verdachte, en de uitslag wordt vaak weer teruggedraaid.",
+      "bron": {
+        "titel": "Cadaver Synod",
+        "url": "https://en.wikipedia.org/wiki/Cadaver_Synod",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Cadaver Synod",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg/1280px-Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jean-Paul Laurens · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-02",
+      "pijler": "wetenschap",
+      "tags": [
+        "mars",
+        "wolken",
+        "natuurkunde"
+      ],
+      "titel": "Een wolk op Mars die zonder stofkorrel ontstaat",
+      "tekst": "De Arsia Mons Elongated Cloud is zo'n 45 kilometer hoog en vormt zich enkele maanden per jaar elke dag boven een vulkaan op Mars. Aardse wolken hebben meestal stof of zout als kiem nodig. Deze mogelijk niet. Volgens een model dwingt de luchtstroom over de vulkaan vochtige lucht omhoog, waar ze uitzet en afkoelt tot ze 100.000 keer meer vocht bevat dan ze kan houden. Dat overschot slaat spontaan neer als ijskristallen, homogene nucleatie.\n\nHet model past nog niet perfect bij de satellietwaarnemingen.",
+      "kern": "Is lucht sterk genoeg oververzadigd, dan heeft een wolk geen kiem nodig.",
+      "bron": {
+        "titel": "A striking Mars cloud may be born from surprising physics",
+        "url": "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Arsia Mons",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Arsia_Mons_PIA02804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "NASA/MOLA Science Team · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Arsia_Mons_PIA02804.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-03",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "besluitvorming"
+      ],
+      "titel": "Waarom tegenbewijs zoeken zo moeilijk is, en toch loont",
+      "tekst": "Bevestigende informatie nemen we makkelijk aan. Bij tegenspraak zoeken we juist naar redenen om haar weg te wuiven. In een Stanford-onderzoek lazen voor- en tegenstanders van de doodstraf dezelfde twee fictieve studies, elk met tegengestelde uitkomsten. De meerderheid hield vast aan het eigen standpunt.\n\nLeon Festinger zag dat doemdenkers met mislukte voorspellingen soms méér overtuigd raakten. Het advies in de bron: zoek bewust naar bewijs dat je ongelijk geeft. Volgens Lerner en Tetlock denken mensen vooral kritisch als anderen hen ter verantwoording roepen.",
+      "kern": "Wie zijn overtuiging wil testen, moet actief zoeken naar wat haar tegenspreekt.",
+      "bron": {
+        "titel": "Confirmation Bias And the Power of Disconfirming Evidence",
+        "url": "https://fs.blog/confirmation-bias/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Confirmation bias",
+      "beeld": {
+        "url": "https://fs.blog/wp-content/uploads/2017/05/Confirmation-Bias.png",
+        "soort": "bron",
+        "credit": "Afbeelding: fs.blog",
+        "pagina": "https://fs.blog/confirmation-bias/"
+      }
+    },
+    {
+      "id": "2026-11-13-04",
+      "pijler": "geschiedenis",
+      "tags": [
+        "burgerrechten",
+        "recht",
+        "verenigde-staten"
+      ],
+      "titel": "26 dagen bezetting voor één zin wet",
+      "tekst": "Section 504 van de Rehabilitation Act van 1973 is één zin lang, maar vier jaar later waren er nog steeds geen uitvoeringsregels. In april 1977 groeide een rally in San Francisco uit tot een bezetting van een federaal gebouw die 26 dagen duurde. Hoorzittingen in het Congres, steun van lokale groepen en druk van de burgemeester hielpen de actie vol te houden. Minister Joseph Califano tekende eind april de regels, die zo'n 35 miljoen Amerikanen raakten. Judy Heumann werd een centrale figuur in de beweging.",
+      "kern": "Een wet doet pas iets als er regels voor komen, en soms moet je daar een gebouw voor bezetten.",
+      "bron": {
+        "titel": "The Real Story Behind the 504 Sit-In for Disability Rights, the Longest Peaceful Occupation of a Federal Building in American History",
+        "url": "https://www.smithsonianmag.com/history/the-real-story-behind-the-504-sit-in-for-disability-rights-the-longest-peaceful-occupation-of-a-federal-building-in-american-history-180989814/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Judy Heumann",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Judith_Heumann%2C_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "East Asia and Pacific Media Hub U.S. Department of State · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Judith_Heumann,_2014_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-05",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "vogels",
+        "dierengedrag"
+      ],
+      "titel": "Flamingo's stampen om hun eten te vangen",
+      "tekst": "Waarom stampen flamingo's terwijl ze eten? Víctor Ortega Jiménez (UC Berkeley) had er meer dan vier jaar voor nodig om het te beantwoorden. Een flamingo trekt de kop terug, wat een waterwerveling maakt die algen opschept, en het stampen versterkt die werveling. Het voedsel komt bij de gebogen snavel, die het filtert en slib en modder loslaat. Zo vangt de vogel deeltjes ter grootte van één cel. Dat zelfreinigende filter zou ideeën kunnen geven om microplastics en PFAS uit water te halen.",
+      "kern": "Wat op dansen lijkt, is vloeistofmechanica: de vogel bouwt zelf een val van water.",
+      "bron": {
+        "titel": "Why do flamingos dance while they eat? This scientist found out",
+        "url": "https://www.sciencenews.org/article/flamingos-dance-eat-scientist",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Flamingo",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Flamingos_Laguna_Colorada.jpg/1280px-Flamingos_Laguna_Colorada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Valdiney Pimenta · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Flamingos_Laguna_Colorada.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-06",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "taal",
+        "psychologie"
+      ],
+      "titel": "Denken we in woorden? Waarschijnlijk niet",
+      "tekst": "Mensen met zware afasie, door schade aan de taalgebieden in de hersenen, kunnen vaak nog rekenen, navigeren, sociale inschattingen maken en sudoku's oplossen. Ze verliezen het vertalen van gedachten naar taal, niet het denken zelf. Daarom zegt cognitiewetenschapper Evelina Fedorenko (MIT) dat er sterk bewijs is dat we niet in taal denken.\n\nBij denktaken zijn de taalgebieden niet actief; andere hersengebieden doen het redeneren. Taal dient vooral om gedachten te delen.",
+      "kern": "Taal is vooral het kanaal waarlangs gedachten reizen, niet het materiaal waarvan ze gemaakt zijn.",
+      "bron": {
+        "titel": "Do We Think in Pictures, Words, or… Code?",
+        "url": "https://nautil.us/do-we-think-in-pictures-words-or-code-1286476",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "brain MRI scan",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/CT_and_MRI_scan_of_the_brain_with_melioidosis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Wei-yuan Huang, Gang Wu, Feng Chen, Meng-meng Li and Jian-j… · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:CT_and_MRI_scan_of_the_brain_with_melioidosis.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-07",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "metafysica",
+        "kennis"
+      ],
+      "titel": "Waarom is er iets en niet niets? Een nieuwe poging",
+      "tekst": "Leibniz vroeg het in 1714 en meende dat niets 'eenvoudiger en makkelijker' zou zijn dan iets. Andrew Brenner betwist dat. Ook in een lege wereld zouden logica, wiskunde en negatieve existentiële waarheden nog gelden, dus zo simpel is dat niets niet.\n\nEén bestaand ding dat zulke waarheden verklaart, zoals God, een natuurlijke oersingulariteit of de mens, kan het geheel eenvoudiger maken dan de leegte. Brenner geeft toe dat de vraag waarom juist déze wereld bestaat daarmee onbeantwoord blijft.",
+      "kern": "De leegte is misschien niet de simpelste uitkomst, en dan is bestaan minder raadselachtig.",
+      "bron": {
+        "titel": "Why anything exists",
+        "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Gottfried Wilhelm Leibniz",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/1280px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Christoph Bernhard Francke · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-08",
+      "pijler": "denken",
+      "tags": [
+        "productiviteit",
+        "werk",
+        "gewoontes"
+      ],
+      "titel": "Sta-zitbureaus: 43 minuten extra, met een kanttekening",
+      "tekst": "Onderzoekers van Texas A&M volgden toetsaanslagen, muisklikken en getypte woorden van meer dan 10.000 werknemers van een groot Californisch energiebedrijf. Wie een in hoogte verstelbaar bureau had, was 3,66 uur per dag actief op de computer, tegen 2,95 uur bij wie alleen zat: zo'n 43 minuten extra, met iets meer typefouten.\n\nMaar het was geen gerandomiseerd experiment. Werknemers kozen hun bureau zelf via een welzijnsprogramma, dus plichtsgetrouwe mensen kunnen er vaker voor gekozen hebben.",
+      "kern": "Een verschil tussen groepen bewijst niets zolang mensen hun groep zelf kiezen.",
+      "bron": {
+        "titel": "You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk",
+        "url": "https://nautil.us/you-may-be-able-to-get-43-more-minutes-of-work-done-if-you-change-your-desk-1286594",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "standing desk office",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Office%2C_Standing_Desk_%285155525455%29.jpg/1280px-Office%2C_Standing_Desk_%285155525455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ryan Snyder · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Office,_Standing_Desk_(5155525455).jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "romeinse-rijk",
+        "schotland"
+      ],
+      "titel": "De onthoofde man van Musselburgh krijgt zijn gezicht terug",
+      "tekst": "In 2010 vonden archeologen bij Musselburgh in Schotland de resten van vier Romeinse mannen wier hoofd van het lichaam was gescheiden. Van één, een man van vroeg in de vijftig, is nu een digitale gezichtsreconstructie gemaakt, met grijzend haar en bruine ogen. Zijn botten tonen een genezen gebroken neus en rib en een gewrichtsontsteking in de elleboog. Strontiumisotopen wijzen op een jeugd in zuidelijk Brittannië, ver van waar hij stierf, ergens tussen 140 en 165. Een soldaat was hij waarschijnlijk niet.",
+      "kern": "Een skelet vertelt meer over een leven dan over de manier waarop het eindigde.",
+      "bron": {
+        "titel": "Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime",
+        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-scotland-discovered-the-skeleton-of-a-roman-era-man-who-was-decapitated-nearly-2000-years-ago-now-you-can-see-what-he-might-have-looked-like-during-his-lifetime-180989804/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Antonine Wall",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hadrians_Wall_map.svg/1280px-Hadrians_Wall_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Hadrians_Wall_map.png: Created by NormanEinstein, September… · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hadrians_Wall_map.svg"
+      }
+    },
+    {
+      "id": "2026-11-13-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "geneeskunde",
+        "engineering"
+      ],
+      "titel": "Printen met levende cellen: een gel in plaats van plastic",
+      "tekst": "Een gewone 3D-printer verhit zijn printkop tot meer dan tweehonderd graden, en dat overleven cellen niet. Bioprinters gebruiken daarom een hydrogel: zacht bij het verlaten van de printkop, daarna geleidelijk opdrogend, met stoffen die cellen laten groeien en delen. Een dubbele printkop maakt holle buisjes, zoals bloedvaten. Andere technieken laten laserlicht de gel harden of verplaatsen cellen met een laser van een glasplaatje naar het doel. Een compleet orgaan printen is nog niet haalbaar.",
+      "kern": "Bioprinten draait om materiaal en temperatuur waarin cellen in leven blijven.",
+      "bron": {
+        "titel": "Hoe werkt 3D-printen met levende cellen?",
+        "url": "https://nemokennislink.nl/publicaties/hoe-werkt-3d-printen-met-levende-cellen/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "3D bioprinting",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-13-11",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "altruisme",
+        "taal"
+      ],
+      "titel": "Is 'kind' iets anders dan 'nice'? Nauwelijks",
+      "tekst": "Studenten van Jennifer Cheavens vonden dat 'nice' uit plicht of voor je reputatie gebeurt en 'kind' niets terugverwacht. Haar lab testte dat met 736 deelnemers, die elk zeven van 14 korte verhalen beoordeelden. Er bleek weinig verschil tussen 'kind' en 'nice'. 'Caring' lag hoger: dat woord paste vooral bij kostbare daden voor bekenden. Vooraf gepland, warm en zonder verwachting gegeven werd als warmer ervaren.\n\nVolgens de onderzoekers hangt 'kind' het minst samen met drempels om te helpen, dus wie vrijwilligers zoekt, kiest dat woord beter dan 'caring'.",
+      "kern": "Het woord waarmee je om hulp vraagt, bepaalt hoe laag de drempel is.",
+      "bron": {
+        "titel": "The Difference Between Nice and Kind",
+        "url": "https://nautil.us/the-difference-between-nice-and-kind-1286505",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Prosocial behavior",
+      "beeld": {
+        "url": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_1931928044.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: nautil.us",
+        "pagina": "https://nautil.us/the-difference-between-nice-and-kind-1286505"
+      }
+    },
+    {
+      "id": "2026-11-13-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "klimaat",
+        "vulkanen",
+        "geneeskunde"
+      ],
+      "titel": "De Kleine IJstijd en kinderen zonder zon",
+      "tekst": "Tussen de 13e en 19e eeuw was het in Europa koeler. In de laatste 200 jaar daarvan hielpen 18 grote vulkaanuitbarstingen een daling van 2 tot 3 graden veroorzaken. Bioarcheoloog Ellen Kendall (Durham) onderzocht 21 mensen die tussen 1711 en 1829 in North Shields werden begraven. Banden van mislukte kalkafzetting in hun tanden wijzen op seizoensgebonden vitamine D-tekort, en enkele skeletten tonen rachitis. Mogelijk kwamen kinderen minder in de zon. Klimaat was één factor naast onder meer voeding, vervuiling en rolpatronen.",
+      "kern": "Een koud klimaat kan zich nestelen in de botten van kinderen, via een omweg langs het zonlicht.",
+      "bron": {
+        "titel": "Little Ice Age cooling in Europe may have raised the risk of rickets",
+        "url": "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Rickets",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/XrayRicketsLegssmall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "The original uploader was Mrich at English Wikipedia. · CC BY-SA 1.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:XrayRicketsLegssmall.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-13",
+      "pijler": "denken",
+      "tags": [
+        "systeemdenken",
+        "netwerken",
+        "geneeskunde"
+      ],
+      "titel": "Waarom medicijnen vaak naast de ziektegenen mikken",
+      "tekst": "Netwerken groeien doordat nieuwe knooppunten zich bij voorkeur hechten aan knooppunten die al veel verbindingen hebben, en zo ontstaan hubs. Albert-László Barabási past dat toe op de geneeskunde: ziektegenen clusteren in 'netwerkbuurten', en medicijnen werken mogelijk beter als ze moleculen in die buurt raken dan de ziektegenen zelf. Volgens hem bindt 85 procent van de medicijnen aan niets wat met de ziekte te maken heeft. Zijn Foodome-project brengt ook de 'donkere materie van voeding' in kaart: 135.000 moleculen in eten buiten de gangbare voedingsstoffen.",
+      "kern": "Wie een ziekte als netwerk ziet, zoekt de oplossing in de buurt van het probleem.",
+      "bron": {
+        "titel": "Can Network Science Transform Health and Nutrition?",
+        "url": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+        "soort": "podcast",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Albert-László Barabási",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Albert-Laszlo_Barabasi_-_Annual_Meeting_of_the_New_Champions_2012.jpg/1280px-Albert-Laszlo_Barabasi_-_Annual_Meeting_of_the_New_Champions_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "World Economic Forum from Cologny, Switzerland · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Albert-Laszlo_Barabasi_-_Annual_Meeting_of_the_New_Champions_2012.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "klimaat",
+        "weer",
+        "mediterraan"
+      ],
+      "titel": "De Middellandse Zee 'tropiseert': wat dat wel en niet betekent",
+      "tekst": "Tropisch is het niet: dan moet de koudste maand gemiddeld 18 graden of warmer zijn, en dat haalt het Iberisch schiereiland niet. Toch zijn er tekenen van tropicalisatie. Water tot zo'n 100 meter diepte is flink opgewarmd. Ten zuiden van Mallorca kwam het op sommige dagen boven de 30 graden, en in juni 2026 lag het oppervlak tot 8 graden boven het gemiddelde van 1991-2020. Een uitbreidende Hadleycel verschuift de hogedrukgebieden, waardoor regen eerder komt als hevige buien na lange droogte.",
+      "kern": "Een klimaat 'tropiseert' al lang voordat het tropisch is, en je merkt het vooral aan de regen.",
+      "bron": {
+        "titel": "Warmer seas and shifting pressure systems: the signs that suggest the Mediterranean’s climate is ‘tropicalising’",
+        "url": "https://theconversation.com/warmer-seas-and-shifting-pressure-systems-the-signs-that-suggest-the-mediterraneans-climate-is-tropicalising-295197",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Mediterranean Sea",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/1280px-Mediterranean_Sea_16.61811E_38.99124N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "of the modification : Eric Gaba (Sting) · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg"
+      }
+    },
+    {
+      "id": "2026-11-13-15",
+      "pijler": "denken",
+      "tags": [
+        "slaap",
+        "psychologie",
+        "hersenen"
+      ],
+      "titel": "Zou slecht slapen het denkprobleem bij depressie verklaren?",
+      "tekst": "Onderzoeker Mana Fazel noemt het een hypothese, die ze in haar promotieonderzoek toetst: slechte slaap in de nacht leidt tot meer 'lokale slaap' overdag, wat weer kan leiden tot afdwalende gedachten en haperingen in het denkvermogen. Dat zou de denkproblemen bij depressie verklaren. Een vastgesteld feit is het nog niet.",
+      "kern": "Een denkprobleem overdag kan zijn oorsprong in de nacht hebben.",
+      "bron": {
+        "titel": "Verklaart slechte slaap denkproblemen bij depressie?",
+        "url": "https://nemokennislink.nl/publicaties/verklaart-slechte-slaap-denkproblemen-bij-depressie/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 1,
+      "verkenning": false,
+      "beeldZoek": "sleeping person bed",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Mother_and_newborn_sleeping_on_a_bamboo_bed_near_a_campfire_in_a_house_in_Don_Det_Laos.jpg/1280px-Mother_and_newborn_sleeping_on_a_bamboo_bed_near_a_campfire_in_a_house_in_Don_Det_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Basile Morin · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mother_and_newborn_sleeping_on_a_bamboo_bed_near_a_campfire_in_a_house_in_Don_Det_Laos.jpg"
+      }
+    }
+  ]
+}
