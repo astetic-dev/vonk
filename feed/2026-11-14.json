@@ -46,7 +46,8 @@
         "gelezen": true
       },
       "leesmin": 2,
-      "verkenning": false
+      "verkenning": false,
+      "geenBeeld": true
     },
     {
       "id": "2026-11-14-03",
@@ -120,7 +121,8 @@
         "gelezen": true
       },
       "leesmin": 2,
-      "verkenning": false
+      "verkenning": false,
+      "geenBeeld": true
     },
     {
       "id": "2026-11-14-06",
@@ -222,7 +224,8 @@
       },
       "leesmin": 2,
       "verkenning": false,
-      "beeldWiki": "Ulysses and the Sirens"
+      "beeldWiki": "Ulysses and the Sirens",
+      "geenBeeld": true
     },
     {
       "id": "2026-11-14-10",
@@ -344,7 +347,8 @@
         "gelezen": true
       },
       "leesmin": 2,
-      "verkenning": true
+      "verkenning": true,
+      "geenBeeld": true
     },
     {
       "id": "2026-11-14-15",
