@@ -1,0 +1,377 @@
+{
+  "datum": "2026-11-14",
+  "kaarten": [
+    {
+      "id": "2026-11-14-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "turbulentie",
+        "vloeistoffen"
+      ],
+      "titel": "Pekelkreeftjes keren de richting van turbulentie om",
+      "tekst": "Turbulentie werd lang gezien als een stroom van energie in één richting: van grote wervels naar kleinere, tot die als warmte verdwijnt. In twee dimensies stroomt de energie volgens Kraichnan en Batchelor (eind jaren zestig) juist van klein naar groot.\n\nLei Fang (University of Pittsburgh) en Xinyu Si zetten pekelkreeftjes in een ondiepe tank met zout water. Zwemt een kreeftje onder 45 graden met de richting van maximale rek, dan stroomt energie van klein naar groot; erboven keert de stroom om. Staafjes in plaats van kreeftjes gaven hetzelfde. \"The geometry matters,\" zegt Fang.",
+      "kern": "Wie de oriëntatie van een zwemmer verandert, kan de richting van de energiestroom omkeren.",
+      "bron": {
+        "titel": "Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence",
+        "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Artemia",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Artemia_salina_4.jpg/1280px-Artemia_salina_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Hans Hillewaert · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Artemia_salina_4.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-02",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "besluitvorming",
+        "productiviteit"
+      ],
+      "titel": "Waarom je scriptie altijd langer duurt dan gepland",
+      "tekst": "Zevenendertig psychologiestudenten schatten dat hun scriptie gemiddeld 33,9 dagen zou kosten. Zelfs als alles tegenzat, rekenden ze op 48,6 dagen. Het echte gemiddelde was 55,5 dagen, en ongeveer 30 procent haalde de eigen schatting.\n\nDit is de planningsfout, in 1979 voorgesteld door Kahneman en Tversky: eigen taken lijken korter dan vergelijkbare taken eerder bleken. Een deel van de verklaring is focalisme: de aandacht blijft bij de taak zelf. Remedie: reference class forecasting, voorspellen op basis van wat vergelijkbare projecten echt kostten.",
+      "kern": "Schat niet vanuit je plan, maar vanuit hoe vergelijkbare klussen echt verliepen.",
+      "bron": {
+        "titel": "Planning fallacy",
+        "url": "https://en.wikipedia.org/wiki/Planning_fallacy",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false
+    },
+    {
+      "id": "2026-11-14-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "steentijd",
+        "archeologie",
+        "uitvindingen"
+      ],
+      "titel": "Het touw dat nauwelijks overleefde maar de steentijd veranderde",
+      "tekst": "Touw rot weg, dus archeologen missen een enorm deel van het dagelijks leven in de prehistorie. Toch maakte koord het mogelijk om steenpunten aan een schacht te binden en om strikken en netten te gebruiken.\n\nIn de grot Hohle Fels vond men een staaf van mammoetivoor, meer dan 35.000 jaar oud, met spiraalvormige groeven in de gaten. Het team van Nicholas Conard denkt dat daarmee vezels tot touw werden gedraaid. Met een replica en lisdodde-vezels maakten ze in tien minuten 16 voet touw. De oudste bewaarde vezel, uit Abri du Maras, is van Neanderthalers: 6 millimeter dik, ongeveer 50.000 jaar oud.",
+      "kern": "Wat niet bewaard blijft, kan toch een revolutie zijn geweest.",
+      "bron": {
+        "titel": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age, From Rope to Thread and Twine",
+        "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hohle Fels",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/1280px-Hohler_Fels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Dr. Eugen Lehle · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hohler_Fels.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "geheugen",
+        "neurowetenschap"
+      ],
+      "titel": "Het angstcentrum van het brein bepaalt ook wat je onthoudt",
+      "tekst": "De amygdala geldt als het angstcentrum, maar lijkt ook een opslagknop voor herinneringen. Onderzoekers namen met elektroden op bij meer dan 90 mensen met moeilijk behandelbare epilepsie, terwijl zij plaatjes van alledaagse voorwerpen uit vijf categorieën zagen.\n\nDe amygdala sorteert elk plaatje per categorie. Hoe sterker het bijbehorende neuron de eerste keer reageert, hoe groter de kans dat het plaatje later wordt herinnerd. De hippocampus voorspelde dat zwakker en iets later. Hoe de opslag precies werkt, is nog onduidelijk.",
+      "kern": "Of iets blijft hangen, beslist het brein al bij de eerste blik.",
+      "bron": {
+        "titel": "The brain's fear center moonlights as the save button for memories",
+        "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Amygdala",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Amyg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "User Washington irving on en.wikipedia · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Amyg.png"
+      }
+    },
+    {
+      "id": "2026-11-14-05",
+      "pijler": "denken",
+      "tags": [
+        "systeemdenken",
+        "engineering",
+        "innovatie"
+      ],
+      "titel": "Gall: complexe systemen groeien uit eenvoudige die werkten",
+      "tekst": "\"Een complex systeem dat werkt, blijkt steevast te zijn voortgekomen uit een eenvoudig systeem dat werkte.\" Zo schreef John Gall in Systemantics (1975, herdrukt in 1977). Het vervolg is scherper: een complex systeem dat vanaf nul is ontworpen, werkt nooit en is niet bij te lappen.\n\nHet boek spreekt zelf niet van een wet, en noemt een eenvoudig systeem ook niet altijd werkend: \"may or may not work\". Eenvoud is dus een startpunt, geen garantie.",
+      "kern": "Begin klein, laat het werken en laat het dan pas groeien.",
+      "bron": {
+        "titel": "John Gall (author)",
+        "url": "https://en.wikipedia.org/wiki/John_Gall_(author)",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false
+    },
+    {
+      "id": "2026-11-14-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "amerikaanse-revolutie",
+        "engineering",
+        "scheepvaart"
+      ],
+      "titel": "Het kanonneerschip zonder echte onderkant",
+      "tekst": "De Philadelphia, 53 voet lang, kreeg een platte bodem zodat ze in water van zo'n drie voet diep kon varen op Lake Champlain. Dat maakte de bouw snel: ongeveer tweeënhalve week, ter plekke. Maar het schip stuurde slecht; de wind duwde het rond en de bemanning moest vaak roeien.\n\nOp 11 oktober 1776, de eerste dag van de slag bij Valcour Island, zonk ze rond 18.50 uur. Volgens het artikel was het één kogel van 24 pond onder de waterlijn. De slag hield de Britten tot het voorjaar van 1777 op.",
+      "kern": "Een ontwerp dat past bij het water van de strijd, kan de strijd zelf winnen of verliezen.",
+      "bron": {
+        "titel": "Where Is the Bottom of the Gunboat \"Philadelphia\"?",
+        "url": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2026/11/02/wheres-the-bottom-of-the-gunboat-philadelphia/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "USS Philadelphia (1776)",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/GunboatPhiladelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown (US government employee); · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:GunboatPhiladelphia.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "klimaat",
+        "geofysica",
+        "permafrost"
+      ],
+      "titel": "Ontdooiende permafrost geeft een nieuw soort aardverschuiving",
+      "tekst": "In 2018 gleed in het noorden van Canada 18 miljoen kubieke meter aarde weg. Het dam de Redstone River af en vormde een meer van 3,5 kilometer lang. Onderzoekers rekenen zo'n schuif tot een nieuw type: de \"permafrost detachment slide\".\n\nHet voorgestelde mechanisme: branden en opwarming verzwakken de bevroren grond, door scheuren zakt water diep door, de permafrost ontdooit van onderaf en komt los. De glijvlakken liggen ongeveer 20 meter diep, en een brand van decennia eerder kan het in gang zetten. Meer dan 150 andere schuiven in de regio kunnen van dit type zijn.",
+      "kern": "Wat nu ontdooit, kan decennia na een brand pas losbreken.",
+      "bron": {
+        "titel": "Melting permafrost has birthed a new type of large landslide",
+        "url": "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "permafrost thaw slump",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Massive_ice_-_retrogressive_thaw_slump_-_Herschel_Island.png/1280px-Massive_ice_-_retrogressive_thaw_slump_-_Herschel_Island.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Dave Fox · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Massive_ice_-_retrogressive_thaw_slump_-_Herschel_Island.png"
+      }
+    },
+    {
+      "id": "2026-11-14-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "oude-grieken",
+        "ziel"
+      ],
+      "titel": "Aristoteles: de ziel is de vorm van een levend lichaam",
+      "tekst": "Voor Aristoteles is de ziel geen spook in het lichaam maar de \"eerste actualiteit van een natuurlijk, organisch lichaam\": de vorm van een levend ding. Hij onderscheidt drie soorten: de voedende, de waarnemende en de denkende. Planten hebben alleen de eerste, dieren erbij de tweede, mensen ook geest (nous).\n\nOf ziel en lichaam één zijn, hoef je volgens hem net zo min te vragen als of was en de vorm ervan één zijn.",
+      "kern": "Ziel is geen extra ding in het lichaam, maar wat een lichaam levend maakt.",
+      "bron": {
+        "titel": "Aristotle's Psychology",
+        "url": "https://plato.stanford.edu/entries/aristotle-psychology/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Aristotle",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "After Lysippos · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-09",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "zelfbeheersing",
+        "spelttheorie"
+      ],
+      "titel": "Ulysses liet zich vastbinden: de kracht van voorafgaande binding",
+      "tekst": "Gewaarschuwd door Circe laat Ulysses zich aan de mast binden voordat zijn schip de Sirenen passeert, terwijl zijn matrozen hun oren dichtstoppen. Hij verwacht dat zijn wil zal bezwijken en verandert vooraf zijn opties.\n\nDat heet precommitment. Thomas Schelling introduceerde het in 1956 in het onderhandelen, R.H. Strotz in hetzelfde jaar in consumentengedrag. Jon Elster werkte het in 1979 uit tot theorie. Voorbeelden: een generaal die de bruggen achter zijn leger verbrandt, of een roker die haar plan aan vrienden vertelt, zodat terugvallen duurder wordt.",
+      "kern": "Wie zijn toekomstige zwakte kent, kan nu al de keuze inperken.",
+      "bron": {
+        "titel": "Precommitment",
+        "url": "https://en.wikipedia.org/wiki/Precommitment",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Ulysses and the Sirens"
+    },
+    {
+      "id": "2026-11-14-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "optica",
+        "nanotechnologie"
+      ],
+      "titel": "Een materiaal dat licht uit elke richting tegenhoudt",
+      "tekst": "Licht uit alle richtingen blokkeren is lastig. Stefano Martiniani van New York University ontwierp daarvoor gyromorfen, een metamateriaal dat kristalachtige orde combineert met vloeistofachtige willekeur. Natuurkundigen dachten dat zo'n hybride niet te bouwen was.\n\nZijn vergelijking is een menigte: je kunt er niet doorheen kijken, maar vanaf elk punt zie je een ring mensen op vaste afstand. Zijn lab vond de juiste balans met FReSCo, een programma dat structuren ontwerpt voor een opgegeven doel. Toepassing die hij noemt: zuiniger optische computers.",
+      "kern": "Tussen orde en chaos zit een structuur die niemand voor mogelijk hield.",
+      "bron": {
+        "titel": "Light is hard to block from every direction. This physicist found a way",
+        "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-14-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "logica",
+        "oude-grieken"
+      ],
+      "titel": "Porfyrius en de boom die het denken ordende",
+      "tekst": "Porfyrius, geboren rond 234 in Tyrus, studeerde van 263 tot 268 bij Plotinus in Rome en gaf diens geschriften later uit. Zijn eigen Isagoge noemt vijf begrippen: genus, species, differentia, proprium en accident. Daaruit groeide de Porfyriaanse boom, van \"substantie\" via lichaam, levend lichaam en dier naar de mens, met daaronder alleen individuen als Socrates en Plato.\n\nHet werk werd standaardinleiding in de logica; Boethius vertaalde het in het Latijn. Porfyrius liet open of soorten werkelijk bestaan of alleen in gedachten, en bepaalde zo de termen van het middeleeuwse universaliastrijd.",
+      "kern": "Wie dingen indeelt, stelt meteen de vraag of de indeling in de werkelijkheid zit.",
+      "bron": {
+        "titel": "Porphyry",
+        "url": "https://plato.stanford.edu/entries/porphyry/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Porphyry (philosopher)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg/1280px-Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "ruimtevaart",
+        "asteroiden",
+        "planetaire-verdediging"
+      ],
+      "titel": "Hera bereikt het eerste dubbele asteroïdenpaar",
+      "tekst": "Op 4 november kwam ESA's Hera na ruim twee jaar reizen binnen 30 kilometer van Didymos en Dimorphos. Het is de eerste missie naar twee asteroïden die om elkaar draaien. De inslag van NASA's DART in 2022 verkortte de baan van Dimorphos met meer dan een half uur; Hera moet de gevolgen in kaart brengen voor toekomstige planetaire verdediging.\n\nIn januari laat Hera twee kleine ruimtetuigen los. Het cubesat Juventas probeert met radar het inwendige te zien en te landen. \"We've never seen the interior of an asteroid before,\" zegt Angela Stickle.",
+      "kern": "Verdediging tegen asteroïden en pure wetenschap zijn twee kanten van dezelfde munt.",
+      "bron": {
+        "titel": "Europe's Hera mission is ready to double down on asteroid science",
+        "url": "https://www.sciencenews.org/article/europe-hera-mission-double-asteroid",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hera (spacecraft)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Hera_in_orbit.jpg/1280px-Hera_in_orbit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "ESA – Science Office · CC BY-SA 3.0 igo · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hera_in_orbit.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "donkere-materie",
+        "kosmologie"
+      ],
+      "titel": "Drie spookachtige sterrenstelsels en de donkere materie",
+      "tekst": "DF2, DF4 en DF9 liggen op een rij, ongeveer 65 miljoen lichtjaar ver, en bevatten bijna geen donkere materie. DF2 heeft volgens Keck-metingen tot 400 keer minder dan verwacht. De massa van DF9, ruwweg 100 miljoen zonnen, past bij gewone materie alleen.\n\nEen artikel uit juni 2026 stelt een botsing voor: gas en stof van twee stelsels klonterden samen, terwijl donkere materie ongehinderd doorvloog. Dat wijst erop dat donkere materie een echte substantie is, wat slecht nieuws is voor MOND, het alternatief van Mordehai Milgrom uit 1983. Hoe de stelsels precies ontstonden, blijft omstreden.",
+      "kern": "Stelsels zonder donkere materie bewijzen indirect dat donkere materie bestaat.",
+      "bron": {
+        "titel": "Triplet of 'Ghostly' Galaxies Hints at What Dark Matter Is — and Isn't",
+        "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "NGC 1052-DF2 galaxy",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter.jpg/1280px-NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA, ESA, and P. van Dokkum (Yale University) · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter.jpg"
+      }
+    },
+    {
+      "id": "2026-11-14-14",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "middeleeuwen",
+        "religie"
+      ],
+      "titel": "Saadya: rede en openbaring als twee bronnen van dezelfde waarheid",
+      "tekst": "Saadya, geboren rond 882 in Egypte en overleden in 942, schreef in 933 het Boek van Overtuigingen en Meningen. Zijn uitgangspunt is nuchter: \"de begrippen van het verstand zijn gebaseerd op de waarnemingen van de zintuigen.\" Elke leerstelling rust volgens hem op twee bronnen: \"de openbaring van de Bijbel\" en de redelijke bewijzen.\n\nZo voert hij vier argumenten aan voor een schepping uit niets, ontleend aan Johannes Philoponus. Een daarvan gaat over de tijd: bij een eindeloze tijd zou het heden nooit kunnen bestaan, omdat het huidige moment niet door het oneindige heen kan.",
+      "kern": "Geloof en redeneren kunnen elkaar versterken als ze naar dezelfde conclusie wijzen.",
+      "bron": {
+        "titel": "Saadya [Saadiah]",
+        "url": "https://plato.stanford.edu/entries/saadya/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true
+    },
+    {
+      "id": "2026-11-14-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "vrijheid",
+        "ethiek"
+      ],
+      "titel": "Isaiah Berlin: waarden botsen, en dat is geen vergissing",
+      "tekst": "Volgens Isaiah Berlin (1909-1997) zijn echte waarden talrijk en kunnen ze met elkaar botsen. Dan komt dat niet doordat iemand er één verkeerd begrepen heeft. Waarden kunnen bovendien onvergelijkbaar zijn: er bestaat geen gemeenschappelijke maat om ze te rangschikken.\n\nIn \"Two Concepts of Liberty\" (1958) onderscheidt hij negatieve vrijheid, vrij zijn van beperkingen door anderen, van positieve vrijheid, vrij zijn om zelf doelen na te streven en jezelf te besturen.",
+      "kern": "Een keuze tussen twee goede dingen is soms geen fout van inzicht maar een echt dilemma.",
+      "bron": {
+        "titel": "Isaiah Berlin",
+        "url": "https://plato.stanford.edu/entries/berlin/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Isaiah Berlin",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/IsaiahBerlin1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Rob C. Croes (ANEFO) · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:IsaiahBerlin1983.jpg"
+      }
+    }
+  ]
+}
