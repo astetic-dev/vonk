@@ -1,0 +1,398 @@
+{
+  "datum": "2026-11-15",
+  "kaarten": [
+    {
+      "id": "2026-11-15-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "dinosaurussen",
+        "paleontologie",
+        "evolutie"
+      ],
+      "titel": "Een dinosaurus met fruit op het menu",
+      "tekst": "De 'hell chicken' Infernogallus jamesi woog zo'n 12 kilo en was ongeveer zo groot als een kalkoen. Dat dit dier fruit at, leiden onderzoekers af uit de schedel. Kaakgewrichten, spieren en gehemelte lieten de kaak naar voren en achteren schuiven, niet op en neer, zoals bij fruiteters als papegaaien. Met tong en kaak stroopte het waarschijnlijk het vruchtvlees van grote zaden.\n\nVolgens het artikel is dit het eerste bewijs dat niet-vogeldinosaurussen zulke aanpassingen ontwikkelden. Het eerste skelet werd in 2011 in Montana gevonden.",
+      "kern": "Uit de bouw van een kaak valt af te lezen wat een dier at, ook bij een fossiel van meer dan 65 miljoen jaar oud.",
+      "bron": {
+        "titel": "The 'hell chicken' dinosaur was a real terror — to fruit",
+        "url": "https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Oviraptorosauria",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Oviraptorosauria_Diversity.jpg/1280px-Oviraptorosauria_Diversity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jordi Payà EvaK Kondo Atsushi Michael Shehan Obeysekera Jon… · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Oviraptorosauria_Diversity.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-02",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "gedachte-experiment"
+      ],
+      "titel": "Einstein achter een lichtstraal aan",
+      "tekst": "Wat zou er gebeuren als je een lichtstraal kon inhalen? Volgens Farnam Street was die vraag een gedachte-experiment dat Einstein naar de speciale relativiteitstheorie leidde. Ernst Mach zag zo'n experiment als een echt experiment: je varieert de omstandigheden en ziet hoe ver een idee reikt. Vaak gaat het zelfs aan het fysieke experiment vooraf.\n\nDe lijst loopt van Zeno's Achilles en de schildpad tot Laplace's demon (1814) en het trolleyprobleem. Andrew Irvine stelt wel een eis: alle aannames moeten op empirisch bewijs steunen.",
+      "kern": "Door in gedachten de omstandigheden te variëren, test je hoe ver een idee reikt.",
+      "bron": {
+        "titel": "Thought Experiment: How Einstein Solved Difficult Problems",
+        "url": "https://fs.blog/thought-experiment/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Albert Einstein",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/1280px-Albert_Einstein_Head_cleaned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Oren Jack Turner · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "scheepswrak",
+        "16e-eeuw",
+        "techniek"
+      ],
+      "titel": "Een slot uit 1583 gaat na vier eeuwen open",
+      "tekst": "In 1999 vond metaaldetectorist Peter Hughes op Margam Beach in Wales een messing slot uit het wrak van de Ann Francis, vergaan op 28 december 1583. Twintig jaar probeerde hij de code te kraken. Het slot heeft vier draaiende schijven met zes letters: 1.296 combinaties.\n\nIngenieurs keken met micro-CT-scans naar binnen, zonder iets te beschadigen, en zagen hoe de inkepingen op de schijven aansloten op de tanden van de sleutel. Pas de derde scan werkte. De code bleek ANCE; de schijven werden zo gezet en het slot klikte voor het eerst in ruim 400 jaar open.",
+      "kern": "Een scan die niets aanraakt, kan een mechanisme van 400 jaar oud laten vertellen hoe het werkt.",
+      "bron": {
+        "titel": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+        "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "brass combination lock",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/5ReliekkistIvoor09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Kleon3 · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:5ReliekkistIvoor09.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "geologie",
+        "aarde",
+        "plaattektoniek"
+      ],
+      "titel": "Een chemisch spoor wijst naar het begin van de plaattektoniek",
+      "tekst": "Nieuwe continentale korst ontstaat vaak door het omsmelten van oudere korst, en dat laat een chemisch spoor achter, onder meer in veldspaat. Een team analyseerde meer dan 1.200 gesteenten uit Australië, Afrika, Noord-Amerika en Europa, samen bijna vier miljard jaar aardgeschiedenis.\n\nRond 2,5 miljard jaar geleden verdwijnt het signaal van zeer oude korst abrupt. Daarvoor werd oud materiaal steeds opnieuw omgesmolten. Daarna mengden oude en nieuwe bronnen zich, zoals nu bij plaatranden. Wat de start veroorzaakte, weten de auteurs zelf niet.",
+      "kern": "Een verdwenen chemisch signaal in gesteente laat zien wanneer de aarde overschakelde op een nieuwe manier van korst maken.",
+      "bron": {
+        "titel": "A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago",
+        "url": "https://nautil.us/a-chemical-fingerprint-in-ancient-rocks-suggests-plate-tectonics-began-2-5-billion-years-ago-1286624",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "tectonic plates map",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Tectonic_plates.png/1280px-Tectonic_plates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Map:USGS Description:Muriel Gottrop~commonswiki · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tectonic_plates.png"
+      }
+    },
+    {
+      "id": "2026-11-15-05",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "zelfbeeld",
+        "afgunst"
+      ],
+      "titel": "Afgunst als kompas",
+      "tekst": "Stacy Kim, auteur van een boek over afgunst, wil dat gevoel niet onderdrukken maar onderzoeken. Haar hulpmiddel heet SIREN. Afgunst richt zich meestal op iemand dichtbij: de jonge cellist benijdt de eerste cello, niet Yo-Yo Ma. Je wilt vaak niet het ding zelf, maar het gevoel dat het geeft. En hoe heftiger de negatieve emotie, hoe belangrijker het signaal.\n\nKim benijdde jarenlang Gretchen Rubin en las haar boeken niet. Toen ze dat toch deed, zag ze dat ze zelf dat soort werk wilde doen.",
+      "kern": "Afgunst wijst aan wat je zelf wilt; onderzoek haar in plaats van haar weg te duwen.",
+      "bron": {
+        "titel": "When Envy is a Virtue",
+        "url": "https://nautil.us/when-envy-is-a-virtue-1286615",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-15-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "volksgezondheid",
+        "parasieten"
+      ],
+      "titel": "Middeleeuws Trondheim: goed bedoeld afval, besmette bevolking",
+      "tekst": "Trondheim groeide van zo'n 250 inwoners rond 950 naar ongeveer 3.000 in de Hoge Middeleeuwen. Het aantal latrinekuilen daalde en het afval ging naar de akkers, weg uit het centrum. Dat sloeg terug: volgens onderzoeker Elisabeth Forrestad Swensen was bijna de hele bevolking besmet met rondwormen. Het ontbrak aan kennis over parasieten en hygiëne.\n\nOok de stank werd bestreden, met houtsnippers van de bouw. Halverwege de 13e eeuw hield die praktijk op.",
+      "kern": "Een goed bedoelde maatregel zonder kennis van de oorzaak kan een ziekte juist verspreiden.",
+      "bron": {
+        "titel": "What Public Health Initiatives Looked Like in the Middle Ages",
+        "url": "https://nautil.us/what-public-health-initiatives-looked-like-in-the-middle-ages-1286618",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Trondheim",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Trondheim_overview_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Trondheim Havn from Trondheim, Norway · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Trondheim_overview_01.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "dierengedrag",
+        "slangen"
+      ],
+      "titel": "Kleine slangen die als een wiel ontsnappen",
+      "tekst": "Slangen van het geslacht Pseudorabdion, 11 tot 28 centimeter lang, rollen weg. Onderzoekers in Maleisië zetten ze met een zachte tik op een baan van 2,2 meter in beweging en filmden het. De slang buigt in een C-vorm, slaat de staart naar achteren en komt even los van de grond. Daarna zwiept de staart voorbij de kop, en bij de landing begint de volgende rol. De kop blijft ondertussen vrij stabiel.\n\nDe snelheid lag tussen 1,7 en 3,7 meter per seconde. Slangen van het geslacht Calamaria, ter vergelijking, rolden geen enkele keer.",
+      "kern": "Rollen is voor sommige slangen een echte ontsnappingstechniek, geen sprookje over hoepelslangen.",
+      "bron": {
+        "titel": "These tiny snakes cartwheel to escape danger",
+        "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Pseudorabdion",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Pseudorhabdion_cf._mcnamarae_%28KU_327193%29_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg/1280px-Pseudorhabdion_cf._mcnamarae_%28KU_327193%29_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Brown R, Siler C, Oliveros C, Welton L, Rock A, Swab J, Van… · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Pseudorhabdion_cf._mcnamarae_(KU_327193)_from_Barangay_Binatug_-_ZooKeys-266-001-g091.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-08",
+      "pijler": "denken",
+      "tags": [
+        "evolutie",
+        "concurrentie",
+        "denkmodellen"
+      ],
+      "titel": "Rennen om stil te staan: het Rode-Koningin-effect",
+      "tekst": "Kikkers krijgen plakkerigere tongen, vliegen gladdere lijven. Het aantal opgegeten vliegen blijft gelijk, maar beide soorten zijn veranderd. Zo beschrijft Farnam Street het Rode-Koningin-effect: wie stilstaat terwijl anderen bewegen, valt in feite achteruit.\n\nIn een brief uit 1985 schreef Warren Buffett over textielbedrijven dat elke efficiëntie-investering op zich rendabel leek. Maar omdat concurrenten hetzelfde deden, werden lagere kosten de norm en bleven de rendementen laag. De naam komt van Lewis Carrolls Through the Looking Glass.",
+      "kern": "Wie niet vooruitgaat terwijl anderen dat wel doen, gaat achteruit.",
+      "bron": {
+        "titel": "The Red Queen Effect: Avoid Running Faster to Stay in the Same Place",
+        "url": "https://fs.blog/the-red-queen-effect/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Red Queen hypothesis",
+      "beeld": {
+        "url": "https://fs.blog/wp-content/uploads/2012/10/Red-Queen.png",
+        "soort": "bron",
+        "credit": "Afbeelding: fs.blog",
+        "pagina": "https://fs.blog/the-red-queen-effect/"
+      }
+    },
+    {
+      "id": "2026-11-15-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "china",
+        "scepsis"
+      ],
+      "titel": "Zhuangzi: elk 'dit' is ook een 'dat'",
+      "tekst": "Eind 4e eeuw v.Chr. betoogde de Chinese denker Zhuangzi dat oordelen over 'dit' en 'niet dit' afhangen van waar je staat: \"Any thing can be a 'this'; any thing can be a 'that'.\" De Stanford Encyclopedia of Philosophy noemt dat indexicaal relativisme, geen cultureel relativisme.\n\nZijn scepsis is volgens het artikel gematigd en positief. Ze leidt niet tot nihilisme, maar tot bescheidenheid en openheid. Taal is in zijn visie een sociaal pad, en namen werken als wegwijzers.",
+      "kern": "Wat 'dit' heet, hangt af van je standpunt, en dat is een reden voor bescheidenheid.",
+      "bron": {
+        "titel": "Zhuangzi",
+        "url": "https://plato.stanford.edu/entries/zhuangzi/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Zhuangzi",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-15-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "vacuum",
+        "meten"
+      ],
+      "titel": "De klap van één gasatoom opgemeten",
+      "tekst": "Een glazen bolletje van 100 nanometer zweeft in een laser, in een vacuümkamer. Onderzoekers volgden het gereflecteerde laserlicht en zagen daarin de beweging na botsingen met afzonderlijke gasdeeltjes. Het bolletje is ongeveer 10 miljoen keer zwaarder dan zo'n deeltje.\n\nHet ging om krachten van ongeveer een miljardste newton, een tienbiljoenste seconde lang. Het team gebruikte krypton, xenon en zwavelhexafluoride. Later kan dit helpen zeer lage drukken te meten, bijvoorbeeld in de ruimte, en gassen van elkaar te onderscheiden.",
+      "kern": "Door één zwevend bolletje te volgen, wordt elke afzonderlijke gasbotsing meetbaar.",
+      "bron": {
+        "titel": "A nanoparticle revealed the tiny impact of a single gas atom",
+        "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Optical tweezers",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Silica_Nanosphere_in_Optical_Tweezer.jpg/1280px-Silica_Nanosphere_in_Optical_Tweezer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Bjschellenberg · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Silica_Nanosphere_in_Optical_Tweezer.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-11",
+      "pijler": "denken",
+      "tags": [
+        "wederkerigheid",
+        "denkmodellen",
+        "samenwerking"
+      ],
+      "titel": "Wederkerigheid: wie handelt, krijgt iets terug",
+      "tekst": "Wanneer je op iets inwerkt, werkt het terug op jou. Farnam Street haalt Newtons derde wet erbij en herschrijft de Gouden Regel: doe anderen iets in het besef dat jou ook iets wordt gedaan. Wederkerigheid is direct (ik help jou, jij helpt mij) of indirect, als doorgeven of reputatie. En gebruik niet meer kracht dan nodig: de verdediger die tackelt, voelt de klap zelf ook.\n\nHet oudste voorbeeld is het Eeuwige Verdrag, rond 1250 v.Chr. gesloten door Ramesses van Egypte en Hattusili van Hatti, ongeveer vijftien jaar na een grote veldslag.",
+      "kern": "Elke handeling werkt terug op jou, dus gebruik niet meer kracht dan nodig.",
+      "bron": {
+        "titel": "Reciprocity: Getting What You Give",
+        "url": "https://fs.blog/reciprocity/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Egyptian–Hittite peace treaty",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg/1280px-Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Olaf Tausch · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "spanje",
+        "arbeid",
+        "democratie"
+      ],
+      "titel": "Vijftig jaar algemene stakingen in Spanje",
+      "tekst": "Voor 11 november 2026 was in Spanje een algemene staking opgeroepen die niet tegen een arbeidshervorming gericht was, maar tegen de woningcrisis. Dat is nieuw, schrijft de auteur. De oproep kwam van de nationale confederatie van huurdersbonden, met steun van de vakbonden CCOO en UGT.\n\nEerdere algemene stakingen vormden de democratie na Franco, die in 1975 overleed. Op 14 december 1988 trok de regering-González na een staking het Jeugdwerkgelegenheidsplan in. Daarna volgden stakingen in januari 1994, juni 2002 en september 2010, en in 2012 op 29 maart en 14 november.",
+      "kern": "Algemene stakingen hebben de Spaanse democratie na Franco mede gevormd, en nu gaat het om wonen.",
+      "bron": {
+        "titel": "Spain general strike: how 50 years of industrial action shaped Spain's post-Franco democracy",
+        "url": "https://theconversation.com/spain-general-strike-how-50-years-of-industrial-action-shaped-spains-post-franco-democracy-296306",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Madrid protest housing",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Madrid_-_Demonstration_-_Housing_Is_costing_us_our_lives_-_260524_124705.jpg/1280px-Madrid_-_Demonstration_-_Housing_Is_costing_us_our_lives_-_260524_124705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Barcex · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Demonstration_-_Housing_Is_costing_us_our_lives_-_260524_124705.jpg"
+      }
+    },
+    {
+      "id": "2026-11-15-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "oorsprong-van-leven",
+        "biologie",
+        "scheikunde"
+      ],
+      "titel": "Geen eerste molecuul, maar een continuüm van chemie naar leven",
+      "tekst": "Het onderzoek naar de oorsprong van het leven zoekt steeds minder naar één 'eerste molecuul' en meer naar netwerken van veel moleculen. Leven is volgens het artikel geen aan-uitschakelaar maar een continuüm. Chemische systemen ontwikkelen opslag van informatie, replicatie, metabolisme en compartimentering, en gaan daarna evolueren.\n\nOnderzoekers werken bottom-up met prebiotische chemie, top-down met de genomen van de laatste gemeenschappelijke voorouder (LUCA) en met synthetische biologie. In de zomer van 2026 verscheen een preprint over een synthetische cel met 36 enzymen.",
+      "kern": "Leven begon waarschijnlijk niet bij één molecuul maar als geleidelijke overgang in een netwerk van chemie.",
+      "bron": {
+        "titel": "The Evolving Story of How Chemistry Became Biology",
+        "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Miller–Urey experiment",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Miller-Urey_experiment-en.svg/1280px-Miller-Urey_experiment-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "GYassineMrabetTalk✉ · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Miller-Urey_experiment-en.svg"
+      }
+    },
+    {
+      "id": "2026-11-15-14",
+      "pijler": "denken",
+      "tags": [
+        "overtuigen",
+        "complotdenken",
+        "communicatie"
+      ],
+      "titel": "Overtuigen zonder de les te lezen",
+      "tekst": "Hoe praat je met een broer die in complotten gelooft? Taalwetenschapper Philipp Schmid (Radboud Universiteit) raadt drie stappen aan, gebaseerd op het project Jitsu Vax. Eerst open vragen stellen om de wortels van een overtuiging te vinden; bij vaccinatie vond hij er elf. Dan een kern van waarheid erkennen, zoals de nazi-experimenten (1933-1945) en de Tuskegee-studie (1932-1972), die wantrouwen tegen de overheid verklaren. Pas daarna voorzichtig weerleggen, zonder te doceren: wie het gevoel krijgt de les gelezen te worden, haakt meteen af.",
+      "kern": "Overtuigen begint met vragen en erkenning, niet met tegenargumenten.",
+      "bron": {
+        "titel": "Zet de deur naar twijfel open",
+        "url": "https://nemokennislink.nl/publicaties/zet-de-deur-naar-twijfel-open/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://images.nemokennislink.nl/uploads/HWJD-Samenbezweren-3.jpeg?auto=format&crop=focalpoint&domain=images.nemokennislink.nl&fit=crop&fp-x=0.4782&fp-y=0.6607&h=853&ixlib=php-3.3.1&q=82&w=1280",
+        "soort": "bron",
+        "credit": "Afbeelding: nemokennislink.nl",
+        "pagina": "https://nemokennislink.nl/publicaties/zet-de-deur-naar-twijfel-open/"
+      }
+    },
+    {
+      "id": "2026-11-15-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "onderwijs",
+        "migratie",
+        "verbeelding"
+      ],
+      "titel": "Waar leren verboden is, ontstaan schaduwklassen",
+      "tekst": "Slavenhouder Hugh Auld verbood Frederick Douglass te lezen, want anders, zei hij, 'there would be no keeping him'. Lezen werd bevrijding. Volgens auteur Shahram Khosravi, die op zijn 19e in 1986 werd opgepakt bij een illegale grensoversteek tussen Iran en Pakistan, bloeit zulke 'fugitieve' kennis overal waar mensen worden opgesloten of buitengesloten.\n\nSinds maart 2022 verbiedt de Taliban meisjes middelbaar en hoger onderwijs; in Kabul ontstonden klassen in huiskamers en kelders. In het kamp Moria op Lesbos maakten bewoners leerruimtes en kunst.",
+      "kern": "Onderdrukking houdt kennis niet tegen: ze verplaatst haar naar huiskamers, kelders en cellen.",
+      "bron": {
+        "titel": "Those forced to cross borders are imagining a radical new world",
+        "url": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Frederick Douglass",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/1280px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "George Kendall Warren · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879)_(cropped).jpg"
+      }
+    }
+  ]
+}
