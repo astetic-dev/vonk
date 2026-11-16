@@ -1,0 +1,392 @@
+{
+  "datum": "2026-11-16",
+  "kaarten": [
+    {
+      "id": "2026-11-16-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "zwarte-gaten",
+        "rontgenstraling"
+      ],
+      "titel": "Een ster die elke 113 dagen uitbarst door een onzichtbare metgezel",
+      "tekst": "De ster AT 2016blu, in het sterrenstelsel NGC 4559 zo'n 30 miljoen lichtjaar van de aarde, barst herhaaldelijk uit. Astronomen die hem meer dan 15 jaar volgden met de röntgentelescoop Chandra, vonden waarom: een verborgen begeleider, een zwart gat of een neutronenster, trekt volgens NASA elke 113 dagen materie van de ster weg terwijl ze om elkaar heen draaien.\n\nDat weggetrokken materiaal wordt zo heet dat het helder oplicht in röntgenstraling. Welk van de twee objecten de begeleider is, blijft nog onduidelijk.",
+      "kern": "Een onzichtbare metgezel kan zich verraden door het ritme van de uitbarstingen die hij veroorzaakt.",
+      "bron": {
+        "titel": "Outbursts from a Massive Star",
+        "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "NGC 4559",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/NGC4559_-_SDSS_DR14_%28panorama%29.jpg/1280px-NGC4559_-_SDSS_DR14_%28panorama%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Sloan Digital Sky Survey · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:NGC4559_-_SDSS_DR14_(panorama).jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "verlichting",
+        "duitsland"
+      ],
+      "titel": "De vergeten filosoof die Duitsland zijn filosofische taal gaf",
+      "tekst": "Christian Wolff (1679-1754) schreef leerboeken voor vrijwel elk vak van de filosofie, in het Duits in plaats van Latijn. Zijn logica-leerboek kende 14 edities en 8.000 exemplaren, Kants Kritik der praktischen Vernunft bleef bij 1.000. Toch kreeg hij het etiket 'Leibniziaans-Wolffiaans', alsof hij een leerling was. Wolff ontkende dat zelf, en Leibniz schreef dat Wolff weinig van zijn ideeën kon kennen.\n\nNa Kant verdween hij uit beeld. Volgens Aeon blijft daardoor een groot deel van de Duitse filosofiegeschiedenis onbegrijpelijk.",
+      "kern": "Een etiket kan een denker kleiner maken dan hij was, en dan verdwijnt ook de context van wie na hem kwamen.",
+      "bron": {
+        "titel": "The great, forgotten Wolff",
+        "url": "https://aeon.co/essays/why-we-should-recover-the-philosophy-of-christian-wolff",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Christian Wolff (philosopher)",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Christian-Wolff_Gem%C3%A4lde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Christian-Wolff_Gem%C3%A4lde.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-03",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "geheugen",
+        "psychologie"
+      ],
+      "titel": "Onthoud je onafgemaakte taken echt beter?",
+      "tekst": "Kurt Lewin zag dat een ober onbetaalde bestellingen beter onthield dan betaalde. Zijn leerling Bluma Zeigarnik publiceerde in 1927 experimenten die dat leken te bevestigen: een begonnen taak zet spanning op die de herinnering toegankelijk houdt.\n\nMaar het effect blijkt wankel. Replicaties vonden vaak geen verschil, en een meta-analyse uit 2025 (Ghibellini en Meier) zag geen geheugenvoordeel voor onafgemaakte taken. Wat wel standhoudt is het Ovsiankina-effect: de neiging om een onderbroken taak te hervatten.",
+      "kern": "Een onafgemaakte taak blijft niet per se in je geheugen hangen, maar je wilt hem wel hervatten.",
+      "bron": {
+        "titel": "Zeigarnik effect",
+        "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Bluma Zeigarnik",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bluma_Zeigarnik%2C_April_3%2C_1921.jpg/1280px-Bluma_Zeigarnik%2C_April_3%2C_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Andrey Zeigarnik · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Bluma_Zeigarnik,_April_3,_1921.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "mangroven",
+        "klimaat",
+        "satellieten"
+      ],
+      "titel": "Mangrovebossen groeien weer, ondanks decennia van verlies",
+      "tekst": "Tussen 1984 en 2010 verloor de wereld bijna 3.000 vierkante kilometer mangrove. Daarna keerde het: na 2010 kwam er bijna 2.000 vierkante kilometer bij, blijkt uit Landsat-beelden in een studie in Science.\n\nTwee derde van de groei komt doordat mangroven nieuwe gebieden innemen, onder meer op slikplaten die rivierslib opwierp. Het andere derde is herstel van aangetast bos. In Myanmar, dat tussen de jaren tachtig en 2010 28,6 procent verloor, groeide het areaal sindsdien ongeveer 10 procent.",
+      "kern": "Een trend die onomkeerbaar leek, kan keren, maar alleen zichtbaar voor wie vier decennia aan satellietbeelden naast elkaar legt.",
+      "bron": {
+        "titel": "A Global Rebound for Mangroves",
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Mangrove",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sonneratia_alba_-_Manado_%282%29.JPG/1280px-Sonneratia_alba_-_Manado_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ariefrahman · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sonneratia_alba_-_Manado_(2).JPG"
+      }
+    },
+    {
+      "id": "2026-11-16-05",
+      "pijler": "wetenschap",
+      "tags": [
+        "geschiedenis-van-vervuiling",
+        "ijskernen",
+        "mijnbouw"
+      ],
+      "titel": "Arctisch ijs bewaart een eeuw oude arseenwolk uit Montana",
+      "tekst": "In tien ijskernen uit Canada, Groenland en Rusland vonden onderzoekers arseen dat tot 15 keer hoger lag dan vóór de industriële revolutie. De grootste piek zat in Groenland, wat volgens hen alleen te verklaren is als de uitstoot uit Noord-Amerika kwam.\n\nHet team koppelt de vervuiling aan de Anaconda Copper Mining Company in Montana, naar schatting zo'n 30 ton arseen per dag. Vanaf 1919 kwamen er filters, die de uitstoot met ongeveer 60 procent verminderden. Dat had volgens de auteurs ruim een decennium eerder gekund.",
+      "kern": "Sneeuw vergeet niets: ijskernen archiveren zelfs welke fabriek wanneer te lang wachtte met schoner werken.",
+      "bron": {
+        "titel": "Toxic secrets are hiding in Arctic ice",
+        "url": "https://www.sciencenews.org/article/toxic-secrets-hiding-arctic-ice-harm",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Anaconda Smelter",
+      "beeld": {
+        "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090926_KK_pollution_main.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: sciencenews.org",
+        "pagina": "https://www.sciencenews.org/article/toxic-secrets-hiding-arctic-ice-harm"
+      }
+    },
+    {
+      "id": "2026-11-16-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "scepticisme",
+        "oude-grieken"
+      ],
+      "titel": "Pyrrho: rust vinden door niet te oordelen",
+      "tekst": "De oude sceptici wilden niet gelijk hebben maar rust. Dat doel heet ataraxia: gemoedsrust in wat je gelooft. De weg ernaar loopt via epoché, het opschorten van je oordeel. De scepticus zet schijn en gedachten tegenover elkaar tot argumenten even zwaar wegen (isostheneia).\n\nAenesidemus, eerste eeuw voor Christus, bundelde dat in tien 'wijzen' van argumenteren. De eerste wijst op verschillen tussen diersoorten: wat een mens ziet, zien andere dieren anders.",
+      "kern": "Wie zijn oordeel durft op te schorten, kan rust vinden zonder zeker te hoeven weten.",
+      "bron": {
+        "titel": "Ancient Skepticism",
+        "url": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Pyrrho",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Girolamo Olgiati · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png"
+      }
+    },
+    {
+      "id": "2026-11-16-07",
+      "pijler": "denken",
+      "tags": [
+        "groepsdynamiek",
+        "motivatie",
+        "productiviteit"
+      ],
+      "titel": "Waarom een groep per persoon minder trekt",
+      "tekst": "Rond 1913 liet de Franse landbouwingenieur Maximilien Ringelmann mensen aan een touw trekken, alleen en in groepen. Samen leverde elk individu merkbaar minder kracht dan alleen.\n\nWaarom? Ingham en collega's lieten in 1974 deelnemers trekken naast medewerkers die deden alsof. De echte deelnemer trok toch minder. Dat wijst volgens het artikel op verlies van motivatie, niet op slechte afstemming. Hoe groter de groep, hoe makkelijker het wordt om je eigen inzet niet te laten tellen.",
+      "kern": "Een groter team verliest niet alleen aan overleg: de inzet per persoon zakt, zodra die onzichtbaar wordt.",
+      "bron": {
+        "titel": "Ringelmann effect",
+        "url": "https://en.wikipedia.org/wiki/Ringelmann_effect",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Tug of war",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Queen_Mary%27s_Auxilary_Army_Corps_tug-o-war%2C_3_August_1918_%28cropped%29.jpg/1280px-Queen_Mary%27s_Auxilary_Army_Corps_tug-o-war%2C_3_August_1918_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "National Library NZ on The Commons · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Queen_Mary%27s_Auxilary_Army_Corps_tug-o-war,_3_August_1918_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "romeinse-rijk",
+        "bouwkunde"
+      ],
+      "titel": "Romeins beton repareert zijn eigen scheuren",
+      "tekst": "Romeinse zeeconstructies staan na ruim 2000 jaar nog overeind. Onderzoek uit 2023 wijst op een verrassende verklaring. Kalkbrokken, lang gezien als teken van slecht mengen, blijken de reparatieploeg. Sijpelt water een scheur in, dan reageert het met die brokken. Daarbij komt reactief calcium vrij, waarmee nieuwe calciumcarbonaatkristallen de scheur dichtzetten.\n\nDe brokken zijn broos, waarschijnlijk doordat de Romeinen met ongebluste kalk 'heet' mengden.",
+      "kern": "Een gebrek dat op een bouwfout lijkt, kan juist het ingebouwde herstelmechanisme zijn.",
+      "bron": {
+        "titel": "Roman concrete",
+        "url": "https://en.wikipedia.org/wiki/Roman_concrete",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Pantheon, Rome",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/1280px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NikonZ7II · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "protest",
+        "jaren-zestig",
+        "europa"
+      ],
+      "titel": "Europese protesten lijken op 1968, maar vragen iets anders",
+      "tekst": "In 1968 verzette een welvarende generatie zich tegen paternalisme en een verstikkende cultuur. De protesten van nu draaien om basisvoorzieningen: slechte scholen in Frankrijk, dienstplicht in Duitsland, huisvesting in Spanje. Het zijn eisen dat de staat zijn beloftes nakomt.\n\nOok het kader ontbreekt. Toen voedden marxistische kritiek en verzet tegen de Vietnamoorlog de beweging. Nu wordt elk protest door de eigen cultuurstrijd gelezen. En waar de studenten van 1968 erkenning kregen maar geen macht, zijn die van 2026 in Servië volgens de auteur dichter bij beide gekomen.",
+      "kern": "Dezelfde straatbeelden kunnen heel andere eisen verbergen: vergelijk altijd de grieven, niet alleen de beelden.",
+      "bron": {
+        "titel": "Europe's protest wave looks like 1968, but the demands are fundamentally different",
+        "url": "https://theconversation.com/europes-protest-wave-looks-like-1968-but-the-demands-are-fundamentally-different-296016",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "May 1968 in France",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/11-12.06.68_Mai_68._Nuit_d%27%C3%A9meutes._Manif._Barricades.D%C3%A9g%C3%A2ts_%281968%29_-_53Fi1037.jpg/1280px-11-12.06.68_Mai_68._Nuit_d%27%C3%A9meutes._Manif._Barricades.D%C3%A9g%C3%A2ts_%281968%29_-_53Fi1037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "André Cros · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:11-12.06.68_Mai_68._Nuit_d%27%C3%A9meutes._Manif._Barricades.D%C3%A9g%C3%A2ts_(1968)_-_53Fi1037.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-10",
+      "pijler": "denken",
+      "tags": [
+        "expertise",
+        "besluitvorming",
+        "denkmodellen"
+      ],
+      "titel": "Vijf signalen dat iemand geen echte expert is",
+      "tekst": "Warren Buffett en Charlie Munger wisten het al: volgens Munger is het erg moeilijk om een goede vermogensbeheerder te onderscheiden van iemand die alleen het praatje beheerst. Shane Parrish geeft vijf signalen. Imitators beantwoorden geen diepere vragen en kunnen hun woordgebruik niet aanpassen. Ze raken gefrustreerd als je zegt dat je iets niet begrijpt, en kennen de grenzen van hun kennis niet. Echte experts kunnen je vertellen op hoeveel manieren ze zelf zijn mislukt.",
+      "kern": "Vraag een expert waar zijn kennis ophoudt en hoe hij ernaast zat; een imitator heeft daar geen antwoord op.",
+      "bron": {
+        "titel": "Experts vs. Imitators",
+        "url": "https://fs.blog/experts-vs-imitators/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-16-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "gezondheid",
+        "plastic",
+        "voeding"
+      ],
+      "titel": "Kunnen vezels plastic uit je darm vegen?",
+      "tekst": "Voedingsvezels vormen een netwerk van polymeren dat ingeslikt plastic zou kunnen vangen 'als vliegen in een spinnenweb'. In reageerbuisproeven wikkelen vezels zich om plasticdeeltjes en blijven eraan plakken.\n\nBij muizen trad na een week dagelijks plastic eten darmschade op in de groep met weinig vezels. Het voorbehoud staat in het artikel zelf: de studie is op muizen gedaan en niet gekoppeld aan realistische hoeveelheden vezels.",
+      "kern": "Vezels binden mogelijk plastic in de darm, maar bewezen is dat nog alleen bij muizen.",
+      "bron": {
+        "titel": "A high-fiber diet may clear away plastic in the gut",
+        "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "whole grain bread fiber",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Whole_grain_bread.jpg/1280px-Whole_grain_bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "stu_spivack · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Whole_grain_bread.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-12",
+      "pijler": "denken",
+      "tags": [
+        "speltheorie",
+        "samenwerking",
+        "besluitvorming"
+      ],
+      "titel": "Tit for tat: begin vriendelijk, spiegel daarna",
+      "tekst": "In een eenmalig spel is verraden meestal de beste zet. In herhaalde spellen werkt volgens speltheorie 'tit for tat' het best, de strategie die Anatol Rapoport vastlegde: begin met samenwerken en doe daarna wat de tegenstander de vorige ronde deed.\n\nEen variant met vergeving, af en toe samenwerken na verraad, voorkomt dat twee spelers vastlopen in wederzijds verraad. Het advies van Peter Kaufman: 'go positive and go first'.",
+      "kern": "Begin met samenwerken, beantwoord verraad één keer, en vergeef zodat de wisselwerking niet vastloopt.",
+      "bron": {
+        "titel": "Tit For Tat",
+        "url": "https://fs.blog/tit-for-tat/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-16-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "fenomenologie",
+        "kolonialisme"
+      ],
+      "titel": "Trần Đức Thảo: de filosoof die Husserl uit Leuven smokkelde",
+      "tekst": "In 1944 smokkelde de Vietnamese filosoof Trần Đức Thảo Husserls manuscripten van Leuven naar Parijs. Hij had een beurs gekregen in Frankrijk en was in 1939 toegelaten tot de École Normale Supérieure. Eind 1945 werd hij in Parijs gearresteerd, de dag dat Franse troepen in Saigon landden.\n\nIn 1951 vertrok hij naar Vietnam. Daar werd hij vervolgd en in 1958 gedwongen tot publieke zelfkritiek. Aeon ziet zijn kracht in het weigeren om filosofie, politiek en leven te scheiden, en dat kostte hem ook veel.",
+      "kern": "Wie filosofie, politiek en leven niet wil scheiden, kan scherper denken en toch een hoge prijs betalen.",
+      "bron": {
+        "titel": "The tragedy of Trần Đức Thảo",
+        "url": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-16-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "energie",
+        "klimaat",
+        "co2"
+      ],
+      "titel": "De CO2-uitstoot daalt in 2026, maar niet dankzij groene energie",
+      "tekst": "Volgens Nature Climate Change daalt de wereldwijde CO2-uitstoot uit fossiele brandstoffen in 2026 met 0,4 procent, naar 38,24 gigaton. De oorzaak is niet de energietransitie maar hoge olieprijzen door de verstoorde scheepvaart door de Straat van Hormuz.\n\nZon, wind en elektrische auto's dempen de groei wel: zonder hen was de uitstoot tussen 2019 en 2025 jaarlijks 1,9 procent gestegen in plaats van 0,8. Onderzoeker Glen Peters noemt de transitie nog 'not quite big enough' om de uitstoot te laten dalen.",
+      "kern": "Een daling door een prijsschok is geen trendbreuk; die komt pas als schone energie de groei overtreft.",
+      "bron": {
+        "titel": "Fossil fuel emissions are down in 2026. Green energy isn't the reason",
+        "url": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "oil refinery flare",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Seria_Refinery_flare_stack_in_2025_-_03.jpg/1280px-Seria_Refinery_flare_stack_in_2025_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Seria_Refinery_flare_stack_in_2025_-_03.jpg"
+      }
+    },
+    {
+      "id": "2026-11-16-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "grondwater",
+        "klimaat",
+        "geologie"
+      ],
+      "titel": "Waarom in Turkije de grond ineenzakt",
+      "tekst": "Het Turkse rampenbureau AFAD registreerde 684 zinkgaten in Konya, Karaman en Aksaray, volgens een recente studie ongeveer 20 per jaar. In het Konya-bekken stegen ze van ongeveer 3 per jaar in 2000-2010 naar ruim 20 per jaar na 2020.\n\nHet mechanisme: grondwater lost kalksteen op en maakt holtes. Zakt het waterpeil, dan neemt de waterdruk in poriën en spleten af en kan het dak van zo'n holte instorten. Droogte speelt mee, maar volgens auteur Nima Shokri vergroot ook intensieve grondwaterwinning voor landbouw het risico.",
+      "kern": "Grondwater is een dragende laag onder je voeten, geen onuitputtelijke voorraad.",
+      "bron": {
+        "titel": "Massive sinkholes open up across Turkey as it struggles with drought and climate change",
+        "url": "https://theconversation.com/massive-sinkholes-open-up-across-turkey-as-it-struggles-with-drought-and-climate-change-295123",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "sinkhole Konya Turkey",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Obruk_K%C4%B1z%C3%B6ren_16_09_2003_Riesendoline.jpg/1280px-Obruk_K%C4%B1z%C3%B6ren_16_09_2003_Riesendoline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Volker Höhfeld · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Obruk_K%C4%B1z%C3%B6ren_16_09_2003_Riesendoline.jpg"
+      }
+    }
+  ]
+}
