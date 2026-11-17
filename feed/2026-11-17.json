@@ -1,0 +1,409 @@
+{
+  "datum": "2026-11-17",
+  "kaarten": [
+    {
+      "id": "2026-11-17-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "kosmologie",
+        "donkere-energie",
+        "sterrenkunde"
+      ],
+      "titel": "Verzwakt donkere energie? Twintig jaar meten wijst op scheuren in het standaardmodel",
+      "tekst": "Twintig jaar lang scande de Dark Energy Survey met een camera van 570 megapixel honderden miljoenen sterrenstelsels. Het doel: meten hoe sterk materie door het heelal geklonterd is. Donkere energie duwt materie uit elkaar, zwaartekracht trekt het samen, dus de klontering verraadt hun krachtsverhouding.\n\nGecombineerd met DESI-data en de kosmische achtergrondstraling past het standaardmodel (Lambda-CDM, met constante donkere energie) slecht. Het beeld past beter bij donkere energie die in de loop van de tijd verzwakt. Dat is drie sigma: opvallend, maar nog geen ontdekking.",
+      "kern": "Een constante donkere energie past mogelijk niet bij de data, al is het bewijs nog geen vijf sigma.",
+      "bron": {
+        "titel": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+        "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Dark Energy Survey",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%ADctor_M_Blanco_4-meter_Telescope_with_DECam_%28noirlab2027f%29.jpg/1280px-V%C3%ADctor_M_Blanco_4-meter_Telescope_with_DECam_%28noirlab2027f%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "DOE/FNAL/DECam/R. Hahn/CTIO/NOIRLab/NSF/AURA · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:V%C3%ADctor_M_Blanco_4-meter_Telescope_with_DECam_(noirlab2027f).jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "politiek",
+        "nomaden",
+        "geschiedenis-van-ideeen"
+      ],
+      "titel": "Het paard maakte de staat, niet het graan",
+      "tekst": "Staten ontstonden door landbouw, luidt het standaardverhaal: graan kun je opslaan, belasten en bewaken. Historicus Lhamsuren Munkh-Erdene keert het om. Volgens hem was vervoer de sleutel. Zonder ezels, paarden en boten bleven gemeenschappen klein en autonoom, want ze konden alleen lopen en dragen.\n\nMobiliteit maakte verovering mogelijk, en een krijgsbende die het geweldsmonopolie claimt is volgens hem de kern van een staat. Nomaden bouwden dus eerst staten en veroverden daarna boerengebieden. Het is één betoog van één auteur en omstreden, maar het dwingt tot nadenken over wat een staat eigenlijk is.",
+      "kern": "Wie het ontstaan van de staat zoekt, kijkt misschien beter naar transport en geweld dan naar graan.",
+      "bron": {
+        "titel": "The horse made the state",
+        "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Przewalski's horse",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Przewalskis_horse_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Claudia Feh · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Przewalskis_horse_02.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-03",
+      "pijler": "denken",
+      "tags": [
+        "statistiek",
+        "paradox",
+        "cognitieve-bias"
+      ],
+      "titel": "Simpsons paradox: een verband dat verdwijnt zodra je groepen splitst",
+      "tekst": "Een behandeling lijkt niets te doen: in totaal slaagt 50 procent van de behandelden, en ook 50 procent van de controlegroep. Splits je naar geslacht, dan scoort de behandeling bij mannen beter (8 van de 13 tegen 4 van de 7) en bij vrouwen ook (12 van de 27 tegen 2 van de 5).\n\nDe oorzaak is een derde variabele die ongelijk verdeeld is: de behandelgroep telde veel meer vrouwen, en die herstelden minder vaak. Een totaalpercentage is een gewogen gemiddelde, en de gewichten verschillen per groep.",
+      "kern": "Een totaalcijfer kan het tegendeel zeggen van elk deel; vraag dus welke derde factor de groepen verschillend samenstelt.",
+      "bron": {
+        "titel": "Simpson's Paradox",
+        "url": "https://plato.stanford.edu/entries/paradox-simpson/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Simpson's paradox",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Simpson%27s_paradox_continuous.svg/1280px-Simpson%27s_paradox_continuous.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Schutz · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Simpson%27s_paradox_continuous.svg"
+      }
+    },
+    {
+      "id": "2026-11-17-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "natuurkunde",
+        "materialen"
+      ],
+      "titel": "Oorsmeer is glad én kleverig, en dat houdt mieren buiten",
+      "tekst": "Oorsmeer is eigenlijk niet waxachtig. Het zuigt water op, tot twee keer het eigen gewicht, en het is tegelijk glad en kleverig. Bio-ingenieur David Hu (Georgia Tech) testte 36 monsters van onder meer mensen, varkens en schapen met vuurmieren. De mieren glijden weg en gaan daarna overmatig poetsen.\n\nHu vermoedt dat het smeer vocht aan de mierenpoten onttrekt, waardoor ze minder grip krijgen. Het werkt het best als dunne laag. Als insectenwerend middel is het niet praktisch, maar als natuurlijk ontwerp is het een kleine verrassing.",
+      "kern": "Wat we als vuil zien, kan een verfijnde fysieke verdediging zijn.",
+      "bron": {
+        "titel": "Earwax’s surprisingly slippery but sticky properties deters insects",
+        "url": "https://www.sciencenews.org/article/earwax-slippery-sticky-deters-insects",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "earwax ear canal",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/S1040001.jpg/1280px-S1040001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Fidodog14 · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:S1040001.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-05",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "klimaat",
+        "vulkanen"
+      ],
+      "titel": "Boomringen en Venus dateren de val van Babylon",
+      "tekst": "Wanneer viel Babylon? Een team onder leiding van Charlotte Pearson mat het radiokoolstofgehalte van afzonderlijke boomringen in oud hout uit Turkije, afkomstig uit paleizen met bekende kalenderjaren. De buitenste ring verraadt het jaar waarin de boom werd gekapt.\n\nDaarnaast vergeleken ze Babylonische waarnemingen van een slecht zichtbare Venus, mogelijk door vulkanische nevel, met uitbarstingen in poolijskernen. De sterkste match was de Aniakchak in Alaska, rond 1628-1627 v.Chr. Het resultaat: Babylon viel rond 1587 v.Chr., wat de zogeheten middle-low chronology steunt.",
+      "kern": "Natuurlijke archieven zoals boomringen en ijs kunnen oude teksten van een vaste datum voorzien.",
+      "bron": {
+        "titel": "Ancient tree rings and ice cores help pin down when Babylonia fell",
+        "url": "https://phys.org/news/2026-11-ancient-tree-ice-cores-pin.html",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Babylon ancient ruins",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plan_of_Ruins_of_Babylon_1905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Internet Archive Book Images · No restrictions · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Plan_of_Ruins_of_Babylon_1905.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-06",
+      "pijler": "denken",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "productiviteit",
+        "psychologie"
+      ],
+      "titel": "AI-fouten opsporen kost mentale energie",
+      "tekst": "In een gerandomiseerde trial met ervaren softwareontwikkelaars nam de tijd tot afronding met 19 procent toe, terwijl de ontwikkelaars zelf dachten sneller te zijn. Cognitief ingenieur Karen Feigh legt uit waarom controle van AI-werk zwaar is.\n\nHet is onduidelijk wanneer verificatie klaar is, een gevonden fout start een nieuwe ronde van herstel en hercontrole, en controleren levert vaak alleen op dat er niets mis was. Feigh benadrukt dat dit geen universele verificatiebelasting bewijst. Haar maat: levert de hele mens-AI-keten betrouwbaar werk op tegen lagere totale kosten, niet alleen een snelle eerste versie?",
+      "kern": "Meet productiviteit over de hele keten, inclusief controle, niet alleen aan de snelheid van de eerste versie.",
+      "bron": {
+        "titel": "Catching AI's mistakes is a mental burden—and a drag on productivity",
+        "url": "https://phys.org/news/2026-11-ai-mental-burden-productivity.html",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/person-frustrated-on-c.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: phys.org",
+        "pagina": "https://phys.org/news/2026-11-ai-mental-burden-productivity.html"
+      }
+    },
+    {
+      "id": "2026-11-17-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "vulkanen",
+        "geologie",
+        "aarde"
+      ],
+      "titel": "Kilauea spuwt als een fontein: wat de herhaalde lavafonteinen verraden",
+      "tekst": "Sinds 23 december 2024 spuit Kilauea in golven lavafonteinen uit; tot september 2026 telde Science News er 54, de hoogste 457 meter. Dat soort reeksen kwam sinds 1823 pas drie keer voor. Voor elke fontein zwelt en kantelt de bodem van de caldera, een teken dat magma zich verzamelt.\n\nVanaf ongeveer de veertiende fontein zagen geofysici korte seismische uitbarstingen en laagfrequente geluiden. Ze koppelen die aan ingesloten gassen in magma dat als een zuiger door nauwe kanalen beweegt. Omdat weinig CO2 ontsnapte, lijkt de schuimhypothese minder waarschijnlijk. Het onderzoek is nog voorlopig.",
+      "kern": "Herhaalde uitbarstingen laten zien dat gas dat zich opbouwt en ontsnapt, de motor van een lavafontein kan zijn.",
+      "bron": {
+        "titel": "Kilauea’s display is revealing why volcanoes spew like a fountain show",
+        "url": "https://www.sciencenews.org/article/kilauea-why-volcanoes-spew-fountains",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Kīlauea",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Episode_4_of_Kilauea%27s_December_2024_eruption_2025-01-16.jpg/1280px-Episode_4_of_Kilauea%27s_December_2024_eruption_2025-01-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "USGS/K. Lynn · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Episode_4_of_Kilauea%27s_December_2024_eruption_2025-01-16.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-08",
+      "pijler": "denken",
+      "tags": [
+        "ethiek",
+        "moraal",
+        "filosofie"
+      ],
+      "titel": "Morele mazzel: twee bestuurders, één oordeel?",
+      "tekst": "Twee bestuurders met even slechte remmen rijden hetzelfde. Bij de één rent een kind de weg op, bij de ander niet. Veroordelen we de eerste zwaarder, dan beoordelen we iemand op iets buiten zijn controle.\n\nDat is het probleem van morele mazzel. Het botst met het principe dat we alleen beoordeeld worden voor wat wij beheersen. Thomas Nagel (1979) onderscheidt vier soorten geluk: in de uitkomst, in de omstandigheden, in wie je bent en in de oorzaken die je vormden. Pas je het principe strikt toe, dan blijft er mogelijk niets over waarop iemand beoordeeld kan worden.",
+      "kern": "Strikt toegepast laat het idee van controle weinig over om iemand op te beoordelen.",
+      "bron": {
+        "titel": "Moral Luck",
+        "url": "https://plato.stanford.edu/entries/moral-luck/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Thomas Nagel",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Thomas_Nagel_%28cropped%29.jpg/1280px-Thomas_Nagel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Nagelt · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Thomas_Nagel_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "bevolking",
+        "voorspellingen",
+        "wetenschapsgeschiedenis"
+      ],
+      "titel": "Vrijdag 13 november 2026: de dag dat de wereld zou eindigen",
+      "tekst": "In 1960 verscheen in Science een artikel van Heinz von Foerster, met studenten Patricia Mora en Lawrence Amiot, onder de titel \"Doomsday: Friday, 13 November, A.D. 2026\". Op die dag zou de wereldbevolking oneindig naderen.\n\nHun redenering: mensen werken samen in coalities, dus meer mensen versnellen de groei steeds verder, sneller dan exponentieel. Ze extrapoleerden 24 schattingen over 2.000 jaar. Rond 1993 weken de cijfers af, en het geboortecijfer is inmiddels ongeveer gehalveerd. Het artikel werd toch tot in parlementaire commissies en een Amerikaanse rechtszaak aangehaald.",
+      "kern": "Een gladde extrapolatie van een trend blijft een voorspelling die het eigen mechanisme kan ondermijnen.",
+      "bron": {
+        "titel": "Why scientists predicted ‘Friday 13 November 2026’ would be ‘doomsday’",
+        "url": "https://theconversation.com/why-scientists-predicted-friday-13-november-2026-would-be-doomsday-290354",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Heinz von Foerster",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/HvF_01.jpg/1280px-HvF_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "U of I publicity department · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:HvF_01.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-10",
+      "pijler": "geschiedenis",
+      "tags": [
+        "scheepvaart",
+        "uitvindingen",
+        "meten"
+      ],
+      "titel": "Een klok die zeilers de lengtegraad gaf",
+      "tekst": "Elke 4 seconden tijdsfout kan een schip ruim een zeemijl in oost-westrichting afwijken. Voor lengtegraad moet je de tijd van de thuishaven kennen en die vergelijken met de plaatselijke tijd uit hemelwaarnemingen. Slingerklokken faalden op zee door de scheepsbewegingen en de variaties in de zwaartekracht.\n\nIn 1714 loofde de Britse regering een prijs uit van 10.000 tot 20.000 pond. John Harrison diende in 1761 zijn H4 in, met een snel slingerende balans en een temperatuurgecompenseerde spiraalveer. Mechanische marinechronometers blijven doorgaans binnen een halve seconde per dag.",
+      "kern": "Wie de tijd nauwkeurig draagt, kan zijn plaats op de oceaan bepalen.",
+      "bron": {
+        "titel": "Marine chronometer",
+        "url": "https://en.wikipedia.org/wiki/Marine_chronometer",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Marine chronometer",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Frodsham_chronometer_mechanism.jpg/1280px-Frodsham_chronometer_mechanism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "User:Ktr101 · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Frodsham_chronometer_mechanism.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-11",
+      "pijler": "denken",
+      "tags": [
+        "leiderschap",
+        "werk",
+        "geschiedenis-van-ideeen"
+      ],
+      "titel": "De \"company man\" bepaalt nog steeds hoe een leider eruitziet",
+      "tekst": "Meer vrouwen in leiderschapsposities leverde nog geen gelijkheid op. Claire Wright betoogt dat het leiderschapsmodel zelf nooit veranderde. Het ideaal van de company man uit het midden van de 20e eeuw was gebouwd rond mannenlevens: onafgebroken fulltime werk, lange uren en een vrouw thuis die de toewijding mogelijk maakte.\n\nNa de jaren 1980 verdwenen de loyale company men grotendeels, maar leiders worden nog steeds beloond voor individuele prestaties, controle, lange uren, bereikbaarheid en reizen. Alle leiders worden afgemeten aan een smal bereik van aanvaardbaar gedrag.",
+      "kern": "Wie leiderschap wil veranderen, moet het model herzien en niet alleen de mensen die erin passen.",
+      "bron": {
+        "titel": "The idea of the ‘company man’ was forged decades ago. Its problems still haunt leaders today",
+        "url": "https://theconversation.com/the-idea-of-the-company-man-was-forged-decades-ago-its-problems-still-haunt-leaders-today-288731",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "1950s office businessmen",
+      "beeld": {
+        "url": "https://images.theconversation.com/files/752164/original/file-20260805-50-s5mf3i.jpg?ixlib=rb-4.1.1&rect=0%2C270%2C5558%2C2779&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/the-idea-of-the-company-man-was-forged-decades-ago-its-problems-still-haunt-leaders-today-288731"
+      }
+    },
+    {
+      "id": "2026-11-17-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "voeding",
+        "economie"
+      ],
+      "titel": "Techniek maakte mensen niet altijd groter, maar vaak kleiner",
+      "tekst": "Skeletten vertellen dat vooruitgang niet altijd vooruitgang was. Onderzoekers van de Universiteit van Tübingen schatten de lengte uit het dijbeen van 18.457 skeletten uit 45 landen in Europa en Azië.\n\nIn Zuidoost-Azië waren mannen ongeveer 7.000 jaar geleden gemiddeld 1,78 meter, in de 19e eeuw iets meer dan 1,60 meter. Meer voedselproductie ging vaak samen met bevolkingsgroei en slechtere voeding. Volgens de onderzoekers leidt technologie niet automatisch tot grotere lengte, en lengte zegt iets over levensstandaard.",
+      "kern": "Lichaamslengte is een eerlijke meter voor de levensstandaard van gewone mensen.",
+      "bron": {
+        "titel": "Ancient height trends show technological advances did not always improve living standards",
+        "url": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "ancient skeleton burial",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Skeleton_of_a_sacrificed_horse%2C_Aidonia%2C_AM_of_Nemea%2C_201929.jpg/1280px-Skeleton_of_a_sacrificed_horse%2C_Aidonia%2C_AM_of_Nemea%2C_201929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Zde · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Skeleton_of_a_sacrificed_horse,_Aidonia,_AM_of_Nemea,_201929.jpg"
+      }
+    },
+    {
+      "id": "2026-11-17-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "geologie",
+        "aarde",
+        "ijstijd"
+      ],
+      "titel": "Hoe de Grand Canyon een miljard jaar geschiedenis kwijtraakte",
+      "tekst": "In de rotslagen van de Grand Canyon ontbreekt een flinke tijdspanne: tussen 520 miljoen en 1,8 miljard jaar oud is de gesteenterecord opvallend leeg. Thomas Gernon en collega's denken dat een enorme klif de oorzaak is.\n\nDie klif begon zo'n 800 miljoen jaar geleden te ontstaan toen het supercontinent Rodinia uiteenviel. Hij was 1 tot 2 kilometer hoog en liep van het latere Alaska tot Arizona. Regen en ijs slepen het gesteente weg, mogelijk versterkt door Snowball Earth. Of de erosie voor, tijdens of na die ijstijden kwam, is nog open.",
+      "kern": "Een gat in de rotsen kan verdwenen geschiedenis zijn, niet ontbrekende tijd.",
+      "bron": {
+        "titel": "How the Grand Canyon could have lost 1 billion years of geologic history",
+        "url": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Grand Canyon",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/1280px-Canyon_River_Tree_%28165872763%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Lennart Sikkema · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg"
+      }
+    },
+    {
+      "id": "2026-11-17-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "chemie",
+        "landbouw",
+        "scheikunde"
+      ],
+      "titel": "Een grijs poeder dat de helft van de wereldbevolking voedt",
+      "tekst": "Lucht bestaat voor 78 procent uit stikstof, maar planten kunnen die niet opnemen. De stikstofmoleculen zijn te stabiel. In 1909 slaagde Fritz Haber erin stikstof om te zetten in ammoniak, en Carl Bosch bracht dat naar fabrieksschaal.\n\nHet proces draait onder hoge druk en temperatuur, met een katalysator op ijzerbasis. Die versnelt de reactie zonder zelf op te raken, als een tunnel door een berg. Zonder deze stof, schrijft Sumeia Yassiri, bestaat de helft van de wereldbevolking niet.",
+      "kern": "Een katalysator bouwt een tunnel door de energieberg, en hele bevolkingen hangen eraan.",
+      "bron": {
+        "titel": "Zonder katalysator bestond de helft van ons niet",
+        "url": "https://nemokennislink.nl/publicaties/zonder-katalysator-bestond-de-helft-van-ons-niet/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Haber–Bosch process",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fritz_Haber.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "The Nobel Foundation · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Fritz_Haber.png"
+      }
+    },
+    {
+      "id": "2026-11-17-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "immuunsysteem",
+        "geneeskunde",
+        "gezondheid"
+      ],
+      "titel": "Waarom een beetje viezigheid je immuunsysteem traint",
+      "tekst": "De hygiënehypothese uit de jaren 80 stelt dat het immuunsysteem beter wordt naarmate een kind meer in aanraking komt met indringers van buiten. Door moderne hygiëne, kleinere gezinnen en verstedelijking zou het systeem minder leren en mogelijk overreageren op onschuldige stoffen.\n\nVandaar de \"oude-vriendenhypothese\": onschadelijke microben, vooral vroeg in het leven, leren het lichaam wat gevaarlijk is. Darmbacteriën sturen daarbij signalen naar het immuunsysteem, en vezels, gefermenteerd voedsel en groenten voeden die bacteriën.",
+      "kern": "Contact met onschuldige microben traint het immuunsysteem om gevaarlijk van ongevaarlijk te scheiden.",
+      "bron": {
+        "titel": "Hoe (sommige) viezigheid jou beschermt",
+        "url": "https://nemokennislink.nl/publicaties/hoe-sommige-viezigheid-jou-beschermt/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hygiene hypothesis",
+      "beeld": {
+        "url": "https://images.nemokennislink.nl/uploads/woman-with-natural-mud-mask-muddy-hands-spa-outdoor-happy-dirty-woman-dead-sea.jpg?auto=format&crop=focalpoint&domain=images.nemokennislink.nl&fit=crop&fp-x=0.4652&fp-y=0.4383&h=468&ixlib=php-3.3.1&q=82&w=800",
+        "soort": "bron",
+        "credit": "Afbeelding: nemokennislink.nl",
+        "pagina": "https://nemokennislink.nl/publicaties/hoe-sommige-viezigheid-jou-beschermt/"
+      }
+    }
+  ]
+}
