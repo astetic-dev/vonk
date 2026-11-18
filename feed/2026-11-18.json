@@ -1,0 +1,404 @@
+{
+  "datum": "2026-11-18",
+  "kaarten": [
+    {
+      "id": "2026-11-18-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "hersenen",
+        "psychologie"
+      ],
+      "titel": "AI-gezichten voelen echter dan echte gezichten",
+      "tekst": "Psychologen van de University of Florida lieten meer dan 150 mensen (18 tot 37 en 60 tot 89 jaar) gezichten beoordelen op echtheid, terwijl een fMRI-scanner meekeek. Oudere deelnemers vonden AI-gezichten gemiddeld 1,11 punt echter dan echte gezichten, jongeren 0,25 punt. In de hersenen bleef de anterieure insula, die volgens het artikel onbetrouwbare signalen verwerkt, relatief stil.\n\nEen mogelijke verklaring: AI-gezichten lijken op gemiddelden van veel gezichten. Eigenaardigheden verdwijnen, en wat vertrouwd oogt, voelt betrouwbaar.",
+      "kern": "Een gezicht zonder eigenaardigheden voelt vertrouwd, en dat gevoel bewijst niets over echtheid.",
+      "bron": {
+        "titel": "What Goes on in Our Brains When We See an AI Face",
+        "url": "https://nautil.us/what-goes-on-in-our-brains-when-we-see-an-ai-face-1286763",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-18-02",
+      "pijler": "denken",
+      "tags": [
+        "denkmodellen",
+        "besluitvorming",
+        "natuurkunde"
+      ],
+      "titel": "De hefboom: een kleine kracht op de juiste plek",
+      "tekst": "Al meer dan 2000 jaar wordt de hefboom aan Archimedes toegeschreven: wat in evenwicht is op afstand, verhoudt zich omgekeerd evenredig tot zijn gewicht. Een schaar, een kruiwagen en een deurklink werken zo. Hetzelfde geldt voor mensen. Een docent met 30 leerlingen hoeft er maar 3 populaire te overtuigen, en onderzoek suggereert dat zo'n 10 procent van een groep genoeg is voor een kritische massa.\n\nDe vraag is dus niet hoe hard je duwt, maar waar.",
+      "kern": "Zoek het punt waar een kleine, gerichte actie blijvend veel in beweging zet.",
+      "bron": {
+        "titel": "Leverage: Gaining Disproportionate Strength",
+        "url": "https://fs.blog/leverage/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Archimedes",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/1280px-Domenico-Fetti_Archimedes_1620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Domenico Fetti · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "geneeskunde",
+        "epilepsie",
+        "18e-eeuw"
+      ],
+      "titel": "Een brief uit 1760 over een dochter met \"fitts\"",
+      "tekst": "Op 29 september 1760 schreef Martha Washington dat haar vierjarige dochter \"much better\" was en haar \"fitts & fevours\" kwijt leek. De Library of Congress kocht de brief in juni voor 47.500 dollar. Historici denken dat Patsy epilepsie had. De familie probeerde onder meer een ijzeren ring, aderlatingen, mineraalwater, kwik en kinabast.\n\nIn de zomer van 1770 noteerde George Washington aanvallen op 26 van 86 dagen. Patsy stierf in 1773, op haar zeventiende.",
+      "kern": "Achter beroemde namen zat een gezin dat een ziekte bestreed die niemand begreep.",
+      "bron": {
+        "titel": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+        "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Martha Washington",
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/vHPN1H2fizmi76P1Ivivxnz3qgg=/fit-in/1200x0/filters:focal(3000x2014:3001x2015)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/be/c9be560e-8f7c-46d4-b785-e1f955bc43b3/734314.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/"
+      }
+    },
+    {
+      "id": "2026-11-18-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "ruimtevaart",
+        "sonificatie"
+      ],
+      "titel": "Een nevel die je kunt horen",
+      "tekst": "NASA's Chandra-röntgentelescoop bracht een album van vier sonificaties uit, waarin gegevens over jonge sterren hoorbaar zijn. In de Orionnevel worden sterren fonkelende geluiden en diffuse röntgenstraling zuivere hoge tonen. Bij Rho Ophiuchi worden röntgenstralen glazige hoge tonen, en een gat in het midden staat voor donkere stofwolken die weinig licht uitzenden.",
+      "kern": "Door gegevens aan toonhoogte en klankkleur te koppelen, wordt zelfs een leegte hoorbaar.",
+      "bron": {
+        "titel": "New Album of Baby Star Sounds Shared by NASA's Chandra",
+        "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 1,
+      "verkenning": false,
+      "beeldWiki": "Orion Nebula",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1280px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA, ESA, M. Robberto (Space Telescope Science Institute/E… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-05",
+      "pijler": "denken",
+      "tags": [
+        "productiviteit",
+        "besluitvorming",
+        "economie"
+      ],
+      "titel": "80/20: een vuistregel uit Italiaans landbezit",
+      "tekst": "Vilfredo Pareto liet zien dat ongeveer 80 procent van het land in het Koninkrijk Italië in handen was van 20 procent van de bevolking. In 1941 paste Joseph Juran het idee toe op kwaliteitsbeheer: 80 procent van de problemen komt van 20 procent van de oorzaken. Later sprak hij liever van \"the vital few and the useful many\", zodat de rest niet als waardeloos klinkt.\n\nHet is een vuistregel, geen natuurwet: de echte verdeling kan ook 90:10 of 70:30 zijn.",
+      "kern": "Zoek de paar oorzaken die de meeste uitkomst bepalen, maar behandel de verhouding als schatting.",
+      "bron": {
+        "titel": "Pareto principle",
+        "url": "https://en.wikipedia.org/wiki/Pareto_principle",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Vilfredo Pareto",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Vilfredo_Pareto_1870s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Vilfredo_Pareto_1870s2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-06",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "psychologie",
+        "neurowetenschap"
+      ],
+      "titel": "De man die katten in mensengezichten zag",
+      "tekst": "Karl, 28, ziet sinds een hersenoperatie het gezicht van zijn grijze tabby Luna over de gezichten van mensen heen, vooral de ogen. De operatie verwijderde abnormaal verbonden bloedvaten uit zijn rechter achterste slaapkwab, volgens het artikel het commandocentrum voor het herkennen van identiteit en gezichtsuitdrukkingen. Hij lijkt twee zeldzame aandoeningen te hebben: palinopsie (een beeld blijft hangen) en prosopometamorfopsie (vervormde gezichten). Een mogelijke, onbewezen verklaring: één gezichtsgebied herkent gezichten over soorten heen.",
+      "kern": "Het gezichtsherkenningssysteem van het brein kan op bijzondere manieren ontsporen.",
+      "bron": {
+        "titel": "The Man Who Saw Cats in Human Faces",
+        "url": "https://nautil.us/the-man-who-saw-cats-in-human-faces-1286726",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "gray tabby cat face",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Two_house_cats%2C_grey_tabby_and_all_black.jpg/1280px-Two_house_cats%2C_grey_tabby_and_all_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Emamir93 · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Two_house_cats,_grey_tabby_and_all_black.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-07",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "china",
+        "ethiek"
+      ],
+      "titel": "Confucius: ritueel dat je van binnenuit vormt",
+      "tekst": "\"Ritueel zonder eerbied, of rouw zonder verdriet\": dat verwerpt Confucius (Analecten 3.26). Voor hem was ritueel (li) meer dan correcte vormen. Het vormt de emoties van wie het uitvoert, beteugelt begeerten en maakt zo morele groei mogelijk. Zijn leerprogramma: verhef jezelf met de Oden, vestig jezelf met ritueel, voltooi jezelf met muziek (8.8).\n\nVerrassend: volgens Zhu Weizheng (1986) laten de Analecten vóór de tweede eeuw v.Chr. weinig gebruik zien. De historische Confucius is dus moeilijker te vatten dan zijn reputatie.",
+      "kern": "Gewoontes en vormen kunnen karakter bouwen, mits er echte betrokkenheid achter zit.",
+      "bron": {
+        "titel": "Confucius",
+        "url": "https://plato.stanford.edu/entries/confucius/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Confucius",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Anonymous Chinese painter of the Western Han period · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "informatica",
+        "beveiliging"
+      ],
+      "titel": "Computerwormen met een AI-brein: octopus en slijmzwam",
+      "tekst": "De Mirai-worm van 2016 was slechts een paar kilobytes groot en infecteerde honderdduizenden apparaten via standaardwachtwoorden. Een worm met een AI-model erachter kan zich ter plekke aanpassen. Onderzoekers van de University of Toronto lieten in een virtueel netwerk met printers en beveiligingscamera's een \"octopus\" zien: een kop op een machine met een GPU stuurt tentakels naar kleinere apparaten. Anthropic testte een slijmzwam-variant, verdeeld over 15 smart-tv's. Die is duizenden keren trager, en echte netwerken zijn lastiger dan testomgevingen. Sterke wachtwoorden en updates helpen nog steeds.",
+      "kern": "AI maakt aanvallen aanpasbaar, maar de basisverdediging blijft werken.",
+      "bron": {
+        "titel": "We know how to stop computer worms. But what if AI helps them persist?",
+        "url": "https://www.sciencenews.org/article/ai-computer-worm-cyberattack-octopus",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Octopus",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/1280px-Octopus2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "albert kok · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "kunst",
+        "kunstgeschiedenis",
+        "17e-eeuw"
+      ],
+      "titel": "37 lege lijsten als hoofdattractie",
+      "tekst": "In het Art Gallery of Ontario hangt een tentoonstelling zonder schilderijen: alle 37 lijsten zijn leeg, en dat is de bedoeling. Ze stammen uit de vijftiende tot vroege twintigste eeuw en worden getoond als kunstwerk op zich. In 1671 kreeg lijstenmaker Mary Ashfield een opdracht uit Londen na de Grote Brand van 1666: acht lijsten voor portretten van de rechters die over de schade oordeelden. Bij Salvator Mundi, in 2017 verkocht voor 450,3 miljoen dollar, hoort een lijst die naar schatting 40.000 tot 50.000 dollar waard is.",
+      "kern": "Wat we als bijzaak zien, kan eeuwenlang vakmanschap bevatten.",
+      "bron": {
+        "titel": "Why Are All 37 of the Picture Frames in This Exhibition Empty? The Frames Themselves Are the Stars of the Show",
+        "url": "https://www.smithsonianmag.com/history/why-are-all-37-of-the-picture-frames-in-this-exhibition-empty-the-frames-themselves-are-the-stars-of-the-show-180989860/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Picture frame",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Carved_frame_01_%2827133614537%29.jpg/1280px-Carved_frame_01_%2827133614537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Tim Evanson from Cleveland Heights, Ohio, USA · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Carved_frame_01_(27133614537).jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-10",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "groepsdynamiek",
+        "evolutie"
+      ],
+      "titel": "Het getal van Dunbar: 150 vrienden, of toch niet?",
+      "tekst": "Robin Dunbar vergeleek bij 38 geslachten primaten de hersengrootte met de groepsgrootte en extrapoleerde naar mensen: ongeveer 150, met een betrouwbaarheidsinterval van 100 tot 230 (1992). Het getal werd razend populair, maar de onderbouwing is omstreden. Een herhaling met nieuwere gegevens gaf schattingen van 69-109 en 16-42, met enorm brede marges. Een studie van DeCasien en collega's uit 2017 suggereert dat voeding het patroon beter verklaart dan sociaal leven.",
+      "kern": "150 is de uitkomst van een omstreden berekening, geen harde grens van het brein.",
+      "bron": {
+        "titel": "Dunbar's number",
+        "url": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Robin Dunbar",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Robin_Dunbar_%286293027302%29.jpg/1280px-Robin_Dunbar_%286293027302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Festival della Scienza from Genova · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Robin_Dunbar_(6293027302).jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "asteroiden",
+        "ruimtevaart",
+        "astronomie"
+      ],
+      "titel": "1998 KY26: een asteroïde die zich misdraagt",
+      "tekst": "De asteroïde 1998 KY26 draait in 5,35 minuten om zijn as, is volgens nieuwe waarnemingen met de Very Large Telescope maar 11 meter breed en lurcht op onvoorspelbare wijze loodrecht op zijn baan. Avi Loeb en collega's opperen dat het het verlaten Sovjetruimtetuig Phobos 1 is, in een niet peer-reviewde paper. Ingenieurs van Georgia Tech stellen in Icarus dat het te warm is voor begraven ijs, wat de \"donkere komeet\"-verklaring verzwakt. Hayabusa-2 moet er in juli 2031 aankomen.",
+      "kern": "Een kleine rots die niet volgens het boekje beweegt, dwingt tot nieuwe verklaringen.",
+      "bron": {
+        "titel": "Derelict Soviet Spacecraft? Dark Comet? What the Heck is 1998 KY26?",
+        "url": "https://nautil.us/derelict-soviet-spacecraft-dark-comet-what-the-heck-is-1998-ky26-1286677",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hayabusa2",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hayabusa2_Ion_thruster.jpg/1280px-Hayabusa2_Ion_thruster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "DLR German Aerospace Center · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hayabusa2_Ion_thruster.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "erfgoed",
+        "klimaat",
+        "16e-eeuw"
+      ],
+      "titel": "Een kasteel dat in zee valt: redden of laten gaan?",
+      "tekst": "Hurst Castle, in 1544 gebouwd onder Hendrik VIII aan de Engelse zuidkust, wordt ondermijnd door het water. In 2017 kwamen de funderingen bloot te liggen en op 26 februari 2021 stortte de oostmuur in. Een plan van ruim 6 miljoen pond zou slechts enkele tientallen jaren opleveren en werd afgewezen. Curator Matt Thompson: \"Impermanence is actually quite a beautiful thing.\" English Heritage kiest nu voor documenteren, mondelinge geschiedenissen vastleggen en onveilige delen afzetten.",
+      "kern": "Soms is erfgoed behouden minder eerlijk dan het zorgvuldig laten verdwijnen.",
+      "bron": {
+        "titel": "A 16th-Century Castle in England Is Falling Into the Ocean, Sparking a Debate Over Whether It Should Be Saved or Allowed to Disintegrate With Dignity",
+        "url": "https://www.smithsonianmag.com/history/a-16th-castle-in-england-is-falling-into-the-ocean-sparking-a-debate-over-whether-it-should-be-saved-or-allowed-to-disintegrate-with-dignity-180989879/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hurst Castle",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurst_Castle%2C_near_Milford_on_Sea%2C_Hampshire%2C_England-2Oct2010_trimmmed.jpg/1280px-Hurst_Castle%2C_near_Milford_on_Sea%2C_Hampshire%2C_England-2Oct2010_trimmmed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ian Stannard from Southsea, England · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hurst_Castle,_near_Milford_on_Sea,_Hampshire,_England-2Oct2010_trimmmed.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "geneeskunde",
+        "gezondheid",
+        "biologie"
+      ],
+      "titel": "Het Ozempic-middel dat zieke nieren lijkt te herstellen",
+      "tekst": "Semaglutide, het middel in Ozempic, lijkt beschadigde nieren te kunnen herstellen. In een studie in Nature Medicine nam bij een weefselanalyse van 106 deelnemers de bloedstroom in de nier toe, nam littekenvorming af en werden bloedvaten minder stijf. Albumine in de urine, een teken van lekkende filters, daalde bij semaglutide maar nauwelijks bij placebo. In de filtereenheden gingen genen voor stress en ontsteking uit en herstelgenen aan. Wereldwijd hebben naar schatting 674 miljoen mensen chronische nierziekte.",
+      "kern": "Een middel tegen suikerziekte lijkt ook de bloedvaten van het nierfilter te herstellen.",
+      "bron": {
+        "titel": "Drugs like Ozempic may help reverse chronic kidney disease",
+        "url": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Kidney",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Blausen_0592_KidneyAnatomy_01.png/1280px-Blausen_0592_KidneyAnatomy_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "BruceBlaus. When using this image in external sources it ca… · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Blausen_0592_KidneyAnatomy_01.png"
+      }
+    },
+    {
+      "id": "2026-11-18-14",
+      "pijler": "denken",
+      "tags": [
+        "maatschappij",
+        "iran",
+        "sociologie"
+      ],
+      "titel": "Wie er gewoon uitziet zoals ze wil, verandert een stad",
+      "tekst": "In december 2017 deed Vida Movahed op de Enghelab-straat in Teheran haar witte hoofddoek af en hield die omhoog aan een stok. Ze kreeg een jaar cel, maar andere vrouwen volgden. Volgens auteur Parisa Khoshnami werkt het nu anders: veel vrouwen kleden zich gewoon naar eigen keuze. Omdat zo velen hetzelfde doen, kan de staat het moeilijk stoppen. Ze verwijst naar Asef Bayat: \"the art of presence\" en \"non-movement\". Veel vrouwen noemen hun keuze zelf persoonlijk, niet politiek.",
+      "kern": "Massaal gedrag zonder leider of eis kan moeilijker te stoppen zijn dan een protest.",
+      "bron": {
+        "titel": "It's not political: the young fashionistas of Tehran",
+        "url": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Enghelab Street",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1399090314314512021668694_%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D8%AF%D8%B1_%D8%B3%D9%88%D9%85%DB%8C%D9%86_%D8%B1%D9%88%D8%B2_%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA_%D9%87%D8%A7%DB%8C_%DA%A9%D8%B1%D9%88%D9%86%D8%A7%DB%8C%DB%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Nasser Jafari · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:1399090314314512021668694_%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D8%AF%D8%B1_%D8%B3%D9%88%D9%85%DB%8C%D9%86_%D8%B1%D9%88%D8%B2_%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA_%D9%87%D8%A7%DB%8C_%DA%A9%D8%B1%D9%88%D9%86%D8%A7%DB%8C%DB%8C.jpg"
+      }
+    },
+    {
+      "id": "2026-11-18-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "geneeskunde",
+        "volksgezondheid",
+        "vaccinatie"
+      ],
+      "titel": "De VS verliezen hun mazelenvrije status",
+      "tekst": "Op 17 november verklaarde de Pan-Amerikaanse Gezondheidsorganisatie (PAHO) mazelen \"endemisch\" in de Verenigde Staten: het virus verspreidt zich al langer dan een jaar ononderbroken, dus vervalt de status van mazelenvrij land. Mexico en Bolivia verloren die status ook, Canada al in 2025. Sinds de uitbraak in West-Texas begon (2025) zijn er meer dan 7.000 gevallen. Om uitbraken te voorkomen is minstens 95 procent vaccinatie in de gemeenschap nodig. Bij kleuters was dat in 2025 ongeveer 92 procent, tegen 95 in 2019.",
+      "kern": "Collectieve bescherming verdwijnt langzaam, en pas jaren later zie je het in cijfers.",
+      "bron": {
+        "titel": "The U.S. just lost its measles elimination status. What now?",
+        "url": "https://www.sciencenews.org/article/measles-us-elimination-status-vaccine",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Measles",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/RougeoleDP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "CDC/NIP/Barbara Rice · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:RougeoleDP.jpg"
+      }
+    }
+  ]
+}
