@@ -1,0 +1,409 @@
+{
+  "datum": "2026-11-19",
+  "kaarten": [
+    {
+      "id": "2026-11-19-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "astronomie",
+        "sterren",
+        "evolutie"
+      ],
+      "titel": "Twee sterren smolten samen, en astronomen keken mee",
+      "tekst": "Zeven jaar lang werd een reuzenster in het Andromedastelsel helderder, terwijl haar temperatuur nauwelijks veranderde. Volgens een studie in Nature, met Viraj Karambelkar (Columbia University), zwol ze op tot meer dan twee keer haar oorspronkelijke grootte. De verklaring: een kleinere ster, \"Little Bao\", bewoog door het gas van de reus, \"Big Bao\". Door wrijving spiraalde ze naar binnen en gaf ze energie af, die deels als licht ontsnapte.\n\nIn oktober 2025 volgde een uitbarsting (AT 2025abao). De energie van het snelle gas wijst erop dat Little Bao de kern bereikte: de twee zijn waarschijnlijk samengesmolten.",
+      "kern": "Helderder worden zonder heter te worden wees hier op een ster die een metgezel opslokte.",
+      "bron": {
+        "titel": "Two stars in the Andromeda galaxy merged before astronomers' eyes",
+        "url": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Andromeda Galaxy",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/M31-Andromede-16-09-2023-Hamois.jpg/1280px-M31-Andromede-16-09-2023-Hamois.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Lviatour · CC BY-SA 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:M31-Andromede-16-09-2023-Hamois.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-02",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "geluk",
+        "adaptatie"
+      ],
+      "titel": "Waarom loterijwinnaars niet gelukkiger zijn",
+      "tekst": "Wie de loterij wint, zou zich voorgoed gelukkig moeten voelen. In 1978 vergeleken Brickman, Coates en Janoff-Bulman 22 loterijwinnaars en 29 mensen met een dwarslaesie met een controlegroep. De winnaars meldden ongeveer evenveel geluk als vóór de prijs. De patiënten waren eerst minder gelukkig, maar verwachtten terug te keren naar hun uitgangspunt. Het idee heet de hedonistische trapmolen: verwachtingen groeien mee met wat je krijgt.\n\nEr is ook kritiek: Headey (2008) vond na een handicap of chronische ziekte geen terugkeer naar het oude niveau.",
+      "kern": "Aan nieuwe omstandigheden wen je snel, maar niet bij alles even volledig.",
+      "bron": {
+        "titel": "Hedonic treadmill",
+        "url": "https://en.wikipedia.org/wiki/Hedonic_treadmill",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hedonic treadmill",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Hedonic_treadmill.svg/1280px-Hedonic_treadmill.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Phlsph7 · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Hedonic_treadmill.svg"
+      }
+    },
+    {
+      "id": "2026-11-19-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "tweede-wereldoorlog",
+        "diplomatie",
+        "leiderschap"
+      ],
+      "titel": "Churchills driewekelijkse kerstbezoek aan Roosevelt",
+      "tekst": "Na de Japanse aanval op Pearl Harbor, op 7 december 1941, vreesde Churchill dat de Verenigde Staten zich op de Pacific zouden richten. Hij reisde naar Washington om Roosevelt te overtuigen Duitsland als prioriteit te houden. Het bezoek duurde drie weken, rond kerst.\n\nVolgens auteurs Evan en Oscie Thomas legde het de basis voor de Anglo-Amerikaanse samenwerking en de voorbereiding op de bevrijding van Europa. Churchill en Roosevelt werden er \"partners\", schrijven ze, al nog geen echte vrienden.",
+      "kern": "Een bondgenootschap ontstaat niet vanzelf: het vraagt persoonlijke afstemming over wat voorrang krijgt.",
+      "bron": {
+        "titel": "Winston Churchill Desperately Wanted a Wartime Meeting With FDR. He Got It, and Their Three-Week Christmas Summit Changed the Trajectory of WWII",
+        "url": "https://www.smithsonianmag.com/history/winston-churchill-desperately-wanted-wartime-meeting-FDR-got-their-three-week-christmas-summit-changed-trajectory-war-180989842/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Winston Churchill",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "onbekend · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "zon",
+        "astronomie",
+        "instrumenten"
+      ],
+      "titel": "Hoe vier technieken de zon steeds anders lieten zien",
+      "tekst": "Elke nieuwe techniek liet de zon op een andere manier zien. Begin 17e eeuw maakten telescopen en projectie zonnevlekken zichtbaar en tekenbaar. In de 19e eeuw bleek licht, uiteengerafeld in spectra, een \"barcode\" voor chemische samenstelling: zo vonden Pierre Janssen en Norman Lockyer helium in de zon, genoemd naar Helios, lang voor William Ramsay het op aarde isoleerde.\n\nIn 1930 bouwde Bernard Lyot de coronagraaf, een schijf die zonlicht blokkeert zodat de corona zonder zonsverduistering te bestuderen is. Open vragen blijven: waarom is de corona honderden keren heter dan het oppervlak eronder?",
+      "kern": "Een nieuw instrument toont niet meer van hetzelfde, maar vaak iets heel anders.",
+      "bron": {
+        "titel": "How We See the Beautiful, Violent Sun",
+        "url": "https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Sun",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/1280px-The_Sun_in_white_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Matúš Motlo · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-05",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "organisaties",
+        "denkmodellen"
+      ],
+      "titel": "Een fietsenhok kost meer vergadertijd dan een reactor",
+      "tekst": "Een contract van £10 miljoen voor een reactor: goedgekeurd in twee en een half minuut. Een fietsenhok van £350: 45 minuten discussie, voor een mogelijke besparing van £50. Zo beschreef C. Northcote Parkinson in 1957 de wet van de triviale zaken. Het fietsenhok is iets waar iedereen zich iets bij kan voorstellen (\"Everyone can visualise a bicycle shed\"), de reactor niet. In softwarekringen werd het idee in 1999 als \"bike-shedding\" populair door Poul-Henning Kamp.",
+      "kern": "Vergadertijd gaat vaak naar wat iedereen begrijpt, niet naar wat het zwaarst weegt.",
+      "bron": {
+        "titel": "Law of triviality",
+        "url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "bicycle shed",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/1280px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "W.carter · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oude-grieken",
+        "bibliotheken",
+        "boeken"
+      ],
+      "titel": "De bibliotheek van Alexandrië hield de originelen en gaf kopieën terug",
+      "tekst": "Boeken op binnenkomende schepen gingen naar de bibliotheek van Alexandrië, waar schrijvers ze kopieerden. Volgens de arts Galenus bleven de originelen in de bibliotheek en kregen de eigenaars de kopieën.\n\nRond 240 v.Chr. leende Ptolemaeus III de handschriften van Aeschylus, Sophocles en Euripides van Athene, tegen een onderpand van 15 talenten edel metaal. Hij stuurde dure kopieën op papyrus van hoge kwaliteit terug, hield de originelen en liet Athene de talenten houden.",
+      "kern": "Wie een collectie wil opbouwen, kan regels buigen; verzamelen was hier geen neutraal bedrijf.",
+      "bron": {
+        "titel": "Library of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Library of Alexandria",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ancientlibraryalex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "O. Von Corven · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ancientlibraryalex.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "kunst",
+        "symmetrie"
+      ],
+      "titel": "Hoe Escher, een zelfverklaarde slechte wiskundeleerling, wiskundigen inspireerde",
+      "tekst": "Escher dacht dat hij slecht was in wiskunde, maar belandde naar eigen zeggen \"in the domain of mathematics\". De tegels van het Alhambra in Granada zetten hem aan het werk; via zijn halfbroer Berend kreeg hij een artikel van George Pólya dat alle manieren om een vlak te betegelen in 17 groepen indeelt.\n\nIn 1958 stuurde H.S.M. Coxeter hem een diagram van tessellaties in een gekromde ruimte. Escher noemde het \"quite a shock\", en het leidde tot de Circle Limit-reeks. In 2003 analyseerden Hendrik Lenstra en Bart de Smit de wiskunde achter Print Gallery.",
+      "kern": "Wie systematisch naar patronen kijkt, kan wiskunde ontdekken zonder wiskundige te zijn.",
+      "bron": {
+        "titel": "How M.C. Escher's Art Creates Bizarre Mathematical Worlds",
+        "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "M. C. Escher",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Maurits_Cornelis_Escher.jpg/1280px-Maurits_Cornelis_Escher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Hans Peters for Anefo · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Maurits_Cornelis_Escher.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-08",
+      "pijler": "denken",
+      "tags": [
+        "rijkdom",
+        "ongelijkheid",
+        "cultuur"
+      ],
+      "titel": "Het egalitaire Zweden raakte gewend aan rijkdom",
+      "tekst": "Zweden geldt als egalitair, maar rijk willen worden is er gewoon geworden. Volgens Forbes telt het land meer dan 50 miljardairs: 4,7 per miljoen inwoners, vierde ter wereld (de VS: 2,7). Er is geen vermogens-, erf- of onroerendgoedbelasting meer, en media schrijven over miljardairs als \"entrepreneurs\" en \"philanthropists\".\n\nVolgens de Lundse onderzoekers Håkan Johansson en Axel Vikström gaat de Jantelag nu vooral over de houding tegenover de superrijken, niet over het streven naar rijkdom. Of beleid de normen echt veranderde, is volgens hen lastig te zeggen.",
+      "kern": "Een sociale norm verdwijnt zelden; ze verschuift van het streven naar het oordeel over de uitkomst.",
+      "bron": {
+        "titel": "How ‘egalitarian’ Sweden became more comfortable with wealth",
+        "url": "https://theconversation.com/how-egalitarian-sweden-became-more-comfortable-with-wealth-290583",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Sweden",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jon Harald Søby and others. · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg"
+      }
+    },
+    {
+      "id": "2026-11-19-09",
+      "pijler": "wetenschap",
+      "tags": [
+        "scheikunde",
+        "wetenschapsgeschiedenis",
+        "water"
+      ],
+      "titel": "Polywater: het water dat niemand kon herhalen",
+      "tekst": "In 1961 meldde de Sovjetfysicus Nikolai Fedyakin water dat door nauwe kwartscapillairen was geperst en stroperig werd, met een hoger kookpunt en lager vriespunt. Boris Derjaguin noemde het \"anomalous water\". In 1969 sprak de pers van een \"polywater gap\" met de Sovjet-Unie.\n\nIn 1971 vergeleek Denis Rousseau (Bell Labs) de spectra met zijn eigen zweet: dezelfde eigenschappen. Met grondig gereinigd glaswerk verdwenen ze. In 1973 schreven Derjaguin en Churaev in Nature dat onzuiverheden de oorzaak waren.",
+      "kern": "Een spectaculair resultaat dat niemand met schoon materiaal herhaalt, is meestal een vervuild monster.",
+      "bron": {
+        "titel": "Polywater",
+        "url": "https://en.wikipedia.org/wiki/Polywater",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "water drop",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Water_drop_001.jpg/1280px-Water_drop_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "José Manuel Suárez from Spain · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Water_drop_001.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-10",
+      "pijler": "denken",
+      "tags": [
+        "kunstmatige-intelligentie",
+        "brein",
+        "cognitie"
+      ],
+      "titel": "Zelfde antwoord, ander proces: waarom AI niet denkt zoals wij",
+      "tekst": "Een taalmodel en een mens kunnen hetzelfde antwoord geven via een ander proces. Volgens Didier Camilo Olarte Gonzalez en Pier-Luc de Chantal (UQAM) werkt het brein met \"predictive processing\": het genereert verwachtingen, vergelijkt ze met binnenkomende informatie en past de inschatting aan bij een mismatch. Taalmodellen voorspellen \"the next word or fragment of text\", zonder fysieke ervaring van de wereld. Baby's van enkele maanden hebben al basisverwachtingen over fysieke objecten.",
+      "kern": "Gelijke uitkomsten bewijzen geen gelijk proces; het onderscheid tussen prestatie en proces wordt belangrijker.",
+      "bron": {
+        "titel": "Why AI cannot ‘think’ like humans do",
+        "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://images.theconversation.com/files/769849/original/file-20261103-64-grjouv.jpg?ixlib=rb-4.1.1&rect=0%2C229%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
+      }
+    },
+    {
+      "id": "2026-11-19-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "kwantumcomputers",
+        "natuurkunde",
+        "informatica"
+      ],
+      "titel": "Quantumcomputers: nog geen technologie is de winnaar",
+      "tekst": "Niemand weet nog welke technologie de quantumcomputers van de toekomst aandrijft. Qubits moeten geïsoleerd zijn van verstoringen, maar toch makkelijk te manipuleren. Daarom bestaan drie benaderingen naast elkaar: ionen vastgehouden met elektrische velden, neutrale atomen in optische pincetten (gefocusseerde laserbundels) en supergeleidende kunstmatige qubits van aluminium en niobium.\n\nHet grootste probleem is opschalen: volgens de meest optimistische schattingen zijn minstens tienduizenden qubits nodig, mogelijk miljoenen. Caltech bracht in 2025 een record van 6.100 cesiumatomen individueel onder controle, maar deed daar nog geen grote berekeningen mee.",
+      "kern": "Moeilijk is niet één qubit maken, maar er veel tegelijk isoleren én bedienen.",
+      "bron": {
+        "titel": "Building a Quantum Computer, One Fragile Qubit at a Time",
+        "url": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Quantum computing",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg/1280px-IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Dev Jadiya · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_Computer_Demo_at_ITUWTSA_2024,_Delhi_2.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "farmacologie",
+        "geneeskunde",
+        "opioiden"
+      ],
+      "titel": "Kratom: waarom de afgeleide stoffen veel sterker zijn dan de plant",
+      "tekst": "Kratom is een plant, maar de sterke derivaten zijn een ander verhaal. Mitragynine, het belangrijkste alkaloïde, vormt twee derde van het alkaloïdengehalte en bindt gedeeltelijk aan mu-opioïdereceptoren. Daaruit ontstaat 7-OH, dat tien keer sterker aan die receptoren bindt. Het synthetische MGM-15 is volgens het artikel vier keer krachtiger dan 7-OH.\n\nOok het etiket is geen garantie: van 44 geanalyseerde producten kwam 85 procent er niet mee overeen.",
+      "kern": "Een natuurlijke herkomst zegt niets over de sterkte van een afgeleide stof.",
+      "bron": {
+        "titel": "What to know about kratom and its powerful derivatives",
+        "url": "https://www.sciencenews.org/article/kratom-pain-addictive-potential-danger",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Mitragyna speciosa",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Mitragyna_speciosa111.JPG/1280px-Mitragyna_speciosa111.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Uomo vitruviano · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mitragyna_speciosa111.JPG"
+      }
+    },
+    {
+      "id": "2026-11-19-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "romeinse-rijk",
+        "ecologie"
+      ],
+      "titel": "8.000 kikkerbotten in een Romeinse greppel: de dader was waarschijnlijk een uil",
+      "tekst": "In een Romeinse greppel bij Bar Hill (Cambridgeshire) lagen ruim 8.000 kikkerbotten van minstens 469 dieren. Onderzoekers onder leiding van Vicki Ewens en Paul Clarkson schatten de leeftijd uit armbotten: de meeste kikkers stierven in hun eerste of tweede jaar.\n\nLicht verteerde, vrijwel onbeschadigde botten sloten otters, reigers en ringslangen uit en passen beter bij een middelgrote vogel als de ransuil. Het waterpeil in de Fens daalde en bomen waren gekapt voor vee, waardoor kikkers weinig dekking hadden.",
+      "kern": "Botten in een greppel vertellen ook over landschap en roofdieren, niet alleen over mensen.",
+      "bron": {
+        "titel": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Short-eared owl",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Short_Eared_Owl_on_the_Ground.jpg/1280px-Short_Eared_Owl_on_the_Ground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Sumeet Moghe · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Short_Eared_Owl_on_the_Ground.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "geneeskunde",
+        "nanotechnologie"
+      ],
+      "titel": "Een barrière op een chip moet medicijnen naar de hersenen brengen",
+      "tekst": "De bloed-hersenbarrière is zo goed in haar werk dat medicijnen tegen dementie er moeilijk doorheen komen. Ze is bovendien te dun en kwetsbaar om bij patiënten live te bekijken. Chemisch ingenieur Rebecca Pinals (Stanford University) liet daarom stamcellen, gemaakt uit menselijke huidcellen, op een microchip uitgroeien tot een barrière in een kleine 3D-kamer. Daarmee wil ze nanodeeltjes testen die medicijnen rechtstreeks naar de hersenen kunnen brengen.",
+      "kern": "Wat je niet bij een patiënt kunt bekijken, kun je op een chip nabouwen.",
+      "bron": {
+        "titel": "The brain’s protective barrier also blocks medicine. This engineer wants a way through",
+        "url": "https://www.sciencenews.org/article/brain-protective-barrier-engineer-sn10",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Blood–brain barrier",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Protective_barriers_of_the_brain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Stolp HB, Liddelow SA, Sá-Pereira I, Dziegielewska KM and S… · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Protective_barriers_of_the_brain.jpg"
+      }
+    },
+    {
+      "id": "2026-11-19-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "techniek",
+        "scheepvaart",
+        "vuurtorens"
+      ],
+      "titel": "Een vuurtoren die 260 jaar later nog schijnt, en steeds verder van zee kwam",
+      "tekst": "Na een reeks scheepswrakken vroegen New Yorkse kooplieden in 1761 om een navigatiehulp. De £750 kwam uit een loterij; op 11 juni 1764 brandde het licht op Sandy Hook, de vijfde vuurtoren van de koloniën. Het is nu de oudste nog werkende vuurtoren van de Verenigde Staten.\n\nHet land eromheen groeide: in 1764 stond de toren 500 voet van de punt, in 1864 4.000 voet, nu bijna anderhalve mijl. De muren zijn aan de basis meer dan zes voet dik; het licht reikt nog 19 mijl over zee.",
+      "kern": "Wat vast lijkt, staat zelden stil: de toren bleef staan terwijl de kust verschoof.",
+      "bron": {
+        "titel": "The Country’s Oldest Operating Lighthouse Predates the American Revolution and Still Shines on New York Harbor After More Than 260 Years",
+        "url": "https://www.smithsonianmag.com/history/countrys-oldest-operating-lightouse-predates-american-revolution-still-shines-new-york-harbor-after-260-years-180989832/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Sandy Hook Light",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sandy_Hook_Lighthouse_October_2020_002.jpg/1280px-Sandy_Hook_Lighthouse_October_2020_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "King of Hearts · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sandy_Hook_Lighthouse_October_2020_002.jpg"
+      }
+    }
+  ]
+}
