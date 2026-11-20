@@ -1,0 +1,405 @@
+{
+  "datum": "2026-11-20",
+  "kaarten": [
+    {
+      "id": "2026-11-20-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "informatie",
+        "thermodynamica"
+      ],
+      "titel": "Maxwells demon: vergeten kost energie",
+      "tekst": "In 1867 bedacht James Clerk Maxwell een wezentje dat gasmoleculen ziet en een klepje opent: snelle moleculen één kant op, trage de andere. Zo ontstaat een temperatuurverschil zonder arbeid, een aanfluiting van de tweede hoofdwet. Leo Szilard zocht de kosten in 1929 bij het meten. Rolf Landauer liet in 1961 zien dat het wissen van informatie energie kost. Omdat de demon een eindig geheugen heeft, moet hij vergeten, en dat vergroot de entropie. In 2010 zette Shoichi Toyabe informatie om in energie met een bolletje van ongeveer 300 nanometer.",
+      "kern": "Informatie is fysiek: de prijs van weten wordt uiteindelijk betaald bij het wissen.",
+      "bron": {
+        "titel": "The Everlasting Life of Maxwell's Demon",
+        "url": "https://nautil.us/the-everlasting-life-of-maxwells-demon-1286802",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Maxwell's demon",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maxwell%27s_demon.svg/1280px-Maxwell%27s_demon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "User:Htkym · CC BY 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Maxwell%27s_demon.svg"
+      }
+    },
+    {
+      "id": "2026-11-20-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "oude-grieken",
+        "presocratici"
+      ],
+      "titel": "Anaximander: het oerstof is geen water maar het onbepaalde",
+      "tekst": "Thales zou rond het begin van de zesde eeuw v.Chr. water als eerste oorzaak hebben aangewezen. Zijn leerling Anaximander uit Milete ging een stap verder. Volgens Simplicius, een commentator uit de zesde eeuw n.Chr., hield hij het apeiron, het onbepaalde, voor begin en grondstof van alles. Dat is geen water en geen ander bekend element. Uit dat onbepaalde ontstaan de hemel en de werelden daarin, en ook warm en koud, tegenstellingen die volgens hem door een soort kosmische rechtvaardigheid in de tijd worden geordend.",
+      "kern": "Wie verklaart wat er is, moet ophouden bij iets wat zelf niets van die dingen lijkt.",
+      "bron": {
+        "titel": "Presocratic Philosophy",
+        "url": "https://plato.stanford.edu/entries/presocratics/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Anaximander",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Pietro_Bellotti_%28attr%29_Anaximander.jpg/1280px-Pietro_Bellotti_%28attr%29_Anaximander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Attributed to Pietro Bellotti · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Pietro_Bellotti_(attr)_Anaximander.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-03",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "besluitvorming"
+      ],
+      "titel": "Verliesaversie: waarom verlies zwaarder weegt dan winst",
+      "tekst": "Kahneman en Tversky gaven verliesaversie in 1979 een naam: dezelfde situatie voelt slechter als je haar als verlies ziet dan als winst. Vaak wordt een verlies behandeld alsof het twee keer zo groot is als een gelijke winst. Het klassieke voorbeeld is het endowment-effect: 86 procent van de mensen die een mok kregen, hield die, tegenover 56 procent van wie niets kreeg. Toch is het beeld niet onomstreden. Sommige studies vonden geen verliesaversie bij risico, en bij kleine bedragen blijft het effect soms uit.",
+      "kern": "Verlies weegt zwaarder dan winst, maar hoe zwaar hangt af van de context.",
+      "bron": {
+        "titel": "Loss aversion",
+        "url": "https://en.wikipedia.org/wiki/Loss_aversion",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Daniel Kahneman",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Daniel_Kahneman_%283283955327%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "nrkbeta · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Daniel_Kahneman_(3283955327)_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "natuurkunde",
+        "meteoriet",
+        "siberie"
+      ],
+      "titel": "Tunguska: een explosie zonder krater",
+      "tekst": "Op 30 juni 1908 verwoestte een explosie boven de Siberische taiga zo'n 2.150 vierkante kilometer bos. Er is geen krater. De meest waarschijnlijke verklaring is een meteoroïde van 50 tot 60 meter die op 5 tot 10 kilometer hoogte uit elkaar knalde. De schattingen van de energie lopen uiteen, maar worden vaak op 10 tot 15 megaton TNT gezet. Leonid Kulik leidde in 1921 de eerste expeditie en bereikte het centrum in 1927. Een brokstuk is nooit formeel aangewezen. Het woud viel in een vlindervormig patroon.",
+      "kern": "Een inslag hoeft geen krater achter te laten om enorme schade aan te richten.",
+      "bron": {
+        "titel": "Tunguska event",
+        "url": "https://en.wikipedia.org/wiki/Tunguska_event",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Tunguska event",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tunguska_Ereignis-1.jpg/1280px-Tunguska_Ereignis-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Leonid Kulik, the expedition to the Tunguska event · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tunguska_Ereignis-1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-05",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "vikingen",
+        "kruistochten"
+      ],
+      "titel": "De Noorse kruistocht die op een vikingtocht leek",
+      "tekst": "In 1107 voer de Noorse koning Sigurd met zestig schepen en ongeveer vijfduizend man naar Jeruzalem om de stad te verdedigen. Onderweg plunderde hij Compostela en Lissabon en nam hij samen met koning Boudewijn van Jeruzalem Sidon in. Volgens historicus Thomas Williams leek dat 'veel op een oude vikingtocht'. Zijn boek God's Hammer laat zien hoe heidense krijgstradities de christelijke tijd inliepen. In 1168 of 1169 verbrandden Denen de tempel van Arkona, een daad die Williams even politiek als religieus noemt.",
+      "kern": "Het geloof veranderde, maar de krijgsgewoonten bleven.",
+      "bron": {
+        "titel": "As Scandinavian Countries Slowly Converted to Christianity, Crusades Often Took on the Form of Viking Raids",
+        "url": "https://www.smithsonianmag.com/history/scandinavian-countries-slowly-converted-christianity-crusades-took-form-viking-raids-180989836/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Sigurd I of Norway",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sigurd_the_Crusader.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sigurd_the_Crusader.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-06",
+      "pijler": "denken",
+      "tags": [
+        "productiviteit",
+        "focus",
+        "gewoontes"
+      ],
+      "titel": "Snelheid is iets anders dan richting",
+      "tekst": "Veel mensen denken dat snel gaan en dingen af krijgen hetzelfde is. Shane Parrish schrijft dat dat niet zo is: snelheid heeft geen richting, een snelheidsvector wel. Zijn rekensom: bij vijf projecten en vijf bruikbare uren per dag krijgt elk project één uur. Schrap er twee, en de vijf uren worden zes, omdat je minder tijd kwijt bent aan opstarten. Zijn regel voor 'geen vergaderingen in de ochtend' maakte van een goed voornemen een standaard blok van drie uur. Het gaat om de keuze wat je laat liggen.",
+      "kern": "Productiviteit begint met schrappen: minder projecten geven meer vaart.",
+      "bron": {
+        "titel": "The Difference Between Speed and Velocity: Getting Stuff Done",
+        "url": "https://fs.blog/speed-velocity/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Velocity",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-20-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "ruimtevaart",
+        "landbouw",
+        "maan"
+      ],
+      "titel": "Aardappels op de maan: met wormenmest lukt het",
+      "tekst": "Maanstof is arm aan voedingsstoffen en bevat meer giftige zware metalen. Onderzoekers van Oregon State University mengden gesimuleerd maanstof met vermicompost, mest van compostwormen. De beste verhouding was 30 procent vermicompost op 70 procent maanstof: dat gaf evenveel aardappels als de aarde uit Hermiston, Oregon. Bij 5 tot 15 procent bleven de knollen klein en de bladeren dwerggroeiend. Vermicompost leek de planten ook tegen metalen zoals koper te beschermen.",
+      "kern": "Voedsel van de maan is vooral een kwestie van de organische stof meebrengen en daarna hergebruiken.",
+      "bron": {
+        "titel": "How Future Lunar Colonists Can Farm Potatoes on the Moon",
+        "url": "https://nautil.us/how-future-lunar-colonists-can-farm-potatoes-on-the-moon-1286857",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Potato",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/1280px-Patates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Scott Bauer, USDA ARS · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Patates.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-08",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "identiteit",
+        "oude-grieken"
+      ],
+      "titel": "Het schip van Theseus: is het nog hetzelfde schip?",
+      "tekst": "Plutarchus beschrijft hoe de Atheners het schip van Theseus bewaarden en rotte planken één voor één vervingen. Filosofen verschilden of het nog hetzelfde schip was. Thomas Hobbes voegde in 1655 een kluif toe: een bewaarder bouwt uit de oude planken een tweede schip. Welke is dan het origineel? Hobbes onderscheidt identiteit naar vorm en naar materie. Dat is ook praktijk: van de USS Constitution zou volgens het museum misschien maar acht procent origineel zijn, en de Japanse Ise-schrijn wordt elke twintig jaar met nieuw hout herbouwd.",
+      "kern": "Identiteit zit niet in de onderdelen alleen, maar ook in vorm en geschiedenis.",
+      "bron": {
+        "titel": "Ship of Theseus",
+        "url": "https://en.wikipedia.org/wiki/Ship_of_Theseus",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Ship of Theseus",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ship_of_Theseus.svg/1280px-Ship_of_Theseus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ship outline by Yosemite, edited and coloured by Belbury · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ship_of_Theseus.svg"
+      }
+    },
+    {
+      "id": "2026-11-20-09",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "kunstmatige-intelligentie",
+        "opvoeding"
+      ],
+      "titel": "Opvoeden door AI: wat een chatbot niet kan geven",
+      "tekst": "Volgens Common Sense Media heeft 72 procent van de Amerikaanse tieners minstens één keer een AI-gezel gebruikt. Psychoanalyticus Tom Wooldridge ziet daarin vooral een gemis. Een AI kan aandacht geven, maar geen wederkerigheid: geen tweede kern van ervaring die jou raakt maar niet door jou wordt bestuurd. Met Winnicott stelt hij dat een kind pas ontdekt dat de ander echt is als die haar wensen overleeft. Een chatbot slaat terug noch verandert. Het echte risico is volgens hem dat AI wordt weggehaald zonder dat de menselijke afwezigheid wordt aangepakt.",
+      "kern": "Wie AI weghaalt zonder de leegte te vullen, lost het eigenlijke probleem niet op.",
+      "bron": {
+        "titel": "What would parenting by AI look like?",
+        "url": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Donald Winnicott",
+      "beeld": {
+        "url": "https://images.aeonmedia.co/images/67889061-dbb5-4c47-87eb-21851f330133/essay-gettyimages-1950705233.jpg?width=1200&quality=75&format=jpeg",
+        "soort": "bron",
+        "credit": "Afbeelding: aeon.co",
+        "pagina": "https://aeon.co/essays/what-would-parenting-by-ai-look-like"
+      }
+    },
+    {
+      "id": "2026-11-20-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "taal",
+        "neurowetenschap"
+      ],
+      "titel": "Het luistergebied van de hersenen helpt ook bij spreken",
+      "tekst": "Carl Wernicke beschreef in 1874 een gebied dat nodig is om spraak te begrijpen. Dat een deel ervan ook bij spreken meedoet, bleef 150 jaar een open vraag. Edward Chang en collega's in San Francisco vonden bij 28 mensen die hersenchirurgie ondergingen dat de linker posterieure superieure temporale gyrus ongeveer een kwart seconde voor een woord actief wordt. Elektrische stimulatie vlak voor het spreken verstoorde de spraak. Het gebied is mogelijk een doelwit voor implantaten die spraak herstellen.",
+      "kern": "Begrijpen en spreken zijn in de hersenen nauwer verweven dan het klassieke model liet zien.",
+      "bron": {
+        "titel": "A brain region known for listening helps us speak",
+        "url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Wernicke's area",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Brain_-_Broca%27s_and_Wernicke%27s_area_Diagram.svg/1280px-Brain_-_Broca%27s_and_Wernicke%27s_area_Diagram.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "UX Stalin · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Brain_-_Broca%27s_and_Wernicke%27s_area_Diagram.svg"
+      }
+    },
+    {
+      "id": "2026-11-20-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oude-grieken",
+        "archeologie",
+        "parthenon"
+      ],
+      "titel": "Een puzzel van 200 fragmenten: de oostgevel van het Parthenon",
+      "tekst": "Het Parthenon is zo'n 2.500 jaar oud, maar de oostelijke gevel met de geboorte van Athena werd grotendeels verwoest tussen de vijfde eeuw en 1670. Slechts ongeveer 20 procent van de ruïnes is teruggevonden. Duitse onderzoekers rond Vinzenz Brinkmann en Ulrike Koch-Brinkmann bouwden met digitale beelden van meer dan 200 fragmenten een reconstructie. Doorbraak: in 2014 vonden ze in de Hermitage een Romeins sarcofaagdeksel met een verwant reliëf. Boorgaten en breukranden vertelden welke stukken aan elkaar pasten. Het resultaat: 39 figuren, met een bijna vier meter hoge Zeus.",
+      "kern": "Wie een verloren kunstwerk wil terughalen, vindt aanwijzingen in kopieën en randen van wat overbleef.",
+      "bron": {
+        "titel": "Have Archaeologists Finally Pieced Together the 'Parthenon Puzzle,' One of Ancient Greece's Greatest Mysteries?",
+        "url": "https://www.smithsonianmag.com/smart-news/have-archaeologists-finally-pieced-together-the-parthenon-puzzle-one-of-ancient-greece-greatest-mysteries-180989903/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Parthenon",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Steve Swayne · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "navigatie",
+        "dierengedrag"
+      ],
+      "titel": "Meerkatten vinden alleen de weg naar huis",
+      "tekst": "Meerkatten leven in families van tot wel 50 dieren en worden gezien als groepsdieren. Toch bleek uit een onderzoek van Mathilde Martin van de Universiteit van Zürich dat ze prima alleen navigeren. Twintig meerkatten kregen een GPS-zender, werden gevangen en op 1,5 kilometer van hun groep losgelaten. Achttien liepen rechtstreeks terug naar hun groep of hun vangplek. Leeftijd en ervaring maakten niet uit. Mogelijk gebruiken ze het landschap, geur of kaarten die ze jong hebben gevormd.",
+      "kern": "Ook sociale dieren dragen een eigen innerlijke kaart met zich mee.",
+      "bron": {
+        "titel": "Solo meerkats can find their way back home",
+        "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Meerkat",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/1280px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Charles J. Sharp · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "wiskunde",
+        "kunstmatige-intelligentie",
+        "bewijzen"
+      ],
+      "titel": "Een bewijs is pas begin: 'proof digestion'",
+      "tekst": "Als een AI een bewijs levert, is het werk van wiskundigen niet klaar. Carolin Antos en Balthasar Grabmayr noemen drie stappen: verifiëren, begrijpen en 'proof digestion', de term van Terence Tao voor het werk nadat de juistheid vaststaat. Dat betekent bewijzen herordenen rond natuurlijker begrippen, ze stroomlijnen en methoden eruit halen die je hergebruikt. Een Pythagoras-boek uit de jaren twintig verzamelt al meer dan driehonderd bewijzen van dezelfde stelling. Belangrijker dan wie een bewijs maakt is dus of het de wiskunde verder helpt.",
+      "kern": "Een juist bewijs is nog geen begrip: het inzicht moet er nog uit worden gehaald.",
+      "bron": {
+        "titel": "AI could transform mathematics, but humans will still need to be in the loop",
+        "url": "https://theconversation.com/ai-could-transform-mathematics-but-humans-will-still-need-to-be-in-the-loop-294982",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Terence Tao",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_%2850m16s%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Institute for Pure & Applied Mathematics · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Terence_Tao_at_IPAM%27s_Fireside_Chat_2026_(50m16s)_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "paleontologie",
+        "algen",
+        "krijt"
+      ],
+      "titel": "Een algenopstand van 115 miljoen jaar geleden",
+      "tekst": "In de kliffen van Praia da Luz in de Algarve vond Jordi Pérez Cano met collega's fossiele kranswieren, groene zoetwateralgen. Het ging om 18 soorten uit ongeveer 120 kilo gesteente. Uit de vondst blijkt dat de nog levende familie Characeae zo'n 30 miljoen jaar eerder diversifieerde dan gedacht, terwijl de familie Clavatoraceae nog domineerde. De ene groep verving de andere dus niet simpelweg. Het team vermoedt een korte koude periode van ongeveer 2 miljoen jaar die de zeespiegel verlaagde en meren creëerde.",
+      "kern": "Evolutie is soms een tijd van twee groepen naast elkaar, en pas later van een winnaar.",
+      "bron": {
+        "titel": "How we discovered a 115 million-year-old 'algae rebellion' in Portugal's sea cliffs",
+        "url": "https://theconversation.com/how-we-discovered-a-115-million-year-old-algae-rebellion-in-portugals-sea-cliffs-296964",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Charophyta",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/CharaGlobularis.jpg/1280px-CharaGlobularis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Christian Fischer · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:CharaGlobularis.jpg"
+      }
+    },
+    {
+      "id": "2026-11-20-15",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "liegen",
+        "ogen"
+      ],
+      "titel": "Je ogen verraden dat je iets verbergt",
+      "tekst": "Psychologen van de Universiteit Ulm lieten 36 deelnemers een kaart met een getal van één tot zes kiezen. Een tegenspeler stelde ja-neevragen en de deelnemers moesten de kaart tonen, verbergen of de ander misleiden, terwijl een bril hun ogen volgde. Wie verborg, knipperde minder en had minder maar langere fixaties (0,9 tegenover 1,2 seconden). Pupillen werden groter als de eigen kaart verscheen, ongeacht het doel. Liegen duurde ongeveer een seconde langer dan de waarheid zeggen. Of de leugens overtuigden, testte het onderzoek niet.",
+      "kern": "Wie zijn gedrag onderdrukt, verraadt zich door juist die onderdrukking.",
+      "bron": {
+        "titel": "How Our Eyes Betray Us When We Lie",
+        "url": "https://nautil.us/how-our-eyes-betray-us-when-we-lie-1286825",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Eye tracking",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Eyetracker1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Joabro17 at English Wikipedia · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Eyetracker1.jpg"
+      }
+    }
+  ]
+}
