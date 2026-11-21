@@ -1,0 +1,398 @@
+{
+  "datum": "2026-11-21",
+  "kaarten": [
+    {
+      "id": "2026-11-21-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "klimaat",
+        "el-nino",
+        "oceanen"
+      ],
+      "titel": "Een El Niño die alle records breekt",
+      "tekst": "Op 18 oktober kwam het gebied dat meteorologen voor El Niño volgen voor het eerst boven de 30 °C uit. In september lag het daggemiddelde meer dan 3,03 °C boven het dertigjarig gemiddelde, het hoogste niveau ooit gemeten. De WMO verwacht in januari een piek van 3,7 graden boven normaal.\n\nHet warme Pacifische water gaf het orkaanseizoen daar extra brandstof: 331 eenheden cycloonenergie half oktober, meer dan het record van 318 uit 2018. In de Atlantische Oceaan kwam de eerste storm pas op 8 oktober, het laatste begin in 121 jaar.",
+      "kern": "Warm Pacifisch water herschikt het weer wereldwijd: veel orkanen aan de ene kant, een rustig seizoen aan de andere.",
+      "bron": {
+        "titel": "This year's El Niño is unlike any other on record",
+        "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "El Niño",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/NOAA_Nino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Content published by Rebecca Lindsey and reviewed by Tom Di… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:NOAA_Nino.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-02",
+      "pijler": "denken",
+      "tags": [
+        "organisaties",
+        "besluitvorming",
+        "werk"
+      ],
+      "titel": "Het Peter-principe: promotie tot onbekwaamheid",
+      "tekst": "In 1969 verscheen een boek dat als satire bedoeld was en toch bleef hangen: The Peter Principle van Laurence J. Peter en Raymond Hull. De stelling: in een hiërarchie stijgt elke werknemer tot zijn niveau van onbekwaamheid.\n\nHet mechanisme is simpel. Wie goed is in zijn functie, wordt bevorderd naar een functie met andere eisen. Doet iemand het daar slecht, dan stopt de promotie en blijft diegene zitten. Onderzoek van Benson, Li en Shue (2018) bij 214 Amerikaanse bedrijven liet zien dat verkopers werden bevorderd op eerdere prestaties en dat topverkopers vaak slechte managers werden.",
+      "kern": "Goed zijn in je huidige functie voorspelt niet hoe goed je bent in de volgende.",
+      "bron": {
+        "titel": "Peter principle",
+        "url": "https://en.wikipedia.org/wiki/Peter_principle",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Peter principle",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Cover_of_The_Peter_Principle_by_Pan_Books.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+        "soort": "bron",
+        "credit": "Afbeelding: en.wikipedia.org",
+        "pagina": "https://en.wikipedia.org/wiki/Peter_principle"
+      }
+    },
+    {
+      "id": "2026-11-21-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oude-egypte",
+        "taal",
+        "ontcijfering"
+      ],
+      "titel": "Eén steen, drie schriften, en een raadsel opgelost",
+      "tekst": "In 1799 vond de Franse officier Pierre-François Bouchard bij Rosetta in de Nijldelta een steen met dezelfde tekst in drie schriften: hiërogliefen, demotisch en Grieks. Het was de eerste tweetalige Oud-Egyptische tekst die in moderne tijd werd teruggevonden. Het gaat om een besluit uit 196 v.Chr. namens koning Ptolemaeus V.\n\nIn 1814 herkende Thomas Young fonetische hiërogliefen die de Griekse naam Ptolemaios spellen. In 1822 maakte Jean-François Champollion in Parijs zijn fonetische alfabet van de hiërogliefen bekend.",
+      "kern": "Een tekst in meerdere schriften gaf de doorbraak: hiërogliefen bleken deels klanken te schrijven.",
+      "bron": {
+        "titel": "Rosetta Stone",
+        "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Rosetta Stone",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Hans Hillewaert · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG"
+      }
+    },
+    {
+      "id": "2026-11-21-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "radioastronomie",
+        "witte-dwergen"
+      ],
+      "titel": "Een dode ster die elke 7,9 minuten flitst",
+      "tekst": "Elke 7,9 minuten stuurt een object een radiopuls onze kant op, maar alleen in een venster van ongeveer zes uur, gevolgd door 26 uur stilte. De verklaring: een witte dwerg die rond een zonachtige ster draait, één keer per 32 uur, en alleen zichtbaar is als het systeem goed uitgelijnd staat.\n\nHet object is ongeveer tweederde zo zwaar als de zon, te licht voor een neutronenster. De pulsen komen tot vier seconden te vroeg of te laat aan, wat de baan verraadt. Radiopulsen dringen door de schittering van heldere sterren heen, zodat radiosurveys witte dwergen kunnen vinden die optische en röntgentelescopen missen.",
+      "kern": "Radiogolven kunnen dode sterren verraden die in zichtbaar licht verdwijnen in de schittering van hun buur.",
+      "bron": {
+        "titel": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+        "url": "https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "White dwarf",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "NASA, ESA, H. Bond (STScI), and M. Barstow (University of L… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Sirius_A_and_B_Hubble_photo.editted.PNG"
+      }
+    },
+    {
+      "id": "2026-11-21-05",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "besluitvorming",
+        "psychologie"
+      ],
+      "titel": "Een rad dat op 10 stopt, verlaagt je schatting",
+      "tekst": "Amos Tversky en Daniel Kahneman lieten in 1974 proefpersonen aan een rad draaien dat vooraf op 10 of 65 was ingesteld. Daarna moesten ze schatten welk percentage van de Afrikaanse landen lid is van de Verenigde Naties. Wie 10 zag, gokte gemiddeld 25 procent; wie 65 zag, 45 procent.\n\nDe meest genoemde verklaring heet verankeren en bijstellen: mensen beginnen bij een startgetal en corrigeren te weinig. Over de precieze oorzaak is de literatuur het niet eens.",
+      "kern": "Een willekeurig startgetal trekt je schatting mee, ook als je weet dat het nergens op slaat.",
+      "bron": {
+        "titel": "Anchoring effect",
+        "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Anchoring (cognitive bias)"
+    },
+    {
+      "id": "2026-11-21-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "utilitarisme",
+        "wetenschapsgeschiedenis"
+      ],
+      "titel": "Bentham liet zijn hoofd bewaren, en dat wordt nu gescand",
+      "tekst": "Jeremy Bentham, grondlegger van het utilitarisme, liet zijn lichaam na aan de wetenschap. Hij stierf in juni 1832, op 84-jarige leeftijd; vijf dagen later werd hij ontleed. Zijn vriend en arts Thomas Southwood Smith maakte daarna een 'auto-icoon': het skelet in een van zijn pakken, dat University College London nog bewaart.\n\nCT-scans van het gemummificeerde hoofd tonen dat Bentham meerdere tanden miste en ernstige artrose in de onderkaak had, wat waarschijnlijk veel pijn gaf. De scans dienen nu als referentie om de toestand van het hoofd te volgen.",
+      "kern": "Een filosoof die zijn lichaam inzette voor de wetenschap, levert na bijna twee eeuwen nog gegevens op.",
+      "bron": {
+        "titel": "This Philosopher Was One of the First People to Donate His Body to Science. Nearly 200 Years Later, Researchers Are Still Learning From It",
+        "url": "https://www.smithsonianmag.com/smart-news/he-was-one-of-the-first-people-to-donate-his-body-to-science-nearly-200-years-later-researchers-are-still-learning-from-it-180989901/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Jeremy Bentham",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Jeremy_Bentham_by_Henry_William_Pickersgill.jpg/1280px-Jeremy_Bentham_by_Henry_William_Pickersgill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Henry William Pickersgill · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "neurotechnologie",
+        "spraak"
+      ],
+      "titel": "Hersenimplantaten geven mensen hun stem terug",
+      "tekst": "Casey Harrell kreeg in 2020 de diagnose ALS en in 2023 vier kleine elektrodechips voor spraak. Hij gebruikt het systeem 10 tot 14 uur per dag en heeft volgens een rapport in Nature Medicine van juni 2026 bijna 2 miljoen woorden gecommuniceerd.\n\nHet werkt in drie stappen: elektroden op de spraakmotorschors vangen signalen op als hij probeert te spreken, machine learning koppelt die aan fonemen, en een taalmodel zet ze om in woorden en zinnen. De eerste decodering gebruikte 50 woorden; later werd getest met meer dan 125.000.",
+      "kern": "Gedecodeerde hersensignalen plus een taalmodel kunnen poging tot spreken omzetten in tekst.",
+      "bron": {
+        "titel": "Brain implants are helping people who've lost their voice",
+        "url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "brain implant electrode array",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Stentrode_Device.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Christinecooch · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Stentrode_Device.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-08",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "psychologie",
+        "hersenen"
+      ],
+      "titel": "Psychedelica maken muizen nauwkeuriger kiezers",
+      "tekst": "Muizen kregen een simpele taak: neus in het middelste gat, en dan kiezen tussen twee zijgaten waarvan het ene snel en het andere langzaam flitste. Het snel flitsende gat leverde een suikerbeloning op. Onbehandelde muizen vertoonden een voorkeur voor een bepaalde kant.\n\nMuizen die psilocybine of ketamine kregen, kozen nauwkeuriger, maar deden er langer over. Cocaïne en diazepam gaven dat effect niet. Volgens de onderzoekers van Boston University, in Science Advances, past dit bij het idee dat psychedelica het brein losmaken van vaste gewoonten. Het blijft onderzoek bij muizen.",
+      "kern": "Psychedelica lijken vaste voorkeuren los te weken, tegen de prijs van langzamer beslissen.",
+      "bron": {
+        "titel": "Can Psychedelics Improve Decision-making?",
+        "url": "https://nautil.us/can-psychedelics-improve-decision-making-1286863",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "laboratory mouse",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg/1280px-Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Andrey Chernogorodov · CC BY 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Researcher_holding_a_lab_mouse_-_Crimean_Federal_University_-_ANDY7392.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "determinisme",
+        "vroegmoderne-tijd"
+      ],
+      "titel": "Spinoza: uit de gemeenschap gezet, God en Natuur één",
+      "tekst": "Op 27 juli 1656 zette de Sefardische gemeenschap van Amsterdam Baruch Spinoza in de ban. Die ban is nooit ingetrokken. Spinoza, geboren in 1632 in een vooraanstaande Portugees-Joodse familie, vereenzelvigde God met de Natuur: één oneindige, zichzelf veroorzakende substantie waarbinnen al het andere bestaat.\n\nUit die gedachte volgt een streng determinisme: alles volgt noodzakelijk uit Gods natuur, niets had anders kunnen zijn. Vrijheid bestaat toch: wie zijn driften begrijpt en naar de rede leeft, vindt volgens Spinoza welzijn en gemoedsrust.",
+      "kern": "Voor Spinoza zit vrijheid niet in anders kunnen, maar in begrijpen waarom je doet wat je doet.",
+      "bron": {
+        "titel": "Baruch Spinoza",
+        "url": "https://plato.stanford.edu/entries/spinoza/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Baruch Spinoza",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1280px-Spinoza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "anonymous · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-10",
+      "pijler": "wetenschap",
+      "tags": [
+        "voeding",
+        "chemie",
+        "gezondheid"
+      ],
+      "titel": "Bijna 7.000 moleculen in rauwe knoflook",
+      "tekst": "In rauwe knoflook zijn bijna 7.000 verschillende moleculen gevonden. Zulke tellingen komen uit Foodome, een project van computationeel fysicus Giulia Menichetti (Harvard Medical School). Haar team laat AI wetenschappelijke artikelen doorzoeken op elke chemische stof die ooit aan voedsel is gekoppeld, en markeert stoffen die epidemiologische studies nooit volgden. Ze noemt dat 'nutritional dark matter'.\n\nTot nu toe zijn ongeveer 140.000 moleculen gecatalogiseerd. Volgens Menichetti kunnen ze aan menselijke eiwitten binden en het microbioom beïnvloeden.",
+      "kern": "Eten bestaat uit veel meer stoffen dan op een etiket staan, en van de meeste weten we niet wat ze doen.",
+      "bron": {
+        "titel": "Food contains thousands of overlooked chemicals. This physicist is mapping them",
+        "url": "https://www.sciencenews.org/article/scientist-maps-food-chemicals-sn10",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Garlic",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Allium_sativum_Woodwill_1793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "onbekend · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "ijzertijd",
+        "veenlijken"
+      ],
+      "titel": "Het veenlijk dat eerst een jongen leek",
+      "tekst": "In oktober 2023 vonden veenarbeiders bij Bellaghy in Noord-Ierland menselijke resten in het veen. Eerst werd gedacht aan een man, de 'Bellaghy Boy'. Forensisch onderzoek wees uit dat het ging om een jonge vrouw van 15 tot 22 jaar, ruim 2.000 jaar oud, die met een scherp wapen van achteren onthoofd was. De schedel werd nooit gevonden.\n\nOnderzoekers van negen instellingen gebruikten onder meer micro-CT en 3D-beeldvorming. Het motief is onbekend: conservator Niamh Baker noemt een ijzertijdritueel of een landbouw- of weerprobleem als mogelijkheden. Inwoners noemden haar Áine.",
+      "kern": "Moderne forensische technieken kunnen een 2.000 jaar oude zaak herschrijven, maar niet elk motief achterhalen.",
+      "bron": {
+        "titel": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+        "url": "https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Bog body",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tollundmannen.jpg/1280px-Tollundmannen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Sven Rosborn · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Tollundmannen.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "netwerken",
+        "informatica",
+        "wiskunde"
+      ],
+      "titel": "Wanneer een netwerk elke storing kan overleven",
+      "tekst": "Bij de eerste Arpanet-overdracht in 1969 kwamen alleen de 'L' en 'O' van 'LOGIN' aan, daarna crashte het netwerk. Sindsdien leeft de vraag: bestaan er routeringsregels die pakketjes altijd afleveren, welke verbindingen ook uitvallen? Dat heet perfecte veerkracht.\n\nEen bewijs dat in juni 2026 werd gepresenteerd, rondt het af: vier minimale structuren, 'verboden minoren', verhinderen het. Netwerken zonder die vier kunnen altijd zo'n regel krijgen. Routers mogen daarbij alleen kijken naar de bestemming, de binnenkomende link en welke buurlinks uitgevallen zijn.",
+      "kern": "Of een netwerk perfect veerkrachtig kan zijn, hangt af van vier verboden bouwstenen in zijn structuur.",
+      "bron": {
+        "titel": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+        "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-21-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "folklore",
+        "ierland",
+        "rouw"
+      ],
+      "titel": "Mijn grootmoeder was een zeehond",
+      "tekst": "Ierse volksverhalen over selkies, zeehondenvrouwen die met mensen trouwen, tonen volgens schrijver Jordan Lee Borgman in Aeon geweld, diefstal en verdriet in de band tussen mens en dier. Ze leest ze als model voor omgaan met verlies: liefde en schade bestaan naast elkaar. 'Love is messy and not always good.'\n\nHaar materiaal komt uit de National Folklore Collection met zo'n 3 miljoen pagina's. Gregory Darwin, kenner van Keltische studies, identificeerde bijna 50 families die met selkies werden verbonden.",
+      "kern": "Een oud verhaal kan een manier zijn om verlies en liefde tegelijk vast te houden.",
+      "bron": {
+        "titel": "My grandmother was a seal",
+        "url": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Selkie",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Faroese_stamp_585_the_seal_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Edward Fuglø, Postverk Føroya · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Faroese_stamp_585_the_seal_woman.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "slaap",
+        "neurowetenschap"
+      ],
+      "titel": "Slapen met je ogen open",
+      "tekst": "Je kunt wakker zijn terwijl delen van je brein even slapen. Onderzoekers noemen dat lokale slaap: geen aan-uitknop voor het hele brein, maar een deel dat tijdelijk uitvalt. Zodra je een hersendeel gebruikt, worden de neuronen daar actief. Bij slaaptekort of lange, intensieve inzet moeten die cellen herstellen en valt dat deel even uit.\n\nJe merkt het als een korte hapering van een paar seconden. Het verschijnsel is met EEG zichtbaar gemaakt, en volgens het artikel vallen die momenten samen met korte denkfoutjes.",
+      "kern": "Slaap is niet alles-of-niets: zelfs overdag kunnen delen van je brein even offline gaan.",
+      "bron": {
+        "titel": "Slapen met je ogen open",
+        "url": "https://nemokennislink.nl/publicaties/slapen-met-je-ogen-open/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "EEG electroencephalography",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/EEG_Experiment.jpg/1280px-EEG_Experiment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Flexagoon · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:EEG_Experiment.jpg"
+      }
+    },
+    {
+      "id": "2026-11-21-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "schoonheid",
+        "gedrag"
+      ],
+      "titel": "Ervaren dieren schoonheid?",
+      "tekst": "Is schoonheid alleen een middel om een partner te vinden? Een paper uit 2025, 'On the biological basis of beauty', noemt schoonheid 'its own self-sufficient source of pleasure'.\n\nDe gedachte: hersenen verwerken patronen die in de natuur vaak voorkomen, zoals symmetrie, gemakkelijk, en die vlotte verwerking voelt prettig. Julien Renoult liet in 2015 een algoritme gezichten verwerken; gezichten die efficiënter werden verwerkt, kregen hogere aantrekkelijkheidsscores van 169 mannen. Criticus Innes Cuthill wijst erop dat fysiologische reacties nog geen aantrekking bewijzen.",
+      "kern": "Misschien is schoonheid geen bijproduct van paring, maar een prettig gevoel dat hersenen krijgen van makkelijke patronen.",
+      "bron": {
+        "titel": "What Do Peahens Really Want?",
+        "url": "https://nautil.us/what-do-peahens-really-want-1286840",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Peafowl",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/1280px-Peacock_Plumage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Jatin Sindhu · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Peacock_Plumage.jpg"
+      }
+    }
+  ]
+}
