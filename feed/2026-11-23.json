@@ -1,0 +1,411 @@
+{
+  "datum": "2026-11-23",
+  "kaarten": [
+    {
+      "id": "2026-11-23-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "oceaan",
+        "geologie",
+        "platentektoniek"
+      ],
+      "titel": "Waarom het diepste punt van de oceaan zo diep is",
+      "tekst": "Challenger Deep ligt zo'n 11.000 meter onder zeeniveau. Een team rond Robert Stern denkt dat dat komt door een ongewoon scherpe knik in de Pacifische plaat, die onder de Mariana-plaat duikt. Een steilere knik verklaart waarom vulkanische afzettingen er maar ongeveer honderd kilometer van de trog liggen, terwijl een vulkanische eilandboog elders enkele honderden kilometers verder ligt. Robot Jason vond er bovendien afzettingen die op explosieve uitbarstingen wijzen, op een diepte waar dat onverwacht is. Stern erkent: of die uitbarstingen echt explosief waren, is nog niet te zeggen.",
+      "kern": "Een scherpe knik in een zinkende plaat kan verklaren waarom de zeebodem juist hier zo diep ligt.",
+      "bron": {
+        "titel": "Motion under the ocean explains the depth of the world’s deepest spot",
+        "url": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Challenger Deep",
+      "beeldZoek": "Mariana Trench deep sea",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Marianatrenchmap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "wallace · CC BY 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Marianatrenchmap.png"
+      }
+    },
+    {
+      "id": "2026-11-23-02",
+      "pijler": "denken",
+      "tags": [
+        "maakbaarheid",
+        "sociologie",
+        "kansen"
+      ],
+      "titel": "Succes heb je niet alleen aan jezelf te danken",
+      "tekst": "Kinderen van artsen hebben zeventien keer meer kans om zelf arts te worden dan kinderen van ouders in de horeca. Sociologe Thijs Bol, hoogleraar aan de Universiteit van Amsterdam, wijst in zijn boek De maakbaarheidsmythe op meer toevalligheden: de maand waarin je geboren bent, en de persoon die je op het juiste moment ontmoet. Wie succes als puur persoonlijke keuze ziet, rechtvaardigt minder solidariteit met mensen die minder kansen kregen. En het legt een zware druk op jongeren, die zich volledig verantwoordelijk voelen.",
+      "kern": "Wie succes alleen aan eigen verdienste wijt, onderschat hoeveel toeval en afkomst meespelen.",
+      "bron": {
+        "titel": "Succes heb je niet alleen aan jezelf te danken",
+        "url": "https://nemokennislink.nl/publicaties/succes-heb-je-niet-alleen-aan-jezelf-te-danken/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "lottery balls",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bingo_balls_in_bingo_drum.jpg/1280px-Bingo_balls_in_bingo_drum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "elizaIO · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Bingo_balls_in_bingo_drum.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "romeinse-rijk",
+        "middeleeuwen"
+      ],
+      "titel": "Boethius schreef zijn beroemdste boek in de cel",
+      "tekst": "Boethius was rond 500 een Romeinse aristocraat die Master of Offices werd onder de Ostrogotische koning Theoderik. Hij kwam in conflict met hovelingen, mogelijk omdat hij hun corruptie bekritiseerde, en werd beschuldigd van verraad en magie. In de gevangenis schreef hij de Consolatie van de Filosofie, een gesprek tussen hemzelf en Filosofie als persoon. Hij werd waarschijnlijk in 526 geëxecuteerd. Zijn Latijnse vertalingen van Aristoteles' logica bleven eeuwenlang standaard, en Chaucer behoorde tot de vertalers van de Consolatie.",
+      "kern": "Een filosoof zonder toekomst schreef het boek dat de middeleeuwen leerde denken over troost en lot.",
+      "bron": {
+        "titel": "Anicius Manlius Severinus Boethius",
+        "url": "https://plato.stanford.edu/entries/boethius/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Boethius",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Boethius.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Boethius.jpeg"
+      }
+    },
+    {
+      "id": "2026-11-23-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "voeding",
+        "biotechnologie",
+        "eiwitten"
+      ],
+      "titel": "Hoe smaakt kaas zonder koe?",
+      "tekst": "De smaak en textuur van kaas komen uit caseïnes, de eiwitten uit melk. Het bedrijf Those Vegan Cowboys laat micro-organismen die eiwitten in kweekvaten maken en verkoopt ze aan kaasmakers. Er bestaan vier hoofdgroepen caseïne, en het type verschilt per koe, geit, schaap of buffel. Smaakonderzoeker Markus Stieger van Wageningen waarschuwt dat het eten ook moet kloppen: chips moeten bijvoorbeeld kraken. Zijn vergelijking is plantaardig vleesvervangers, die tien jaar geleden werden bejubeld, maar nu minder verkopen.",
+      "kern": "Duurzaam alternatief eten slaagt pas als het ook echt smaakt en de juiste textuur heeft.",
+      "bron": {
+        "titel": "Hoe smaakt kaas zonder koe?",
+        "url": "https://nemokennislink.nl/publicaties/hoe-smaakt-kaas-zonder-koe/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Cheese",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cheese_platter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "onbekend · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cheese_platter.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-05",
+      "pijler": "denken",
+      "tags": [
+        "epistemologie",
+        "rationaliteit",
+        "besluitvorming"
+      ],
+      "titel": "Wat als het bewijs klopt, maar jij niet?",
+      "tekst": "Aisha vliegt in een kleine, niet-onder-druk-staande machine en rekent uit dat haar brandstof tot Hawaii volstaat, met ongeveer 0,99 zekerheid. Dan hoort ze dat ze op grote hoogte zit, met risico op hypoxie: een toestand die het redeneren verstoort terwijl je je helder voelt. Piloten op die hoogte komen maar in ongeveer de helft van de gevallen tot de juiste conclusie. Haar brandstofgegevens zijn niet veranderd, maar moet ze toch minder zeker worden? Dat is de kernvraag van higher-order evidence.",
+      "kern": "Informatie over de betrouwbaarheid van je eigen redeneren kan rationeel je zekerheid verlagen, ook als de feiten gelijk blijven.",
+      "bron": {
+        "titel": "Higher-Order Evidence",
+        "url": "https://plato.stanford.edu/entries/higher-order-evidence/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "cockpit airplane altitude",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bell_X-1_cockpit_instrument_panel.jpg/1280px-Bell_X-1_cockpit_instrument_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Bell_X-1_cockpit_instrument_panel.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-06",
+      "pijler": "wetenschap",
+      "tags": [
+        "hart",
+        "cardiologie",
+        "slangen"
+      ],
+      "titel": "Een hart dat in één dag 25 procent groeit",
+      "tekst": "Na een grote maaltijd kan het hart van een python in een dag tot 25 procent groeien en daarna weer krimpen. Bij mensen is een groeiend hart meestal geen goed teken. Bij duurtraining of zwangerschap vergroot het hart gezond en krimpt het binnen maanden terug. Bij onbehandelde hoge bloeddruk, hartkleppen of erfelijke ziekten wordt het juist groter én zwakker. Bij takotsubo bolt de linkerkamer door een adrenalinestoot op. Cardioloog Michelle Kittleson zegt dat de Grinch daarom zou zijn omgevallen.",
+      "kern": "Of een hart gezond groeit hangt af van de oorzaak, niet van de grootte.",
+      "bron": {
+        "titel": "A fast-growing heart is good for the Grinch. People are another story",
+        "url": "https://www.sciencenews.org/article/growing-heart-grinch-people-christmas",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Burmese python",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding_female_Python_molurus_bivittatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Tigerpython · CC BY 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Brooding_female_Python_molurus_bivittatus.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-07",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "handel",
+        "hanze"
+      ],
+      "titel": "De Hanze had geen regering, geen kas en geen leger",
+      "tekst": "Het was een van de machtigste handelsnetwerken van middeleeuws Europa, en toch ontbrak een vast bestuursorgaan, schatkist of eigen leger. De Hanze was nooit formeel opgericht en nooit een rechtspersoon. Steden vergaderden onregelmatig in Lübeck, besloten op basis van consensus, en een besluit bond een stad alleen als haar afgevaardigden waren erbij geweest. Handelsposten zoals de Steelyard in Londen en Bergen werkten als eigen bedrijven met eigen rechtbank en zegel. Op haar hoogtepunt telde het netwerk bijna 200 plaatsen.",
+      "kern": "Gedeeld belang en vertrouwen kunnen een netwerk eeuwenlang overeind houden zonder centrale macht.",
+      "bron": {
+        "titel": "Hanseatic League",
+        "url": "https://en.wikipedia.org/wiki/Hanseatic_League",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Hanseatic League",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg/1280px-Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Droysen/Andrée · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "vaccins",
+        "virussen",
+        "geneeskunde"
+      ],
+      "titel": "Elke griepprik begint met één bevrucht kippenei",
+      "tekst": "Het klassieke griepvaccin wordt gekweekt in bevruchte kippeneieren, waar het virus zich in levende cellen vermenigvuldigt. Na een paar dagen in een broedmachine wordt de vloeistof eruit gehaald, gezuiverd en verhit, zodat het vaccin langer houdbaar is. Wat overblijft zijn de buitenste eiwitten van het virus, waar het afweersysteem antistoffen tegen maakt. Elk ei levert één prik op. Ed Schmidt van het LUMC: door de verhitting gaat de werkzaamheid achteruit. Volgens het CDC lag de effectiviteit de afgelopen tien jaar tussen 20 en 60 procent.",
+      "kern": "De vertrouwde kweekmethode is betrouwbaar en traag, maar kost werkzaamheid.",
+      "bron": {
+        "titel": "Waarom moet de griepprik ieder jaar opnieuw?",
+        "url": "https://nemokennislink.nl/publicaties/waarom-moet-de-griepprik-ieder-jaar-opnieuw/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Influenza vaccine",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Defense.gov_News_Photo_041028-N-9864S-021.jpg/1280px-Defense.gov_News_Photo_041028-N-9864S-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Airman Joseph R Schmitt, U.S. Navy · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_041028-N-9864S-021.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-09",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "psychologie",
+        "sociale-psychologie"
+      ],
+      "titel": "Een muntworp bepaalde de mening, maar niemand geloofde dat",
+      "tekst": "In 1967 lieten Edward Jones en Victor Harris proefpersonen essays lezen voor of tegen Fidel Castro. Als de schrijvers vrij kozen, werd dat een goede aanwijzing voor hun mening. Maar ook toen een muntworp de positie bepaalde, vonden proefpersonen de pro-Castro-schrijvers gemiddeld positiever over Castro. Ze zagen de situatie niet. Lee Ross gaf dit patroon in 1977 de naam fundamentele attributiefout: we overschatten persoonlijkheid en onderschatten omstandigheden bij het gedrag van anderen.",
+      "kern": "Wie gedrag verklaart, vergeet de omstandigheden en schuift te snel op karakter.",
+      "bron": {
+        "titel": "Fundamental attribution error",
+        "url": "https://en.wikipedia.org/wiki/Fundamental_attribution_error",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Fidel Castro",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fidel_Castro_Montreal_1959_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author. (The photographer was possibly Paul-Henri T… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_Montreal_1959_1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-10",
+      "pijler": "geschiedenis",
+      "tags": [
+        "wiskunde",
+        "middeleeuwen",
+        "islamitische-gouden-eeuw"
+      ],
+      "titel": "Het woord algoritme komt van een geleerde uit Bagdad",
+      "tekst": "Rond 820 werkte Muḥammad ibn Mūsā al-Khwārizmī in Bagdad, in het Huis van Wijsheid, als astronoom en hoofd van de bibliotheek. Op verzoek van kalief al-Ma'mun schreef hij een handboek over rekenen door aanvullen en balanceren. Het woord al-jabr in die titel werd 'algebra': een vergelijking herstellen door aan beide kanten hetzelfde toe te voegen. Zijn Latijnse naam, Algoritmi, werd 'algoritme'. Rond 825 schreef hij ook over het rekenen met Indiase cijfers, wat hielp om ons cijfersysteem te verspreiden.",
+      "kern": "Twee grondwoorden van de moderne wiskunde en informatica komen uit één Bagdadse werkkamer.",
+      "bron": {
+        "titel": "Al-Khwarizmi",
+        "url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Muhammad ibn Musa al-Khwarizmi",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Zarateman · CC0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Ciudad_Universitaria,_Monumento_a_Muhammad_al-Juarismi_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "gezondheid",
+        "virussen",
+        "afweer"
+      ],
+      "titel": "Word je verkouden als je het koud hebt?",
+      "tekst": "Je wordt ziek van het virus, niet van de kou. Toch heeft de volksmond een kern van waarheid, zegt huisarts-hoogleraar Dirk Devroey (VUB): hoe kouder de lucht, hoe lager de afweer in je neusslijmvlies. Daarnaast zitten mensen in herfst en winter dichter op elkaar binnen, en dat helpt virussen zich te verspreiden. Volwassenen krijgen twee tot vijf keer per jaar een verkoudheid. Vitamine C haalt volgens een Cochrane-review uit 2013 het risico bij marathonlopers en soldaten in de kou met de helft omlaag, maar niet bij gewone mensen.",
+      "kern": "Kou zet de deur open, maar het virus komt zelf binnen.",
+      "bron": {
+        "titel": "Word je verkouden als je het koud hebt?",
+        "url": "https://nemokennislink.nl/publicaties/word-je-verkouden-als-je-het-koud-hebt/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "common cold sneezing",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Woman_sneezing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "AnA oMeLeTe from Faro, Portugal · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Woman_sneezing.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "materialen",
+        "duurzaamheid",
+        "plastic"
+      ],
+      "titel": "Bioplastic: duurzaam, als je het slim maakt",
+      "tekst": "Drie bioplastics zijn goed voor 95 procent van de markt: PEF, PLA en PHB. PEF, uit plantaardige suikers, heeft volgens de auteur een 30 tot 35 procent lagere koolstofvoetafdruk dan gewoon plastic. PLA scoort 40 tot 60 procent beter dan PET en composteert voor ruim 90 procent in minder dan 180 dagen. PHB kan door bacteriën uit afvalwater worden gemaakt, waardoor een waterzuivering een bioraffinaderij wordt. Gumersindo Feijoo Costa ziet 'super-recycling' van bijproducten als route naar echte duurzaamheid.",
+      "kern": "Bioplastic is pas echt duurzaam als ook de grondstoffen en bijproducten slim worden gebruikt.",
+      "bron": {
+        "titel": "How sustainable are bioplastics, really?",
+        "url": "https://theconversation.com/how-sustainable-are-bioplastics-really-296226",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "bioplastic",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/BiodegradablePlasticUtensils1.jpg/1280px-BiodegradablePlasticUtensils1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Scott Bauer · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BiodegradablePlasticUtensils1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-13",
+      "pijler": "geschiedenis",
+      "tags": [
+        "klimaat",
+        "literatuur",
+        "zeespiegel"
+      ],
+      "titel": "Boeken als atlas van verdwenen plekken",
+      "tekst": "Sinds 1993 is de zeespiegel wereldwijd ongeveer tien centimeter gestegen. Daardoor veranderen oude boeken zonder dat er een letter bij komt. Rachel Carson liet in The Sea Around Us (1951) zien dat de grens tussen land en zee nooit vast lag. Joseph Conrad schreef in 1912 over zandbanken in de Javazee die nu mogelijk onder water liggen. Bij Theodor Storm lees je het vertrouwen in zijn dijken anders als je weet dat de kust verandert. César Pablo Domínguez Prieto: niet de teksten veranderen, maar wij als lezers.",
+      "kern": "Een bibliotheek bewaart ook de landschappen die er straks niet meer zijn.",
+      "bron": {
+        "titel": "An atlas of vanished places: how climate change is rewriting the books on our shelves",
+        "url": "https://theconversation.com/an-atlas-of-vanished-places-how-climate-change-is-rewriting-the-books-on-our-shelves-296224",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Thwaites Glacier",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Thwaites_Glacier.jpg/1280px-Thwaites_Glacier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Thwaites_Glacier.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "antropologie",
+        "planten",
+        "psychedelica"
+      ],
+      "titel": "Jurema: de kracht zit niet alleen in de DMT",
+      "tekst": "De Braziliaanse jurema-plant (Mimosa tenuiflora) bevat DMT, maar dat werkt niet zomaar: het lichaam breekt de stof af tenzij de brouwsel ook enzymremmers bevat. Antropoloog Aníbal Arregui, die in 2024 Natal bezocht, merkt op dat de meeste brouwsels in huidige rituelen niet zo zijn bereid dat DMT de hersenen bereikt. Zijn conclusie: de belangrijkste kracht van jurema is 'niet moleculair, maar relationeel'. De plant verbindt mensen, voorouders en gemeenschap in een gedeeld ritueel.",
+      "kern": "Bij een heilige plant telt niet alleen wat de stof doet, maar vooral wat mensen er samen mee doen.",
+      "bron": {
+        "titel": "Beyond DMT: why the true power of Brazil's sacred jurema plant is social, not just psychedelic",
+        "url": "https://theconversation.com/beyond-dmt-why-the-true-power-of-brazils-sacred-jurema-plant-is-social-not-just-psychedelic-293996",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Mimosa tenuiflora",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mimosa_-tenuiflora-Jurema.jpg/1280px-Mimosa_-tenuiflora-Jurema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Drewpiter · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Mimosa_-tenuiflora-Jurema.jpg"
+      }
+    },
+    {
+      "id": "2026-11-23-15",
+      "pijler": "denken",
+      "tags": [
+        "wiskunde",
+        "wetenschapsfilosofie",
+        "meetkunde"
+      ],
+      "titel": "Poincaré: is de ruimte Euclidisch of afspraak?",
+      "tekst": "Henri Poincaré hield vol dat de meetkunde van de ruimte 'noch a priori noch empirisch, maar conventioneel' is. Omdat er meerdere consistente niet-Euclidische meetkundes bestaan, staat de meetkunde niet vooraf vast. Omdat we lichamen en hun onderlinge verhoudingen ervaren en niet de ruimte zelf, kan experiment haar ook niet bepalen. We kiezen Euclides vooral om zijn eenvoud en gemak. Uitspraken over ruimte lijken daarom meer op definities dan op feiten, zoals in zijn La Science et l'hypothèse uit 1902.",
+      "kern": "Wat we over de ruimte zeggen, is deels een verstandige afspraak en geen kale vaststelling.",
+      "bron": {
+        "titel": "Henri Poincaré",
+        "url": "https://plato.stanford.edu/entries/poincare/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Henri Poincaré",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/1280px-PSM_V82_D416_Henri_Poincare.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:PSM_V82_D416_Henri_Poincare.png"
+      }
+    }
+  ]
+}
