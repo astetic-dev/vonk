@@ -1,0 +1,391 @@
+{
+  "datum": "2026-11-24",
+  "kaarten": [
+    {
+      "id": "2026-11-24-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "allergie",
+        "immuunsysteem",
+        "geneeskunde"
+      ],
+      "titel": "Een tekenbeet kan je rode vlees afnemen",
+      "tekst": "Alpha-gal-syndroom is een allergie voor rood vlees die vaak na een tekenbeet begint. Het immuunsysteem reageert op alpha-gal, een suikermolecuul dat de meeste zoogdieren maken en mensen niet. Een beet lijkt het systeem te \"primen\": het maakt dan IgE-antilichamen tegen dat suiker.\n\nOnderzoeker Commins vermoedt dat blootstelling via de huid tot allergie leidt en via de darm tot tolerantie. De CDC schat dat sinds 2010 tot 450.000 mensen getroffen kunnen zijn.",
+      "kern": "Waar het lichaam een molecuul voor het eerst tegenkomt, kan bepalen of het tolereert of aanvalt.",
+      "bron": {
+        "titel": "The Quest to Understand a Tick-Borne Allergy to Red Meat",
+        "url": "https://nautil.us/the-quest-to-understand-a-tick-borne-allergy-to-red-meat-1286918",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Alpha-gal syndrome",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Amblyomma_americanum_tick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Photo Credit: James Gathany Content Providers(s): CDC/ Mich… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Amblyomma_americanum_tick.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-02",
+      "pijler": "denken",
+      "tags": [
+        "cognitieve-bias",
+        "besluitvorming",
+        "psychologie"
+      ],
+      "titel": "Waarom je het achteraf altijd al wist",
+      "tekst": "Zodra een uitkomst bekend is, lijkt hij onvermijdelijk: \"dat zag ik aankomen\". Dat heet hindsight bias, het knew-it-all-along effect. Volgens Max Bazerman (Harvard) werkt kennis van de uitkomst als anker. Je beoordeelt je eigen eerdere inschatting vanuit het antwoord, en de bijstelling stopt te vroeg.\n\nFischhoff beschreef in 1975 hoe de oplossing onomkeerbaar in je kennis opgaat. Het gevolg: het verleden lijkt voorspelbaarder dan het was.",
+      "kern": "Wie de uitkomst kent, onthoudt zijn eigen twijfel van toen niet meer.",
+      "bron": {
+        "titel": "Hindsight Bias: Why You’re Not As Smart As You Think You Are",
+        "url": "https://fs.blog/what-is-hindsight-bias/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-24-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "archeologie",
+        "handel",
+        "oudheid"
+      ],
+      "titel": "Een Romeinse beker in een graf in Mongolië",
+      "tekst": "In Tomb 160, een grafheuvel in Noordoost-Mongolië, vonden archeologen 413 voorwerpen uit het Xiongnu-rijk, zo'n 2.000 jaar oud. Daaronder een waarschijnlijk Romeinse glazen beker, een hangertje dat lijkt op sieraden uit graven in Lelang (nu Noord-Korea) en vijftien jadevoorwerpen in Han-stijl.\n\nVolgens het National Museum of Korea laat het graf een uitwisselingsnetwerk zien \"reaching from Rome to the Korean Peninsula\".",
+      "kern": "Een rijk zonder steden kon toch een handelsnetwerk hebben dat van Rome tot Korea reikte.",
+      "bron": {
+        "titel": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+        "url": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 1,
+      "verkenning": false,
+      "beeldWiki": "Xiongnu",
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/HKH6CrROHvWABs0cTqoTGEyqwQU=/fit-in/1200x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/ab/a7aba059-db30-4732-9a53-4e3e9a6a4738/aerial-view-of-tomb.png",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/"
+      }
+    },
+    {
+      "id": "2026-11-24-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "hersenen",
+        "psychologie",
+        "cultuur"
+      ],
+      "titel": "Waarom ons brein vuurwerk zo prettig vindt",
+      "tekst": "Vuurwerk is deels voorspelbaar en deels niet, zegt hoogleraar Floris de Lange (Radboud Universiteit): \"Die combinatie van voorspelbaar en onvoorspelbaar vindt ons brein heel prettig.\" Knallen en flitsen verhogen de arousal. Als je zelf afsteekt, houd je controle en slaat dat niet om in angst.\n\nEtnoloog Peter Jan Margry (UvA) voegt toe dat vuurwerk oud en nieuw een ceremonieel gevoel geeft. Mensen houden van zulke markerende tradities.",
+      "kern": "Prettige spanning ontstaat waar verrassing en controle samenkomen.",
+      "bron": {
+        "titel": "Waarom zijn we zo gek op vuurwerk?",
+        "url": "https://www.nemokennislink.nl/publicaties/waarom-zijn-we-zo-gek-op-vuurwerk/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Fireworks",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/New_Year%27s_Eve_on_Sydney_Harbour.jpg/1280px-New_Year%27s_Eve_on_Sydney_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Rob Chandler · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_on_Sydney_Harbour.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-05",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "intuitie",
+        "expertise"
+      ],
+      "titel": "Experts kiezen niet tussen opties, ze herkennen",
+      "tekst": "Klassiek beslissingsonderzoek ging uit van het vergelijken van opties. Gary Klein vond dat experts dat zelden doen. Ze werken met recognition-primed decision making: ze herkennen de situatie, die levert verwachtingen, signalen en een actiescript, en ze nemen meestal de eerste bruikbare optie. Bij nieuwe problemen spelen ze die in hun hoofd na.\n\nKahneman en Klein (2009) noemen twee voorwaarden voor betrouwbare intuïtie: een omgeving met geldige, regelmatige signalen en genoeg kansen om te leren.",
+      "kern": "Vertrouw intuïtie alleen waar je omgeving regelmatig is en je er vaak feedback op kreeg.",
+      "bron": {
+        "titel": "Putting Mental Models to Practice Part 4: Expert Decision Making",
+        "url": "https://commoncog.com/putting-mental-models-to-practice/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-24-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "neanderthalers",
+        "archeologie",
+        "evolutie"
+      ],
+      "titel": "Een gat in een schouderblad: de Neanderthaler van Shanidar",
+      "tekst": "In Shanidar (Iraaks Koerdistan) vonden onderzoekers resten van een Neanderthaler, ongeveer 75.000 jaar oud, met een rond gat in het schouderblad. Een houten speer past daarbij, want stenen punten maken meestal een ruitvormig gat. Er zijn geen genezingssporen, dus de wond viel waarschijnlijk rond zijn dood.\n\nEen gebroken tand die jaren eerder brak, wijst op een zware gezichtsverwonding die hij overleefde. Volgens Emma Pomeroy had hij daarbij waarschijnlijk verzorging nodig.",
+      "kern": "Dezelfde botten kunnen zowel geweld als zorg vertellen.",
+      "bron": {
+        "titel": "A telling hole in a Neandertal bone hints at a bitter end",
+        "url": "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Shanidar Cave",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/3._Shanidar_cave%2C_a_paleolithic_cave_in_Bradost_Mountain%2C_Erbil_Governorate%2C_Iraqi_Kurdistan._April_4%2C_2014.jpg/1280px-3._Shanidar_cave%2C_a_paleolithic_cave_in_Bradost_Mountain%2C_Erbil_Governorate%2C_Iraqi_Kurdistan._April_4%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Osama Shukir Muhammed Amin FRCP(Glasg) · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:3._Shanidar_cave,_a_paleolithic_cave_in_Bradost_Mountain,_Erbil_Governorate,_Iraqi_Kurdistan._April_4,_2014.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-07",
+      "pijler": "denken",
+      "tags": [
+        "onderwijs",
+        "leren",
+        "toetsen"
+      ],
+      "titel": "Moeten we stoppen met cijfers geven?",
+      "tekst": "Nederlandse middelbare scholieren krijgen gemiddeld 102 cijfers per schooljaar. Rector Gert-Jan Kloos (John Dewey College) zegt: \"Leerlingen worden het cijfer.\" Sommige scholen kiezen daarom voor feedback in plaats van scores.\n\nToetsexpert Sharon Klinkenberg wil cijfers niet afschaffen maar splitsen: een acht voor Engels zegt weinig, terwijl vier voor luisteren, zes voor lezen en zeven voor spreken laat zien waar hulp nodig is. Hannah Kousbroek wijst erop dat maatschappelijke eisen het systeem bepalen.",
+      "kern": "Eén gemiddeld cijfer verbergt precies de informatie die iemand nodig heeft om te leren.",
+      "bron": {
+        "titel": "Moeten we stoppen met cijfers geven?",
+        "url": "https://www.nemokennislink.nl/publicaties/moeten-we-stoppen-met-cijfers-geven/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://images.nemokennislink.nl/uploads/full-shot-kid-cheating-school.jpg?auto=format&crop=focalpoint&domain=images.nemokennislink.nl&fit=crop&fp-x=0.6406&fp-y=0.4779&h=533&ixlib=php-3.3.1&q=82&w=800",
+        "soort": "bron",
+        "credit": "Afbeelding: nemokennislink.nl",
+        "pagina": "https://www.nemokennislink.nl/publicaties/moeten-we-stoppen-met-cijfers-geven/"
+      }
+    },
+    {
+      "id": "2026-11-24-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "vlinders",
+        "evolutie"
+      ],
+      "titel": "Een bekende vlinder bleek drie soorten te verbergen",
+      "tekst": "Colobura dirce bleek meer dan 250 jaar een verborgen soort te herbergen: Colobura cryptica. Samen met C. annulata (benoemd in 2001) zijn het er drie. Onderzoekers in Venezuela zagen dat rupsen van C. cryptica de bleke lichaamsmarkeringen missen. Daarna bekeken ze 670 museumexemplaren opnieuw, met DNA-analyse en vergelijking van vleugels.\n\nVolwassen vlinders zijn nauwelijks te onderscheiden. Twee soorten leven vooral in het bladerdak, C. dirce in het struikgewas.",
+      "kern": "Soorten die identiek lijken, kunnen in rupsenstadium en DNA toch gescheiden zijn.",
+      "bron": {
+        "titel": "This Well-Known Butterfly is Actually Three Species in Disguise",
+        "url": "https://nautil.us/this-well-known-butterfly-is-actually-three-species-in-disguise-1286972",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Colobura dirce",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Dirce_Beauty_Colobura_dirce.jpg/1280px-Dirce_Beauty_Colobura_dirce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Richard Bartz · CC BY-SA 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Dirce_Beauty_Colobura_dirce.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "middeleeuwen",
+        "handschriften",
+        "voortekenen"
+      ],
+      "titel": "Doomscrollen in de zestiende eeuw",
+      "tekst": "Het \"Book of Miracles\" bevat 167 schilderingen van overstromingen, kometen en andere voortekenen, elk met een Duitstalig bijschrift. Het is waarschijnlijk in Augsburg gemaakt. Volgens Eugenio Donadoni van Christie's zijn de gebeurtenissen \"signs of something greater\"; hij noemt het een zestiende-eeuwse versie van doomscrolling.\n\nSommige beelden zijn mogelijk natuurverschijnselen: de vijf zonnen boven Leipzig in 1551 zijn waarschijnlijk een parhelium. Het manuscript gaat op 10 december naar veiling.",
+      "kern": "Wie de wereld als reeks tekens leest, ziet in natuurverschijnselen een boodschap.",
+      "bron": {
+        "titel": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+        "url": "https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Book of Miracles Augsburg",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_90_%28Tiber_Monster%29.jpg/1280px-Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_90_%28Tiber_Monster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Heinrich Vogtherr the Younger · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Augsburger_Wunderzeichenbuch_%E2%80%94_Folio_90_(Tiber_Monster).jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-10",
+      "pijler": "denken",
+      "tags": [
+        "markten",
+        "feedback",
+        "economie"
+      ],
+      "titel": "Winner takes all: hoe kleine voorsprongen groot worden",
+      "tekst": "Markten verdelen aandeel en winst ongelijk: in elke branche komen enkele leiders bovendrijven. Het mechanisme is feedback. Succes versterkt zichzelf en maakt van kleine beginverschillen \"enormous differences\". Daarbij komt lock-in, want overstappen is vaak te duur.\n\nWinnaars lijken achteraf onvermijdelijk, maar toeval speelt mee en de mislukkers vallen uit beeld. Marc Andreessen zei in 2013: het nummer één krijgt \"like 90 percent of the profits\".",
+      "kern": "Wat winnaars lijkt te verklaren, is vaak een zichzelf versterkende lus plus een portie toeval.",
+      "bron": {
+        "titel": "Winner Takes it All: How Markets Favor the Few at the Expense of the Many",
+        "url": "https://fs.blog/mental-model-winner-take-all/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://fs.blog/wp-content/uploads/2018/09/Winner-Take-All.png",
+        "soort": "bron",
+        "credit": "Afbeelding: fs.blog",
+        "pagina": "https://fs.blog/mental-model-winner-take-all/"
+      }
+    },
+    {
+      "id": "2026-11-24-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "biologie",
+        "kikkers",
+        "nieuwe-soorten"
+      ],
+      "titel": "Een nieuwe vliegende kikker hangt zijn eieren aan een draad",
+      "tekst": "Op Sulawesi vonden onderzoekers een nieuwe soort vliegende kikker, Rhacophorus kurniatia, in de Mekongga-bergen. Hij onderscheidt zich door zijn eileggedrag: de eieren hangen in gelatineuze massa's boven of nabij water, in plaats van in de gebruikelijke schuimnesten.\n\nNa vier jaar werk onderzocht het team honderden kikkers. De soort heeft een puntige snuit en een afwijkende roep en is een cryptische soort: bijna gelijk aan andere soorten. Hij is vernoemd naar Hellen Kurniati, die in 2024 overleed.",
+      "kern": "Gedrag en roep onderscheiden soorten die er hetzelfde uitzien.",
+      "bron": {
+        "titel": "New Species of Flying Frog Discovered in Indonesia",
+        "url": "https://nautil.us/new-species-of-flying-frog-discovered-in-indonesia-1286962",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Rhacophorus flying frog",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Rhacophorus_nigropalmatus.jpg/1280px-Rhacophorus_nigropalmatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Rushenb · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Rhacophorus_nigropalmatus.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-12",
+      "pijler": "geschiedenis",
+      "tags": [
+        "steentijd",
+        "landbouw",
+        "archeologie"
+      ],
+      "titel": "Een man die tussen jagen en boeren leefde",
+      "tekst": "De Rødhals Man, in 1956 gevonden op het Deense eiland Sejerø, leefde volgens nieuw onderzoek ongeveer 6.000 jaar geleden. Als kind at hij vooral zeedieren. Rond zijn elfde kwam daar meer landgebaseerd eiwit bij.\n\nDe onderzoekers denken dat hij deels op Zealand bij boeren leefde en deels op Sejerø viste en verzamelde. Ook zijn begrafenis lijkt meer op die van vroege boeren. Hij werd 30 tot 40 jaar.",
+      "kern": "De overgang naar landbouw was voor sommigen geen sprong maar een leven met twee voeten in twee werelden.",
+      "bron": {
+        "titel": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+        "url": "https://www.smithsonianmag.com/smart-news/from-a-small-island-in-denmark-this-man-lived-through-the-transition-from-hunter-gathering-to-farming-6000-years-ago-180989889/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "Sejerø Denmark",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Landbrug_med_udsigt_over_Sejer%C3%B8_Bugten.jpg/1280px-Landbrug_med_udsigt_over_Sejer%C3%B8_Bugten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Odsherred Kommune · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Landbrug_med_udsigt_over_Sejer%C3%B8_Bugten.jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-13",
+      "pijler": "denken",
+      "tags": [
+        "speltheorie",
+        "besluitvorming",
+        "denkmodellen"
+      ],
+      "titel": "Speltheorie: kies met het antwoord van de ander in gedachten",
+      "tekst": "Een spel heeft minstens twee spelers, elk met een reeks strategieën. De gekozen strategieën bepalen de uitkomst, en elke uitkomst heeft uitbetalingen. Iedere speler streeft naar de hoogste uitbetaling, rekening houdend met wat de ander kiest.\n\nIn oligopolies levert dat spanning op tussen samenwerken en eigenbelang. Het klassieke tweespelersvoorbeeld is het gevangenendilemma. Wie een beslissing neemt, kan dus beter vragen: wat doet de ander als ik dit doe?",
+      "kern": "Een keuze is pas goed als je de reactie van de ander meeweegt.",
+      "bron": {
+        "titel": "Mental Model: Game Theory",
+        "url": "https://fs.blog/mental-model-game-theory/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Prisoner's dilemma",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-24-14",
+      "pijler": "denken",
+      "tags": [
+        "ondernemen",
+        "media",
+        "cognitieve-bias"
+      ],
+      "titel": "Hoe Elizabeth Holmes eerst een heldin werd en toen een verleidster",
+      "tekst": "Tussen 2013 en 2015 werd Elizabeth Holmes neergezet als een verkoopbare vrouwelijke oprichter, een antwoord op kritiek op Silicon Valley. Theranos werd in 2014 gewaardeerd op circa 9 miljard dollar. Na de val in 2018 veranderde het beeld: ze zou mannelijke investeerders hebben \"verleid\".\n\nVolgens Kate Kenny en Susi Geiger dient dat tweede verhaal investeerders en bestuurders. Zij waren dan slachtoffer van een slimme vrouw in plaats van partijen die basale due diligence nalieten.",
+      "kern": "Een verhaal over wie schuldig is, verbergt vaak wie er niet goed keek.",
+      "bron": {
+        "titel": "Elizabeth Holmes went from a startup darling to powerful seductress – these gendered portrayals profited investors",
+        "url": "https://theconversation.com/elizabeth-holmes-went-from-a-startup-darling-to-powerful-seductress-these-gendered-portrayals-profited-investors-296733",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Elizabeth Holmes",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Photo by Max Morse for TechCrunch TechCrunch · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Elizabeth_Holmes_2014_(cropped_2).jpg"
+      }
+    },
+    {
+      "id": "2026-11-24-15",
+      "pijler": "geschiedenis",
+      "tags": [
+        "klimaat",
+        "el-nino",
+        "hongersnood"
+      ],
+      "titel": "El Niño: een weerfenomeen met een menselijke kant",
+      "tekst": "El Niño is de oceanische uiting van een enorme luchtdrukschommeling boven de Stille Oceaan. Verzwakken de passaatwinden, dan stroomt het warme water van het westen naar het oosten. Camilo Carrillo introduceerde de term in 1892 in de wetenschap.\n\nHistoricus Dagomar Degroot stelt dat rampen minder door extreem weer ontstaan dan door hoe gemeenschappen worden uitgebuit. De El Niño van 2026 zou de sterkste in 1.000 jaar kunnen zijn.",
+      "kern": "Een weerfenomeen wordt pas een ramp door de maatschappij die het ontvangt.",
+      "bron": {
+        "titel": "A colossal oscillation",
+        "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "El Niño",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/NOAA_Nino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Content published by Rebecca Lindsey and reviewed by Tom Di… · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:NOAA_Nino.jpg"
+      }
+    }
+  ]
+}
