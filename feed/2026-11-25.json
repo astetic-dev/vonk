@@ -1,0 +1,398 @@
+{
+  "datum": "2026-11-25",
+  "kaarten": [
+    {
+      "id": "2026-11-25-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "gentechnologie",
+        "dna",
+        "celbiologie"
+      ],
+      "titel": "Gene editing werkt omdat cellen zichzelf al repareren",
+      "tekst": "Sommige cellen krijgen tot 100.000 DNA-beschadigingen per dag, zegt Björn Schumacher. Ze overleven doordat meer dan 500 eiwitten betrokken zijn bij het herstellen van die schade. Gene editing leent dat systeem: onderzoekers maken een gerichte breuk in het DNA en laten de cel zelf het gat dichten, eventueel met een nieuw gen als sjabloon.\n\nBase editing mijdt de breuk en zet de reparatie van één letter in gang. Perfect is dat niet: een studie uit 2026 vond base editing nog niet nauwkeurig genoeg voor menselijke embryo's.",
+      "kern": "Gene editing is geen eigen gereedschap, maar een opdracht aan het reparatiesysteem dat cellen al miljarden jaren hebben.",
+      "bron": {
+        "titel": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+        "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "DNA repair",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Brokechromo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "onbekend · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Brokechromo.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-02",
+      "pijler": "geschiedenis",
+      "tags": [
+        "filosofie",
+        "david-hume",
+        "kennisleer"
+      ],
+      "titel": "Hume en het probleem dat de zon morgen opkomt",
+      "tekst": "Waarom verwachten we dat de zon morgen opkomt? Omdat het altijd zo ging, zeggen we. Maar David Hume zag in 1739 dat dit veronderstelt dat de toekomst lijkt op het verleden, het \"Uniformity Principle\". Bewijzen kan dat niet, want het tegendeel is geen tegenspraak. Aannemelijk maken kan het ook niet: dat redeneert al in een cirkel, omdat het precies dat principe nodig heeft.\n\nBertrand Russell vond het ernst: lukt het niet dit op te lossen, dan is er geen intellectueel verschil tussen gezond verstand en waanzin.",
+      "kern": "Elke voorspelling steunt op een aanname over de toekomst die we nooit kunnen bewijzen.",
+      "bron": {
+        "titel": "The Problem of Induction",
+        "url": "https://plato.stanford.edu/entries/induction-problem/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "David Hume",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/1280px-David_Hume_Ramsay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Allan Ramsay · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-03",
+      "pijler": "denken",
+      "tags": [
+        "organisaties",
+        "systeemdenken",
+        "software"
+      ],
+      "titel": "Het product lijkt op het bedrijf: de wet van Conway",
+      "tekst": "Programmeur Melvin Conway schreef in 1968 in Datamation, in het artikel \"How do Committees Invent?\", dat organisaties ontwerpen maken die \"copies of the communication structures of these organizations\" zijn. Deelnemers aan een symposium over modulair programmeren in 1968 noemden het Conway's law.\n\nHet mechanisme is simpel: onderdelen werken alleen samen als hun makers met elkaar praten over compatibiliteit. Waar communicatie moeilijk is, komt een naad in het product. Later onderzoek bij onder meer Microsoft en FreeBSD toetste het idee. Of de organisatie het ontwerp bepaalt of andersom, blijft omstreden.",
+      "kern": "Wie een beter product wil, moet vaak eerst de gesprekken tussen teams veranderen.",
+      "bron": {
+        "titel": "Conway's law",
+        "url": "https://en.wikipedia.org/wiki/Conway%27s_law",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Melvin Conway",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-25-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "sprinkhanen",
+        "fossielen",
+        "evolutie"
+      ],
+      "titel": "Sprinkhanen liepen 99 miljoen jaar geleden over water",
+      "tekst": "In barnsteen van 99 miljoen jaar oud vond Chunpeng Xu van het Nanjing Institute of Geology and Paleontology vleugelloze sprinkhanen met lange poten, genoemd Hydrelcana zhangi. Waterafstotende haartjes op de voorpoten lieten ze op de oppervlaktespanning rusten, en bladvormige peddels op de onderpoten dreven ze voort, anders dan bij de gewone schaatsenrijder.\n\nIn één stuk barnsteen zaten negen exemplaren, mogelijk een zwerm. Zo zouden minstens drie insectengroepen onafhankelijk geleerd hebben over water te bewegen.",
+      "kern": "Over water lopen is een truc die insecten op meerdere momenten in de evolutie onafhankelijk hebben uitgevonden.",
+      "bron": {
+        "titel": "Extinct, long-legged grasshoppers walked on water alongside dinosaurs",
+        "url": "https://www.sciencenews.org/article/extinct-grasshoppers-walked-on-water",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Water strider",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Water_strider_%28Gerridae_sp.%29_Makiling.jpg/1280px-Water_strider_%28Gerridae_sp.%29_Makiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Charles J. Sharp · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Water_strider_(Gerridae_sp.)_Makiling.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-05",
+      "pijler": "denken",
+      "tags": [
+        "consumptie",
+        "economie",
+        "duurzaamheid"
+      ],
+      "titel": "Het ongemak achter Black Friday: groener kopen is niet minder kopen",
+      "tekst": "Op 28 november 2025 lokte Black Friday weer miljoenen kopers, en velen voelen daarbij ongemak. Green Friday kan helpen, maar echte verandering vraagt om minder consumptie, niet alleen groenere. Consumptiesocioloog Hans Dagevos zegt: \"Om schade aan milieu en klimaat te beperken, moeten we echt afscheid nemen van de wegwerpcultuur.\"\n\nPoliticoloog Kees Klomp schat dat 65 procent van de economie draait om het bevredigen van begeerte en 35 procent om echte behoeften. Hij pleit voor een totaal andere kijk op de economie.",
+      "kern": "Duurzaam leven begint niet bij een groener product, maar bij de vraag of je het nodig hebt.",
+      "bron": {
+        "titel": "Het ongemak achter Black Friday",
+        "url": "https://nemokennislink.nl/publicaties/het-ongemak-achter-black-friday/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Black Friday (shopping)",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Black_Friday_by_Powhusku.jpg/1280px-Black_Friday_by_Powhusku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Powhusku from Laramie, WY, USA · CC BY-SA 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Black_Friday_by_Powhusku.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-06",
+      "pijler": "wetenschap",
+      "tags": [
+        "aarde",
+        "water",
+        "planeetvorming"
+      ],
+      "titel": "Kwam het water van de aarde uit de ruimte, of uit gesmolten steen?",
+      "tekst": "Meestal luidt het verhaal dat kometen of meteorieten het water brachten. Een studie in Nature Geoscience stelt dat de aarde het deels zelf maakte. Terwijl de jonge planeet groeide, regenden ijzerhoudende silicaatsteentjes neer die reageerden met waterstof uit de atmosfeer. Bij hoge druk en tot ruim 1.400 graden in het lab raakte bijna 80 procent van het ijzeroxide zijn zuurstof kwijt, met waterdamp als bijproduct.\n\nDat zou ongeveer 200 oceanen opleveren. Volgens Zachary Sharp zou vrijwel elke planeet ter grootte van de aarde zo water krijgen.",
+      "kern": "Water is misschien geen geschenk uit de ruimte, maar een bijproduct van hoe rotsplaneten groeien.",
+      "bron": {
+        "titel": "Earth's Water May Have Formed in This Fiery Furnace",
+        "url": "https://nautil.us/earths-water-may-have-formed-in-this-fiery-furnace-1287019",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-fire.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: nautil.us",
+        "pagina": "https://nautil.us/earths-water-may-have-formed-in-this-fiery-furnace-1287019"
+      }
+    },
+    {
+      "id": "2026-11-25-07",
+      "pijler": "geschiedenis",
+      "tags": [
+        "neanderthalers",
+        "tandheelkunde",
+        "archeologie"
+      ],
+      "titel": "Neanderthalers boorden 59.000 jaar geleden al in een kies",
+      "tekst": "In de Chagyrskaya-grot in Siberië vond men een kies van 59.000 jaar oud met een diepe opening van het kauwvlak tot in de pulpaholte. Onder de microscoop wijst dat op een dun stenen werktuig, een paar centimeter lang, dat tussen de vingertoppen werd rondgedraaid om ontstoken weefsel te verwijderen.\n\nHet is het oudste bewijs van tandheelkunde, ruim 40.000 jaar ouder dan het vorige record. Bruce Hardy noemt het \"clearly evidence of a deliberate, planned intervention\". De groeven van een tandenstoker wijzen mogelijk op pijnverlichting.",
+      "kern": "Neanderthalers herkenden een zieke kies en probeerden die gericht te behandelen.",
+      "bron": {
+        "titel": "First evidence of Neandertal dentistry found in ancient molar",
+        "url": "https://www.sciencenews.org/article/first-evidence-neandertal-dentist-molar",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Chagyrskaya Cave",
+      "beeld": {
+        "url": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/05/051326_TM_neandertal_neandertaldentistry.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: sciencenews.org",
+        "pagina": "https://www.sciencenews.org/article/first-evidence-neandertal-dentist-molar"
+      }
+    },
+    {
+      "id": "2026-11-25-08",
+      "pijler": "denken",
+      "tags": [
+        "energie",
+        "economie",
+        "systeemdenken"
+      ],
+      "titel": "Zuiniger stoommachines, meer steenkool: de paradox van Jevons",
+      "tekst": "Toen James Watt de stoommachine van Thomas Newcomen efficiënter maakte, daalde het steenkoolverbruik van Engeland niet. Het steeg sterk. De econoom William Stanley Jevons beschreef dat in 1865 in The Coal Question: \"It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption.\"\n\nHet mechanisme: efficiëntie maakt gebruik goedkoper, en is de vraag prijsgevoelig, dan stijgt het gebruik harder dan de besparing. Bij 20 procent efficiënter en 40 procent meer ritten neemt het verbruik toe. Bij 10 procent meer ritten niet.",
+      "kern": "Een zuiniger techniek bespaart pas echt als de vraag er niet door groeit.",
+      "bron": {
+        "titel": "Jevons paradox",
+        "url": "https://en.wikipedia.org/wiki/Jevons_paradox",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "William Stanley Jevons",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/William_Stanley_Jevons_portrait_extract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown (via University of Manchester Libraries) · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:William_Stanley_Jevons_portrait_extract.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-09",
+      "pijler": "wetenschap",
+      "tags": [
+        "planten",
+        "thermogenese",
+        "biologie"
+      ],
+      "titel": "De stinkkool die zichzelf verwarmt als een kachel",
+      "tekst": "Stinkkool (Symplocarpus foetidus) houdt zijn bloemtros ongeveer twee weken op 15 tot 22 graden, terwijl het buiten ver onder nul kan zijn. Volgens Roger Seymour (Adelaide University) heeft de bloem een van de hoogste energieproducties van alle organismen.\n\nHet mechanisme: zetmeel uit de wortels wordt suiker, en in de mitochondriën zorgen speciale eiwitten dat energie die als ATP had kunnen worden opgeslagen, als warmte vrijkomt. Hoe de plant die warmte regelt, weet niemand: \"We've been trying to find out for over 50 years.\"",
+      "kern": "Een plant kan zichzelf verwarmen, en na ruim vijftig jaar onderzoek begrijpen we niet hoe ze dat regelt.",
+      "bron": {
+        "titel": "The Flower with a Flame Inside",
+        "url": "https://nautil.us/the-flower-with-a-flame-inside-1286982",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Symplocarpus foetidus",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/SKUNKCABBAGE-MOSS-400X575.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Sue Sweeney. · CC BY-SA 3.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:SKUNKCABBAGE-MOSS-400X575.jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-10",
+      "pijler": "denken",
+      "tags": [
+        "psychologie",
+        "cultuur",
+        "geestelijke-gezondheid"
+      ],
+      "titel": "Hoe een overlijden in Hongkong anorexia veranderde",
+      "tekst": "In november 1994 stierf de 14-jarige Charlene Hsu Chi-Ying in Hongkong door zelfhongering. Daarna nam het westerse anorexiamodel de plaats in. Psychiater Sing Lee zag dat patiënten vóór 1994 vooral lichamelijke klachten noemden, en in 2007 meer dan driekwart \"fat phobia\".\n\nFilosoof Alexander Pereira betoogt dat cultuur dieper op psychische stoornissen kan ingrijpen dan vaak gedacht, mogelijk tot in de onderliggende hersenmechanismen. Een studie vond bij 3.703 depressiepatiënten 1.030 verschillende symptoomcombinaties.",
+      "kern": "Wat we een stoornis noemen, wordt mede gevormd door het verhaal dat een cultuur erover heeft.",
+      "bron": {
+        "titel": "Is mental illness universal?",
+        "url": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-25-11",
+      "pijler": "geschiedenis",
+      "tags": [
+        "maritieme-archeologie",
+        "napoleontische-oorlogen",
+        "scheepswrak"
+      ],
+      "titel": "Het vlaggenschip van Kopenhagen is na 225 jaar teruggevonden",
+      "tekst": "Op 2 april 1801 explodeerde het Deense vlaggenschip Dannebroge tijdens de Slag bij Kopenhagen, toen Nelson met 39 schepen aanviel. Het wrak kende men alleen uit schilderijen en geschiedenisboeken. Nu hebben archeologen van het Vikingschepenmuseum in Roskilde het op de bodem van de haven gevonden, bij ongeveer 15 meter diepte en zicht bijna nul.\n\nEr is haast: op die plek ontstaat het kunstmatige eiland Lynetteholm. Als de eerste fase in 2029 opent, zijn de resten onbereikbaar. Tot nu toe kwamen twee kanonnen boven, plus schoenen en kleipijpen.",
+      "kern": "Archeologie is soms een race tegen de bouwvakkers, en wat daarin verloren gaat, komt nooit terug.",
+      "bron": {
+        "titel": "This Danish Warship Exploded in Battle 225 Years Ago. Now, Archaeologists Are Racing to Recover Its Artifacts",
+        "url": "https://www.smithsonianmag.com/smart-news/this-danish-warship-exploded-in-battle-225-years-ago-now-archaeologists-are-racing-to-recover-its-artifacts-180988493/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Battle of Copenhagen (1801)",
+      "beeld": {
+        "url": "https://th-thumbnailer.cdn-si-edu.com/0R63C4X6brG0ypSEVX3AaKaTaN4=/fit-in/1200x0/filters:focal(900x604:901x605)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e1/0b/e10b8d5e-b956-4363-adbd-0ff667680077/stoneware_string_leather_wood_from_the_suction_dredge_bag.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: smithsonianmag.com",
+        "pagina": "https://www.smithsonianmag.com/smart-news/this-danish-warship-exploded-in-battle-225-years-ago-now-archaeologists-are-racing-to-recover-its-artifacts-180988493/"
+      }
+    },
+    {
+      "id": "2026-11-25-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "voeding",
+        "brein",
+        "ultrabewerkt-voedsel"
+      ],
+      "titel": "Verandert ultrabewerkt eten de hersenen van jongvolwassenen?",
+      "tekst": "Tweeëntwintig volwassenen van 18 tot 25 jaar aten twee weken lang een dieet met 81 procent ultrabewerkt voedsel, en een andere periode helemaal geen, bij gelijke verdeling van koolhydraten, vet en eiwit. Daarna kregen ze via een rietje een milkshake terwijl een fMRI hun hersenen scande.\n\nOver de hele groep was er geen verschil. Bij de zeven jongsten (18 tot 21) zakte het signaal in de orbitofrontale cortex, betrokken bij smaakbeloning, na het ultrabewerkte dieet. De onderzoekers noemen het voorlopig.",
+      "kern": "Misschien zijn jonge hersenen gevoeliger voor ultrabewerkt eten, maar dit kleine onderzoek is nog geen bewijs.",
+      "bron": {
+        "titel": "Does Junk Food Alter Brain Function More in Younger People?",
+        "url": "https://nautil.us/does-junk-food-alter-brain-function-more-in-younger-people-1287005",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Milkshake",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Strawberry_milk_shake_%28cropped%29.jpg/1280px-Strawberry_milk_shake_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Renee Comet (Photographer) · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Strawberry_milk_shake_(cropped).jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "primaten",
+        "taal"
+      ],
+      "titel": "Arenden die bavianen grijpen: een bedreiging voor onze voorouders?",
+      "tekst": "Een Verreaux's-arend weegt ongeveer 5 kilo, een volwassen baviaan 22 tot 26. Toch wijzen drie schedels met gaten door de oogkassen en sneden op schouderbladen uit Tsjaad erop dat arenden volwassen bavianen doden, mogelijk door ze van klippen te gooien.\n\nBavianen schreeuwen waarschuwingen en klimmen naar veilige richels, maar alleen voor deze arend. Cat Hobaiter vermoedt dat zulke dreiging uit de lucht vroege mensachtigen naar hechtere groepen en vocale strategieën dreef, voorlopers van taal. Dat blijft een hypothese.",
+      "kern": "Een gevaar uit de lucht kan samenwerking en communicatie hebben gevormd, al is dit voorlopig een hypothese.",
+      "bron": {
+        "titel": "Eagles can prey on adult baboons. Did our ancestors face that threat?",
+        "url": "https://www.sciencenews.org/article/eagles-prey-adult-baboon-human-ancestor",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Verreaux's eagle",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Verreaux%27s_Eagle_%28Black_Eagle%29%2C_Aquila_verreauxii%2C_at_Walter_Sisulu_National_Botanical_Garden%2C_Gauteng%2C_South_Africa_%2828825027073%29.jpg/1280px-Verreaux%27s_Eagle_%28Black_Eagle%29%2C_Aquila_verreauxii%2C_at_Walter_Sisulu_National_Botanical_Garden%2C_Gauteng%2C_South_Africa_%2828825027073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Derek Keats from Johannesburg, South Africa · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Verreaux%27s_Eagle_(Black_Eagle),_Aquila_verreauxii,_at_Walter_Sisulu_National_Botanical_Garden,_Gauteng,_South_Africa_(28825027073).jpg"
+      }
+    },
+    {
+      "id": "2026-11-25-14",
+      "pijler": "geschiedenis",
+      "tags": [
+        "taal",
+        "minderheidstalen",
+        "sociolinguistiek"
+      ],
+      "titel": "Minderheidstalen worden erkend, maar vooroordeel blijft",
+      "tekst": "\"How very rude to be speaking Welsh.\" Dat kreeg een Welshleerling in een café in Cardiff te horen. Volgens sociolinguïst Kaisa Pankakoski zijn houdingen tegenover minderheidstalen verbeterd door erkenning en zichtbaarheid, maar het vooroordeel bestaat nog, vaak subtiel.\n\nDat telt, want of ouders hun taal doorgeven bepaalt of die overleeft. Alleen positieve houdingen zijn niet genoeg: mensen moeten de taal ook dagelijks kunnen gebruiken en zich geaccepteerd voelen. Leerlingen met Welshtalig onderwijs denken gunstiger over de taal.",
+      "kern": "Een taal overleeft niet door erkenning alleen, maar door ruimte om haar dagelijks te gebruiken.",
+      "bron": {
+        "titel": "From Wales to Finland, minority language speakers still face prejudice",
+        "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Welsh language",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Welsh_speakers_in_the_2021_census.svg/1280px-Welsh_speakers_in_the_2021_census.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Isochrone · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Welsh_speakers_in_the_2021_census.svg"
+      }
+    },
+    {
+      "id": "2026-11-25-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "ecologie",
+        "insecten",
+        "burgerwetenschap"
+      ],
+      "titel": "Wat er allemaal bij jou thuis rondkruipt",
+      "tekst": "Bijna 24.000 meldingen kwamen binnen van mensen uit de Verenigde Staten en Canada die foto's maakten van dieren in hun eigen huis, via het project \"Never Home Alone\" op iNaturalist. Bradley Allf en Rob Dunn behandelden zo het binnenmilieu als een ecosysteem.\n\nHet meest gemelde beestje was het Aziatische lieveheersbeestje, gevolgd door de bruine marmerstinkwants. De huiscentipede jaagt op andere plaagdieren: jonge dieren hebben acht poten en krijgen er bij elke vervelling twee bij, tot maximaal 30.",
+      "kern": "Je huis is een ecosysteem, en de meeste bewoners zie je nooit.",
+      "bron": {
+        "titel": "Meet the Bugs That Live in Your Home",
+        "url": "https://nautil.us/meet-the-bugs-that-live-in-your-home-1286978",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Scutigera coleoptrata",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Scutigera_coleoptrata_MHNT_.jpg/1280px-Scutigera_coleoptrata_MHNT_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Scutigera_coleoptrata_MHNT_.jpg"
+      }
+    }
+  ]
+}
