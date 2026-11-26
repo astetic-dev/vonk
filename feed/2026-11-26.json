@@ -1,0 +1,401 @@
+{
+  "datum": "2026-11-26",
+  "kaarten": [
+    {
+      "id": "2026-11-26-01",
+      "pijler": "wetenschap",
+      "tags": [
+        "virussen",
+        "immuunsysteem",
+        "ms",
+        "geneeskunde"
+      ],
+      "titel": "Epstein-Barr: het virus dat bijna iedereen heeft en sommigen ziek maakt",
+      "tekst": "Vrijwel iedereen krijgt het Epstein-Barr-virus; zo'n 95 procent van de volwassenen heeft antilichamen ertegen. Meestal gebeurt er niets. Bij een ongelukkige minderheid wel: epidemioloog Alberto Ascherio (Harvard) noemt EBV de primaire oorzaak van multiple sclerose. Een mogelijk mechanisme is moleculaire mimicry: het virale eiwit EBNA1 lijkt sterk op het menselijke eiwit GlialCAM, waardoor het immuunsysteem gezonde hersencellen kan aanvallen. Een studie met bloedmonsters van ruim 10 miljoen Amerikaanse militairen vond dat EBV het risico op MS met een factor 32 verhoogt.",
+      "kern": "Een virus dat bijna iedereen draagt, is gevaarlijk door hoe het immuunsysteem erop reageert.",
+      "bron": {
+        "titel": "Why Epstein-Barr is the 'everything virus'",
+        "url": "https://www.sciencenews.org/article/epstein-barr-virus-autoimmune",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "Epstein-Barr virus electron micrograph",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Electron_micrograph_showing_three_Epstein-Barr_virus_%28EBV%29_particles_colorized_pink.jpg/1280px-Electron_micrograph_showing_three_Epstein-Barr_virus_%28EBV%29_particles_colorized_pink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NIAID · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Electron_micrograph_showing_three_Epstein-Barr_virus_(EBV)_particles_colorized_pink.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-02",
+      "pijler": "denken",
+      "tags": [
+        "besluitvorming",
+        "cognitieve-bias",
+        "marketing"
+      ],
+      "titel": "Een lokaas dat ratten in de val laat lopen",
+      "tekst": "Een truc uit de marketing werkt ook op ratten. Onderzoekers van de University of Sydney zetten rond vallen 'phantom decoys': metalen shakers met pindakaasballetjes waarvan de ratten de geur roken, maar die ze niet konden bereiken. Daardoor werd het gewone brood in de val aantrekkelijker, zoals een dure wijn op de kaart de middenprijs aantrekkelijker maakt. Het resultaat: 83 procent meer ingangen in de broodvallen.\n\nStonden de shakers achterin de tunnel, dan bleef het aantal ingangen laag. Alleen de geur verklaart het effect dus niet.",
+      "kern": "Een optie die niemand kan kiezen, kan toch bepalen wat anderen kiezen.",
+      "bron": {
+        "titel": "This Clever Marketing Tactic Works on Rats Too",
+        "url": "https://nautil.us/this-clever-marketing-tactic-works-on-rats-too-1287070",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Brown rat",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Brown_Rat_%28Rattus_norvegicus%29.jpg/1280px-Brown_Rat_%28Rattus_norvegicus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Dunpharlain · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Brown_Rat_(Rattus_norvegicus).jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-03",
+      "pijler": "geschiedenis",
+      "tags": [
+        "oudheid",
+        "schrift",
+        "archeologie",
+        "ontcijfering"
+      ],
+      "titel": "De schijf van Phaistos: 242 tekens zonder lezer",
+      "tekst": "Op 3 juli 1908 vond archeoloog Luigi Pernier op Kreta, in het Minoïsche paleis van Phaistos, een kleischijf van ongeveer 16 centimeter doorsnee. Op beide zijden staan 242 tekens in 45 soorten, elk met een apart stempel in de natte klei gedrukt vóór het bakken. Daarom wordt de schijf wel gezien als een vroeg voorbeeld van losse letters, al is dat een interpretatie. Een algemeen erkende ontcijfering bestaat niet; het is zelfs niet zeker dat het om schrift gaat. Ook de datering is omstreden.",
+      "kern": "Soms is het enige zekere aan een tekst dat iemand hem zorgvuldig heeft gemaakt.",
+      "bron": {
+        "titel": "Phaistos Disc",
+        "url": "https://en.wikipedia.org/wiki/Phaistos_Disc",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Phaistos Disc",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Phaistos_Disc_%E2%80%94_Side_A.jpg/1280px-Phaistos_Disc_%E2%80%94_Side_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Gleb Simonov · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Phaistos_Disc_%E2%80%94_Side_A.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-04",
+      "pijler": "wetenschap",
+      "tags": [
+        "evolutie",
+        "reptielen",
+        "slangen"
+      ],
+      "titel": "De pootloze geckko die zich als slang ontwikkelde",
+      "tekst": "Australische pootloze geckko's, de pygopods, lijken in lichaamsbouw en dieet meer op slangen dan op andere pootloze hagedissen. Onderzoekers analyseerden DNA van alle 50 pygopod-soorten en vergeleken proporties met meer dan 3.100 hagedis- en slangsoorten. Slangen verlengden vooral hun lichaam, pootloze hagedissen vooral hun staart; pygopods verlengden allebei. Ook hun dieet is breder dan dat van bijna elke andere reptielgroep. Het is een preprint van onder anderen Ian Brennan (Queensland Museum), nog niet beoordeeld door vakgenoten.",
+      "kern": "Verschillende diergroepen kunnen langs eigen wegen op dezelfde slangachtige vorm uitkomen.",
+      "bron": {
+        "titel": "Australia's legless geckos evolved like snakes did",
+        "url": "https://www.sciencenews.org/article/legless-geckos-evolved-like-snakes",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "pygopod legless lizard",
+      "beeld": {
+        "url": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/111726_JB_pygopods_main.jpg",
+        "soort": "bron",
+        "credit": "Afbeelding: sciencenews.org",
+        "pagina": "https://www.sciencenews.org/article/legless-geckos-evolved-like-snakes"
+      }
+    },
+    {
+      "id": "2026-11-26-05",
+      "pijler": "denken",
+      "tags": [
+        "communicatie",
+        "verantwoording",
+        "economie"
+      ],
+      "titel": "Iedereen is een boekhouder in het dagelijks leven",
+      "tekst": "'We are all everyday accountants.' Promovendus Jack Campbell (Dublin City University) vat accounting breder op dan geld tellen: het is 'the language by which people justify their behaviour'. Het omvat meten, registreren, uitleggen, verantwoorden en evalueren. Volgens hem doen we dat dagelijks, bij een huishoudbudget, een productreview, een beoordelingsgesprek of een social-mediapost, om relaties te onderhouden en soms anderen ter verantwoording te roepen. Het woord komt van het Latijnse computare: tellen, optellen, samenvatten.",
+      "kern": "Verantwoording afleggen is geen specialisme van boekhouders, maar de taal waarmee we onze keuzes aan anderen uitleggen.",
+      "bron": {
+        "titel": "Why you should live your life like an accountant – and how you probably already do",
+        "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://images.theconversation.com/files/756555/original/file-20260827-50-t06n6w.jpg?ixlib=rb-4.1.1&rect=0%2C75%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657"
+      }
+    },
+    {
+      "id": "2026-11-26-06",
+      "pijler": "geschiedenis",
+      "tags": [
+        "media",
+        "zuid-afrika",
+        "vrouwen",
+        "cultuur"
+      ],
+      "titel": "Drum magazine: de vrouwen achter het glamourblad",
+      "tekst": "In 1951 begon in Zuid-Afrika 'The African Drum', drie jaar na de wettelijke invoering van apartheid; later kwamen er vijf regionale edities in acht landen. Volgens Wanjirũ Mbure speelden vrouwen een grotere rol in het blad dan vaak wordt gedacht, als schrijvers, lezeressen en onderwerp. Ze beschrijft de 'femme urbAfricana': een vrouw die een legitieme plek in de stad opeist. Maar redacteuren schrapten ook: bij de Keniaanse schoonheidsspecialiste Gladys Nguyo verdwenen verwijzingen naar haar werk voor vrouwen van Britse militairen, waardoor ze 'apolitiek' leek.",
+      "kern": "Een glamourblad kon tegelijk ruimte geven aan vrouwen en hun politiek wegredigeren.",
+      "bron": {
+        "titel": "African glamour: the bold women who styled, wrote and read Drum magazine",
+        "url": "https://theconversation.com/african-glamour-the-bold-women-who-styled-wrote-and-read-drum-magazine-294183",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Drum (magazine)",
+      "beeld": {
+        "url": "https://images.theconversation.com/files/770832/original/file-20261109-78-ul6oy1.png?ixlib=rb-4.1.1&rect=0%2C33%2C1440%2C720&q=45&auto=format&w=1356&h=668&fit=crop",
+        "soort": "bron",
+        "credit": "Afbeelding: theconversation.com",
+        "pagina": "https://theconversation.com/african-glamour-the-bold-women-who-styled-wrote-and-read-drum-magazine-294183"
+      }
+    },
+    {
+      "id": "2026-11-26-07",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "sterren",
+        "telescopen"
+      ],
+      "titel": "Twee sterren in Andromeda smolten voor het oog van Webb samen",
+      "tekst": "In het Andromedastelsel, zo'n 2,5 miljoen lichtjaar van ons, slokte een superreus van ongeveer zeven zonsmassa's een ster op van ongeveer een tiende van die massa. Het proces heet common envelope evolution: de kleine ster kwam in de gasomhulling van de grote, verloor baanenergie en werd naar binnen getrokken, waarna beide samensmolten.\n\nZulke fusies waren vooral theorie. Met de James Webb-telescoop kon een team, met onder anderen Nadia Blagorodnova en Kishalay De, het systeem volgen vóór, tijdens en na de fusie.",
+      "kern": "Een stellaire fusie is nu niet langer alleen een model, maar een gebeurtenis die we hebben zien gebeuren.",
+      "bron": {
+        "titel": "When Stars Collide: Astronomers Have Spotted a First-of-Its-Kind Stellar Merger",
+        "url": "https://nautil.us/when-stars-collide-astronomers-have-spotted-a-first-of-its-kind-stellar-merger-1287081",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Andromeda Galaxy",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/M31-Andromede-16-09-2023-Hamois.jpg/1280px-M31-Andromede-16-09-2023-Hamois.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Lviatour · CC BY-SA 2.5 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:M31-Andromede-16-09-2023-Hamois.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-08",
+      "pijler": "wetenschap",
+      "tags": [
+        "geneesmiddelen",
+        "economie",
+        "gezondheid"
+      ],
+      "titel": "Een medicijn van 35 cent dat 63.500 euro per jaar kost",
+      "tekst": "Tiratricol is een zeventig jaar oud schildkliermedicijn, in Frankrijk ongeveer 35 cent per tablet. Toen het bleek te helpen bij MCT8-deficiëntie, een aandoening waarbij te weinig schildklierhormoon de hersenen bereikt, werd het veel duurder: Egetis communiceerde een jaarprijs van 63.500 tot 95.000 euro per patiënt, terwijl onderzoekers een gerechtvaardigde prijs berekenden van ongeveer 5.300 tot 27.600 euro. Het middel lijkt op het hormoon T3 en kan cellen binnen zonder het defecte transporteiwit, maar het geneest niet: bestaande hersenschade herstelt het niet.",
+      "kern": "Een nieuwe toepassing van een oud, goedkoop middel kan het onbetaalbaar maken.",
+      "bron": {
+        "titel": "Hoe een goedkoop schildkliermedicijn onbetaalbaar werd",
+        "url": "https://nemokennislink.nl/publicaties/hoe-een-goedkoop-schildkliermedicijn-onbetaalbaar-werd/",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeld": {
+        "url": "https://images.nemokennislink.nl/uploads/pillen-en-poen.jpg?auto=format&crop=focalpoint&domain=images.nemokennislink.nl&fit=crop&fp-x=0.5&fp-y=0.5&h=533&ixlib=php-3.3.1&q=82&usm=20&w=800",
+        "soort": "bron",
+        "credit": "Afbeelding: nemokennislink.nl",
+        "pagina": "https://nemokennislink.nl/publicaties/hoe-een-goedkoop-schildkliermedicijn-onbetaalbaar-werd/"
+      }
+    },
+    {
+      "id": "2026-11-26-09",
+      "pijler": "geschiedenis",
+      "tags": [
+        "londen",
+        "17e-eeuw",
+        "stedenbouw",
+        "brand"
+      ],
+      "titel": "De brand van 1666 die Londen van steen maakte",
+      "tekst": "Op zondag 2 september 1666, kort na middernacht, brak brand uit in de bakkerij van Thomas Farriner in Pudding Lane. Tot woensdag 5 september verwoestte het vuur zo'n 13.200 tot 13.500 huizen, 86 of 87 parochiekerken en St Paul's Cathedral. Officieel zijn er maar zes tot acht doden bekend, maar historicus Neil Hanson denkt dat het er veel meer waren. Wat bleef: de Rebuilding of London Act van 1666 verbood houten gevels, en de stad werd herbouwd in steen en baksteen, met bredere straten.",
+      "kern": "Een ramp werd een bouwregel: wat brandt, wordt verboden.",
+      "bron": {
+        "titel": "Great Fire of London",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Great Fire of London",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/1280px-Great_Fire_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Unknown artist · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Great_Fire_London.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-10",
+      "pijler": "denken",
+      "tags": [
+        "wetenschapsfilosofie",
+        "metaforen",
+        "kennis"
+      ],
+      "titel": "Is wetenschap een spiegel, een spel of een gesprek?",
+      "tekst": "Onderzoekers kozen 18 metaforen uit de wetenschapsfilosofie en uit hoe wetenschappers over zichzelf praten, en lieten 91 wetenschappers en 99 leden van het publiek beoordelen hoe goed ze passen. Psycholoog Marina Dubova (Berkeley) wijst op een visuele vooringenomenheid: wetenschap is ook actief en interactief, een 'iterative dialogue with nature'.\n\nDe les: wat wetenschap precies is, blijft lastig af te bakenen, 'because science is such a versatile activity'.",
+      "kern": "Welke metafoor je voor wetenschap kiest, bepaalt wat je er wel en niet in ziet.",
+      "bron": {
+        "titel": "Is Science a Mirror, a Game, or a Conversation?",
+        "url": "https://nautil.us/is-science-a-mirror-a-game-or-a-conversation-1286671",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-26-11",
+      "pijler": "wetenschap",
+      "tags": [
+        "schimmels",
+        "krijt",
+        "evolutie"
+      ],
+      "titel": "De schimmel die het bos kreeg na de dinosaurussen",
+      "tekst": "Een schimmel met vruchtlichamen tot 50 centimeter hoog en 2,2 kilogram zwaar groeide onopgemerkt in de bossen van Yunnan, tot lokale boeren onderzoekers in 2024 waarschuwden. Dianjunus rex behoort waarschijnlijk tot een eigen familie die volgens genetische analyse ontstond na het massasterfte aan het einde van het Krijt, zo'n 65 miljoen jaar geleden. Indunil Senanayake (Kunming Institute of Botany): schimmels die dood organisch materiaal afbreken, konden in de donkere, koude jaren na de inslag beter blijven functioneren dan planten die van licht afhankelijk zijn.",
+      "kern": "Na een ramp winnen niet de sterkste, maar de organismen die van wat dood is kunnen leven.",
+      "bron": {
+        "titel": "After the dinosaurs died, the massive 'D. rex' fungus ruled the woods",
+        "url": "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldZoek": "giant mushroom fungus",
+      "geenBeeld": true
+    },
+    {
+      "id": "2026-11-26-12",
+      "pijler": "wetenschap",
+      "tags": [
+        "ecologie",
+        "scheepswrak",
+        "zee"
+      ],
+      "titel": "Een wrak van 302 meter wordt een rif",
+      "tekst": "In november 2026 is de SS United States opzettelijk tot zinken gebracht: met 302 meter het grootste kunstmatige rif ter wereld. Wetenschappers hoeven het niet te 'zaaien'. Binnen uren vormen microorganismen een biofilm die met chemische signalen larven aantrekt; binnen drie maanden vestigen zich kleine dieren en algen, in het eerste jaar de eerste harde koralen. Over vijf tot tien jaar kan de romp vol koralen en sponzen zitten, met snappers en tandbaarzen in de gangen.",
+      "kern": "Een leeg stuk staal wordt een ecosysteem, omdat het leven vanzelf volgt.",
+      "bron": {
+        "titel": "The SS United States has been deliberately sunk – this is how marine life will colonise the world's largest artificial reef",
+        "url": "https://theconversation.com/the-ss-united-states-has-been-deliberately-sunk-this-is-how-marine-life-will-colonise-the-worlds-largest-artificial-reef-294758",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "SS United States",
+      "beeld": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/StateLibQld_1_169487_United_States_%28ship%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "soort": "commons",
+        "credit": "Unknown author · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_169487_United_States_(ship).jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-13",
+      "pijler": "wetenschap",
+      "tags": [
+        "sterrenkunde",
+        "sterren",
+        "melkweg"
+      ],
+      "titel": "Bestaan hypernova's wel? Een bijzondere ster lijkt gewoner",
+      "tekst": "Sommige oude sterren in de halo van de Melkweg hebben een vreemde chemische vingerafdruk, die eerder werd uitgelegd met hypernova's: extreem energetische supernova's. Nieuwe modellen van Ralph Schönrich en Anmol Aggarwal (UCL) zetten dat op losse schroeven. Eerdere modellen namen aan dat supernova-materiaal gelijkmatig mengt met het gas voor nieuwe sterren, maar explosies verspreiden elementen asymmetrisch: zuurstof de ene kant op, nikkel de andere. Hun model paste op de waargenomen elementverhoudingen 'as well as or better than' het hypernova-model. Anna Frebel (MIT) ziet hypernova's nog als plausibel.",
+      "kern": "Een bijzondere chemische vingerafdruk hoeft niet bijzonder te zijn als explosies elementen ongelijk verspreiden.",
+      "bron": {
+        "titel": "Are hypernovas real?",
+        "url": "https://www.sciencenews.org/article/hypernovas-real-elements-space",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldZoek": "supernova remnant nebula",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/1280px-Crab_Nebula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "NASA, ESA, J. Hester and A. Loll (Arizona State University) · Public domain · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-14",
+      "pijler": "wetenschap",
+      "tags": [
+        "dementie",
+        "honden",
+        "neurowetenschap"
+      ],
+      "titel": "Oude honden krijgen iets wat op dementie lijkt",
+      "tekst": "Het brein van oude honden verandert op een manier die lijkt op dementie bij mensen. Bij honden met canine cognitive dysfunction (CCD) vond een team van Colorado State University, onder anderen Julie Moreno, afzettingen van abnormale eiwitten in dezelfde hersengebieden als bij vroege dementie. Bij honden met veel afzettingen waren de GFAP-waarden in het bloed verhoogd, een mogelijke biomarker. Volgens het artikel treft CCD meer dan een kwart van de honden ouder dan 12, en volgt het Dog Aging Project meer dan 50.000 gezelschapshonden.",
+      "kern": "Gezelschapshonden kunnen een natuurlijk model zijn om dementie te begrijpen.",
+      "bron": {
+        "titel": "Why old dogs might be able to teach Alzheimer's researchers new tricks",
+        "url": "https://theconversation.com/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-291257",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": true,
+      "beeldWiki": "Dog",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/1280px-Huskiesatrest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "M. Rehemtulla · CC BY 2.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg"
+      }
+    },
+    {
+      "id": "2026-11-26-15",
+      "pijler": "wetenschap",
+      "tags": [
+        "brein",
+        "insecten",
+        "intelligentie"
+      ],
+      "titel": "Een hommelbrein met minder dan een miljoen cellen",
+      "tekst": "Een hommel heeft minder dan een miljoen zenuwcellen en kan zich toch aanpassen door cognitie in plaats van instinct of trial and error. Volgens een commentaar in Science van Lars Chittka en Stanley Heinze zit de kracht in het paddenstoellichaam, een hersengebied voor associatief geheugen: hommels hebben ongeveer 50 keer meer Kenyon-cellen dan een fruitvlieg. Daarbij komt extra bedrading voor navigatie, waarmee ze optimale routes tussen voedselbronnen kunnen berekenen. Of dit uit een eenvoudiger insectenbrein is gegroeid, is nog onduidelijk.",
+      "kern": "Intelligentie hangt niet af van het aantal neuronen, maar van hoe ze zijn bedraad.",
+      "bron": {
+        "titel": "The Small But Mighty Brains of Bumblebees",
+        "url": "https://nautil.us/the-small-but-mighty-brains-of-bumblebees-1287067",
+        "soort": "artikel",
+        "gelezen": true
+      },
+      "leesmin": 2,
+      "verkenning": false,
+      "beeldWiki": "Bumblebee",
+      "beeld": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg/1280px-Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "soort": "commons",
+        "credit": "Ivar Leidus · CC BY-SA 4.0 · Wikimedia Commons",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Bombus_lapidarius_-_Melilotus_officinalis_-_Tallinn.jpg"
+      }
+    }
+  ]
+}
